@@ -1,0 +1,68 @@
+{
+  "pages": {
+    "dashboard.html": {
+      "sha256": "2a9b9b483de5045141831ca283ab47a3d788a7c0b7e14eb1f878257e289344ab"
+    },
+    "map.html": {
+      "sha256": "f40c558c1a8f2544043df5c33f0246b0b92a3530f95862823bd56967f0b98b3d"
+    }
+  },
+  "wells": 1362,
+  "leaflet": {
+    "version": "1.9.4",
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4",
+    "integrity": {
+      "leaflet.js": "sha512-BwHfrr4c9kmRkLw6iXFdzcdWV/PGkVgiIyIWLLlTSXzWQzxuSg4DiQUCpauz/EWjgk5TYQqX/kvn9pG1NpYfqg==",
+      "leaflet.css": "sha512-Zcn6bjR/8RZbLEpLIeOwNtzREBAJnUKESxces60Mpoj+2okopSAcSUIUOseddDm0cxnGQzxIR7vJgsLZbdLE3w=="
+    }
+  },
+  "county_boundaries": {
+    "source": "U.S. Census Bureau 2024 cartographic boundary file, 1:500,000",
+    "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip",
+    "file": "cb_2024_us_county_500k.zip",
+    "retrieved_at": "2026-11-18T23:04:51+00:00",
+    "counties": 64,
+    "sha256": {
+      ".shp": "6c169dbab41ac972a4fb4e8130a8ebdc89294b5f8ab24c12fcba7486396bb910",
+      ".dbf": "2fdde1f61bc419c906153060ff50135d40d3697ac726fe2ee4eb00c6c0f98398"
+    }
+  },
+  "inputs": {
+    "CO_Orphan_Wells_EJ_Ranked_Wells.csv": {
+      "sha256": "3daa3ce57b7f69c7e04c64335ce66545ab3e3fdd4a64fc9735d14d24d9c691f4"
+    },
+    "CO_Orphan_Wells_EJ_Ranked_Wells.sources.json": {
+      "sha256": "404e55843229b8ff54144126f62355cfee42639924f13d1ff8d91c9697c683e4"
+    },
+    "ecmc_unplugged_orphan_wells.csv": {
+      "sha256": "ccb48273a47098d35522af8e4f0f51b6203a53e94d7fa8baa03225b4e93c20bb"
+    },
+    "cogis_scout_data.csv": {
+      "sha256": "c1786b7f46673cd65883c47a4c62bc9a1223d8f436661967a06376841c74c3e3"
+    },
+    "bradenhead_summary.csv": {
+      "sha256": "e3c4a408a9b3a080988d603c2e42bb7755d1bea2c40f32628b4390ca3918aa29"
+    },
+    "cogis_casing.csv": {
+      "sha256": "88097fce33e4cbf44cb39562780347146a773d89f55dbd95689d23cf3b60f7e2"
+    },
+    "cogis_additional_cement.csv": {
+      "sha256": "803dce76171139ad099c608799707e7bcdc4e06b4d18cb02ef78db166e9b216a"
+    },
+    "bradenhead_tests.csv": {
+      "sha256": "f48340533cb26c7cfeb4b66783356ec24b1a2b2fd7ed9612de3e889e827a1187"
+    },
+    "enviroscreen_v2_blockgroups.geojson": {
+      "sha256": "b3a9367e8744926b7a394069771c96d8c6ceb021947b3021c5457f9ea54ec733"
+    },
+    "program_data.json": {
+      "sha256": "b07bd69ad37aa874bb585eb117f20fe95fa2a66c1a7e1468e9a2713bc43e9060"
+    },
+    "leaflet-1.9.4-leaflet.js": {
+      "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+    },
+    "leaflet-1.9.4-leaflet.css": {
+      "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+    }
+  }
+}

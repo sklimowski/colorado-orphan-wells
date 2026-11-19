@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="Colorado's Orphaned Well Program in public records: funding, plugging activity, the unplugged well list, legislation, and comparisons with other states.  Compiled by Subsurface Risk Analytics from public records.">
+<!--
+Leaflet is embedded in this page under its license:
+
+{{LEAFLET_LICENSE}}
+-->
+<style>
+{{LEAFLET_CSS}}
+</style>
+<style>
+{{APP_CSS}}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-home" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5V21a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1z"/></symbol>
+  <symbol id="i-dollar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1v22M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></symbol>
+  <symbol id="i-bars" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20V10M18 20V4M6 20v-4"/></symbol>
+  <symbol id="i-flag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22V4M4 4h13l-2 4 2 4H4"/></symbol>
+  <symbol id="i-map" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 6v16l7-4 8 4 7-4V2l-7 4-8-4z"/><path d="M8 2v16M16 6v16"/></symbol>
+  <symbol id="i-list" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></symbol>
+  <symbol id="i-sheet" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h8"/></symbol>
+  <symbol id="i-grid" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></symbol>
+  <symbol id="i-gauge" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 14 16 9"/><path d="M3.5 18a9.5 9.5 0 1 1 17 0"/></symbol>
+  <symbol id="i-pie" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.2 15.9A10 10 0 1 1 8 2.8"/><path d="M22 12A10 10 0 0 0 12 2v10z"/></symbol>
+  <symbol id="i-law" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M5 21h14M4 7h16M7 7l-3 7a3.5 3.5 0 0 0 6 0zM17 7l-3 7a3.5 3.5 0 0 0 6 0z"/></symbol>
+  <symbol id="i-globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></symbol>
+  <symbol id="i-key" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 2-9.6 9.6M15.5 7.5l3 3L22 7l-3-3"/></symbol>
+  <symbol id="i-link" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></symbol>
+  <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></symbol>
+  <symbol id="i-well" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 6 22M12 2l6 20M8.5 13h7M7.3 17.5h9.4M10 8h4"/><path d="M3 22h18"/></symbol>
+</svg>
+
+<aside id="side">
+  <div id="brand">
+    <span class="mark"><svg><use href="#i-well"/></svg></span>
+    <div><h1 id="pagetitle"></h1><small>Subsurface Risk Analytics</small></div>
+  </div>
+  <nav id="tabs" aria-label="Pages">
+    <div class="navsec">Program</div>
+    <a class="navitem" href="#overview" data-page="overview"><svg><use href="#i-home"/></svg>Overview</a>
+    <a class="navitem" href="#findings" data-page="findings"><svg><use href="#i-list"/></svg>Key findings</a>
+    <a class="navitem" href="#finance" data-page="finance"><svg><use href="#i-dollar"/></svg>Funding and spending</a>
+    <a class="navitem" href="#activity" data-page="activity"><svg><use href="#i-bars"/></svg>Plugging and inventory</a>
+    <a class="navitem" href="#federal" data-page="federal"><svg><use href="#i-flag"/></svg>Federal funding</a>
+    <div class="navsec">Unplugged wells</div>
+    <a class="navitem" href="#map" data-page="map"><svg><use href="#i-map"/></svg>Map</a>
+    <a class="navitem" href="#list" data-page="list"><svg><use href="#i-list"/></svg>Well list</a>
+    <a class="navitem" href="#well" data-page="well"><svg><use href="#i-sheet"/></svg>Well sheet</a>
+    <a class="navitem" href="#profile" data-page="profile"><svg><use href="#i-pie"/></svg>Well list in charts</a>
+    <a class="navitem" href="#summary" data-page="summary"><svg><use href="#i-grid"/></svg>County and project summary</a>
+    <a class="navitem" href="#records" data-page="records"><svg><use href="#i-gauge"/></svg>Bradenhead and casing records</a>
+    <div class="navsec">Law and other states</div>
+    <a class="navitem" href="#law" data-page="law"><svg><use href="#i-law"/></svg>Legislation and rules</a>
+    <a class="navitem" href="#states" data-page="states"><svg><use href="#i-globe"/></svg>State comparison</a>
+    <a class="navitem" href="#policy" data-page="policy"><svg><use href="#i-key"/></svg>Bonding and fees by state</a>
+    <div class="navsec">Reference</div>
+    <a class="navitem" href="#sources" data-page="sources"><svg><use href="#i-link"/></svg>Sources<span class="badge" id="srcBadge"></span></a>
+    <a class="navitem" href="#about" data-page="about"><svg><use href="#i-info"/></svg>About the data</a>
+  </nav>
+  <div id="sidefoot">Program figures are as published by the agencies named on each chart.  &ldquo;Derived&rdquo; marks arithmetic on published totals.</div>
+</aside>
+<div id="scrim"></div>
+
+<div id="shell">
+  <header id="top">
+    <button class="iconbtn" id="menuBtn" aria-label="Open navigation"><svg><use href="#i-menu"/></svg></button>
+    <div style="min-width:0">
+      <h2 id="pagename" style="margin:0"></h2>
+      <div id="subtitle"></div>
+    </div>
+    <div class="right">
+      <span class="chip"><svg><use href="#i-clock"/></svg>Program figures compiled <b id="asof"></b></span>
+      <button class="iconbtn" id="themeBtn" aria-label="Switch light or dark theme" title="Theme"><svg><use href="#i-moon"/></svg></button>
+    </div>
+  </header>
+  <div id="stale" role="status"></div>
+  <div id="filterbar"></div>
+  <main id="main">
+    <section id="page-overview" class="page"></section>
+    <section id="page-findings" class="page"></section>
+    <section id="page-finance" class="page"></section>
+    <section id="page-activity" class="page"></section>
+    <section id="page-federal" class="page"></section>
+    <section id="page-map" class="page"><div id="map"></div></section>
+    <section id="page-list" class="page"></section>
+    <section id="page-well" class="page"></section>
+    <section id="page-profile" class="page"></section>
+    <section id="page-summary" class="page"></section>
+    <section id="page-records" class="page"></section>
+    <section id="page-law" class="page"></section>
+    <section id="page-states" class="page"></section>
+    <section id="page-policy" class="page"></section>
+    <section id="page-sources" class="page"></section>
+    <section id="page-about" class="page"></section>
+  </main>
+  <footer id="foot">
+    <p id="notice"></p>
+    <p id="vintages"></p>
+  </footer>
+</div>
+<div class="tip" id="tip" hidden></div>
+<noscript>This page needs JavaScript to show the map, charts, and tables.</noscript>
+<script>
+{{LEAFLET_JS}}
+</script>
+<script>
+{{DATA_JS}}
+</script>
+<script>
+var PROGRAM = {{PROGRAM_JSON}};
+</script>
+<script>
+{{PROGRAM_JS}}
+</script>
+<script>
+{{APP_JS}}
+</script>
+</body>
+</html>

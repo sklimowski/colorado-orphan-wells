@@ -1,0 +1,137 @@
+/* Styles for docs/dashboard.html and docs/map.html.  build_dashboard.py
+   inlines this file into both pages. */
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; }
+body {
+  font: 14px/1.45 "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
+  color: #1f2328; background: #fff; display: flex; flex-direction: column;
+}
+a { color: #0b5cad; }
+h1 { font-size: 17px; margin: 0; }
+h2 { font-size: 17px; margin: 18px 0 6px; }
+h3 { font-size: 14px; margin: 14px 0 4px; }
+p { margin: 6px 0; }
+
+#top { background: #1f3a52; color: #fff; padding: 6px 12px 0; flex: none; }
+#titleline { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; }
+#subtitle { font-size: 12.5px; opacity: .92; }
+#tabs { display: flex; flex-wrap: wrap; gap: 2px; margin-top: 6px; }
+#tabs a {
+  color: #dfe8f0; text-decoration: none; padding: 5px 11px;
+  border-radius: 5px 5px 0 0; font-size: 13px;
+}
+#tabs a:hover { background: #2c4d6b; }
+#tabs a.on { background: #fff; color: #1f2328; font-weight: 600; }
+body.mapmode #tabs { display: none; }
+body.mapmode #top { padding-bottom: 6px; }
+
+#stale { flex: none; font-size: 12.5px; padding: 3px 12px; background: #f3f5f7; border-bottom: 1px solid #d8dde2; }
+#stale span.src { margin-right: 14px; white-space: nowrap; }
+#stale span.old { background: #fff1c2; border: 1px solid #c79a00; border-radius: 3px; padding: 0 5px; font-weight: 600; }
+#filterbar { flex: none; display: none; font-size: 12.5px; padding: 4px 12px; background: #e8f1fa; border-bottom: 1px solid #b9d0e6; }
+#filterbar.on { display: block; }
+#filterbar button { margin-left: 8px; }
+
+#main { flex: 1 1 auto; min-height: 0; position: relative; }
+.page { display: none; height: 100%; overflow: auto; padding: 10px 14px 24px; }
+.page.on { display: block; }
+#page-map { padding: 0; overflow: hidden; }
+#map { height: 100%; width: 100%; min-height: 320px; background: #eef0f2; }
+
+#foot { flex: none; border-top: 1px solid #d8dde2; background: #f3f5f7; padding: 4px 12px; font-size: 11.5px; color: #444; }
+#foot p { margin: 1px 0; }
+#notice { font-weight: 600; }
+
+.blank { color: #777; font-style: italic; }
+.note { font-size: 12.5px; color: #444; max-width: 1000px; }
+.sra { font-size: 12.5px; color: #444; }
+.pill { display: inline-block; border: 1px solid #999; border-radius: 9px; padding: 0 7px; font-size: 12px; }
+.dot { display: inline-block; width: 11px; height: 11px; border-radius: 50%; border: 1px solid #333; vertical-align: -1px; margin-right: 5px; }
+
+button, select, input[type=text], input[type=search] { font: inherit; padding: 3px 6px; }
+button { cursor: pointer; }
+.controls { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: end; margin: 6px 0; }
+.controls label { display: flex; flex-direction: column; font-size: 11.5px; color: #444; }
+.controls select { max-width: 230px; }
+
+table.data { border-collapse: collapse; font-size: 12.5px; }
+table.data th, table.data td { border: 1px solid #d0d5da; padding: 2px 6px; text-align: left; vertical-align: top; }
+table.data th { background: #eef1f4; position: sticky; top: 0; z-index: 1; white-space: nowrap; }
+table.data th.sortable { cursor: pointer; }
+table.data th .arrow { color: #0b5cad; }
+table.data td.num, table.data th.num { text-align: right; }
+table.data tbody tr:nth-child(even) { background: #fafbfc; }
+table.data tr.clickable { cursor: pointer; }
+table.data tr.clickable:hover { background: #e8f1fa; }
+table.data tr.sel { outline: 2px solid #0b5cad; }
+.tablewrap { overflow: auto; max-height: calc(100vh - 300px); min-height: 240px; border: 1px solid #d0d5da; }
+.tablewrap.short { max-height: 420px; min-height: 0; }
+table.data td.nw, a.nw { white-space: nowrap; }
+td.comments { min-width: 220px; white-space: normal; }
+
+details { margin: 6px 0; }
+details > summary { cursor: pointer; font-weight: 600; padding: 3px 0; }
+
+/* Well sheet */
+.sheet { max-width: 1050px; }
+.sheethead { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; border-bottom: 2px solid #1f3a52; padding-bottom: 4px; }
+.sheethead h2 { margin: 0; font-size: 19px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 2px 18px; }
+.kv { display: flex; gap: 6px; border-bottom: 1px dotted #ccd2d8; padding: 1px 0; }
+.kv .k { color: #555; flex: 0 0 46%; }
+.kv .v { flex: 1; font-weight: 600; overflow-wrap: anywhere; }
+.kv .v .blank { font-weight: 400; }
+.gaps { border: 1px solid #c79a00; background: #fffaf0; padding: 6px 10px; margin: 12px 0; font-size: 12.5px; }
+.links a { margin-right: 14px; }
+
+/* Map controls */
+.leaflet-container { font: 12px/1.35 "Segoe UI", system-ui, Arial, sans-serif; }
+.maplegend, .colormode {
+  background: rgba(255,255,255,.95); padding: 6px 9px; border-radius: 5px;
+  box-shadow: 0 1px 5px rgba(0,0,0,.4); font-size: 12px; line-height: 1.5; max-width: 250px;
+}
+.maplegend h4, .colormode h4 { margin: 4px 0 1px; font-size: 12px; }
+.maplegend { max-height: calc(100vh - 330px); overflow-y: auto; min-height: 28px; }
+.maplegend summary { font-weight: 600; cursor: pointer; }
+.colormode { max-width: 280px; }
+/* The folded layer control shows the word Layers, so the page needs no icon file. */
+.leaflet-control-layers-toggle, .leaflet-retina .leaflet-control-layers-toggle {
+  background-image: none; width: auto; height: auto; padding: 5px 10px;
+  color: #1f2328; text-decoration: none; font-weight: 600;
+}
+.leaflet-control-layers-toggle::after { content: "Layers"; }
+.colormode h4:first-child { margin-top: 0; }
+.swatch { display: inline-block; width: 16px; height: 11px; border: 1px solid #888; vertical-align: -1px; margin-right: 5px; }
+.ringkey { display: inline-block; width: 16px; height: 11px; border-radius: 50%; margin-right: 5px; vertical-align: -1px; }
+.colormode label { display: block; }
+.leaflet-control-layers-expanded { max-height: 80vh; overflow-y: auto; }
+.exfilters { border-top: 1px solid #ddd; margin-top: 5px; padding-top: 5px; }
+.exfilters label { display: block; }
+.welltip b, .wellpop b.name { font-size: 13px; }
+.wellpop table { border-collapse: collapse; margin: 4px 0; }
+.wellpop td { padding: 0 8px 0 0; vertical-align: top; }
+.wellpop td:first-child { color: #555; white-space: nowrap; }
+.wellpop .links a { display: inline-block; margin: 2px 10px 0 0; }
+
+@media (max-width: 700px) {
+  .maplegend { max-width: 200px; font-size: 11px; }
+  .leaflet-control-layers-expanded { font-size: 11px; max-width: 230px; }
+}
+
+@media print {
+  html, body { height: auto; }
+  body { display: block; font-size: 11px; }
+  #top, #stale, #filterbar, .noprint, #tabs { display: none !important; }
+  #main, .page { height: auto; overflow: visible; }
+  .page { padding: 0; }
+  .tablewrap { max-height: none; overflow: visible; border: 0; }
+  table.data th { position: static; }
+  table.data { font-size: 9.5px; width: 100%; }
+  table.data th, table.data td { padding: 1px 3px; }
+  .sheet h3 { break-after: avoid; }
+  table.data tr { break-inside: avoid; }
+  a { color: inherit; text-decoration: none; }
+  .printurl::after { content: " " attr(data-url); font-weight: 400; font-size: 9px; }
+  #foot { border: 0; background: none; padding: 6px 0 0; }
+  @page { size: letter; margin: 0.5in; }
+}

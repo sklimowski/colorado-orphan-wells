@@ -1,0 +1,13 @@
+# Treat text files as text so line endings stay consistent.
+* text=auto
+
+# Keep data files and test fixtures byte-exact on every platform.  These come
+# after the line above because later lines win.  The regression tests compare
+# outputs to the committed CSVs byte for byte, and line-ending conversion on
+# checkout would break that.
+*.csv -text
+*.json -text
+tests/fixtures/** -text
+
+# The generated pages are compared byte for byte too.
+docs/*.html -text

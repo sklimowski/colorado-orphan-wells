@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<!--
+Leaflet is embedded in this page under its license:
+
+{{LEAFLET_LICENSE}}
+-->
+<style>
+{{LEAFLET_CSS}}
+</style>
+<style>
+{{APP_CSS}}
+</style>
+</head>
+<body>
+<header id="top">
+  <div id="titleline">
+    <h1 id="pagetitle"></h1>
+    <div id="subtitle"></div>
+  </div>
+  <nav id="tabs" aria-label="Pages"></nav>
+</header>
+<div id="stale" role="status"></div>
+<div id="filterbar"></div>
+<main id="main">
+  <section id="page-map" class="page"><div id="map"></div></section>
+</main>
+<footer id="foot">
+  <p id="notice"></p>
+  <p id="vintages"></p>
+</footer>
+<noscript>This page needs JavaScript to show the map and tables.</noscript>
+<script>
+{{LEAFLET_JS}}
+</script>
+<script>
+{{DATA_JS}}
+</script>
+<script>
+{{APP_JS}}
+</script>
+</body>
+</html>

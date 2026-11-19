@@ -1,0 +1,5929 @@
+{
+ "asOf": "2026-11-19",
+ "facts": {
+  "pendingWells": 1215,
+  "pendingOneOperator": 1054,
+  "formulaEligibility": 54064506,
+  "feeNow": "$225 or $125",
+  "feeNext": "$285 or $155"
+ },
+ "findings": {
+  "lead": "Ten statements the figures on the other pages support.  Each is a count, a sum, or a ratio of published numbers, with its basis and a link to the chart behind it.  The page gives no causes, forecasts, or recommendations.  The figures are worked out from the dashboard’s data when the page opens, so they change if a number is corrected.",
+  "items": [
+   {
+    "title": "{fy} was the program’s highest year for wells plugged.",
+    "text": "ECMC reported {wells} orphaned wells plugged in {fy}, against {wellsPrev} in {fyPrev}, a {wellsPct}% increase.  The earlier high in the reports found was {wellsPriorMax} in {wellsPriorMaxFy}.",
+    "basis": "Annual reports, FY20 to FY26.  No annual totals were found before FY19.",
+    "see": [
+     [
+      "Orphaned wells plugged",
+      "activity",
+      "wellsplugged"
+     ]
+    ],
+    "src": [
+     "ar26",
+     "ar25",
+     "ar24"
+    ]
+   },
+   {
+    "title": "The list of unplugged orphaned wells grew in the same year.",
+    "text": "The list held {invPrev} wells in {invPrevDate} and {inv} in {invDate}, {invChange} more, in a year when {wells} were plugged.  The first count in the annual reports was {invFirst} wells in {invFirstDate}.  The list also covers {sites} orphaned sites, and a site can have no well.",
+    "basis": "Counts at the start of each fiscal year, ECMC jurisdiction only.  ECMC doesn’t publish wells added per year.",
+    "see": [
+     [
+      "Orphan inventory",
+      "activity",
+      "inventory"
+     ]
+    ],
+    "src": [
+     "ar26",
+     "ar25",
+     "ar18"
+    ]
+   },
+   {
+    "title": "ECMC staff have identified possible bond claims covering {pendingWells} wells.",
+    "text": "In September 2026, staff told the enterprise board that bond claims they described as potential for 2027 cover {pendingWells} wells, {pendingOne} of them from one operator.  None had been decided.  For scale, the list held {inv} wells in {invDate}.",
+    "basis": "Staff presentation, slide 17.  The claims had been noticed, scheduled for hearing, or were in pre-hearing negotiation.  How many of these wells enter the program, and when, depends on Commission proceedings that weren’t finished.",
+    "see": [
+     [
+      "What’s pending",
+      "activity",
+      "pending"
+     ]
+    ],
+    "src": [
+     "owme26",
+     "ar26"
+    ]
+   },
+   {
+    "title": "Federal grants paid for {iijaPct}% of {fy} project spending.",
+    "text": "IIJA grants were {iija} of {total}.  With the BLM agreement the federal share was {fedPct}%.  In {fyPrev} the IIJA share was {iijaPctPrev}%.",
+    "basis": "Project spending by source in the annual reports.  Shares are derived.",
+    "derived": true,
+    "see": [
+     [
+      "Program spending by funding source",
+      "finance",
+      "spend"
+     ]
+    ],
+    "src": [
+     "ar26",
+     "ar25"
+    ]
+   },
+   {
+    "title": "The state’s share moved from an appropriation to a fee on operators.",
+    "text": "In FY22 the state appropriation paid {appropPct22}% of project spending.  The line item ended after FY24.  In {fy} enterprise fees paid {feePct}% and operator bond claims {bondPct}%.",
+    "basis": "Project spending by source in the annual reports.  Shares are derived.",
+    "derived": true,
+    "see": [
+     [
+      "Program spending by funding source",
+      "finance",
+      "spend"
+     ]
+    ],
+    "src": [
+     "ar22",
+     "ar26",
+     "jbc27"
+    ]
+   },
+   {
+    "title": "Colorado’s formula grant eligibility is fully awarded.",
+    "text": "Interior lists {formula} in Formula Grant awards to Colorado against {eligibility} of eligibility.  Colorado’s IIJA awards total {awards}, {awardRank} of {awardCount} states with an award.",
+    "basis": "Interior’s FY2026 report for awards through September 30, 2026, and its FY2024 report for eligibility.  Matching Grants are awarded separately from formula eligibility.",
+    "see": [
+     [
+      "IIJA grants awarded to Colorado",
+      "federal",
+      "coawards"
+     ],
+     [
+      "Awards by state",
+      "federal",
+      "stateawards"
+     ]
+    ],
+    "src": [
+     "doi26",
+     "doi24"
+    ]
+   },
+   {
+    "title": "IIJA project spending to date is {spentPct}% of the amount awarded.",
+    "text": "The annual reports show {iijaSpent} of IIJA project spending through June 30, 2026.  Interior shows {awards} awarded through September 30, 2026.",
+    "basis": "A sum of four annual reports against Interior’s award total.  The dates are three months apart, project spending leaves out grant administration, and three of the awards were made between December 2025 and March 2026.",
+    "derived": true,
+    "see": [
+     [
+      "IIJA money awarded and spent",
+      "federal",
+      "awardspent"
+     ]
+    ],
+    "src": [
+     "doi26",
+     "ar23",
+     "ar24",
+     "ar25",
+     "ar26"
+    ]
+   },
+   {
+    "title": "The enterprise fee is charged on a falling number of wells.",
+    "text": "ECMC staff count {feeWellsFirst} active wells paying the fee in {feeFyFirst} and {feeWellsLast} in {feeFyLast}, a {feeWellsDrop}% decline.  The fee is {feeNow} a well and rises to {feeNext} in April 2027, with annual indexing from 2028.",
+    "basis": "Staff presentation to the enterprise board, September 2026, and the board’s decision.",
+    "see": [
+     [
+      "Active wells paying the fee",
+      "finance",
+      "feewells"
+     ],
+     [
+      "Fee schedule",
+      "finance",
+      "feeschedule"
+     ]
+    ],
+    "src": [
+     "owme26",
+     "feerelease",
+     "feepage"
+    ]
+   },
+   {
+    "title": "Total spending per well plugged was {perWell} in {fy}, and plugging is one part of what that paid for.",
+    "text": "That’s {total} divided by {wells} wells.  ECMC puts {mixPlug}% of {fy} spending on plugging, equipment, flowlines, and methane monitoring, {mixRecl}% on reclamation, and {mixEnv}% on sampling and remediation.",
+    "basis": "Arithmetic on two published totals.  It isn’t a unit cost, because the spending also covers sites with no well.",
+    "derived": true,
+    "see": [
+     [
+      "Spending divided by wells plugged",
+      "activity",
+      "perwell"
+     ],
+     [
+      "FY26 spending by kind of work",
+      "activity",
+      "mix26"
+     ]
+    ],
+    "src": [
+     "ar26"
+    ]
+   },
+   {
+    "title": "On IOGCC’s count, {shareCO}% of Colorado’s unplugged wells were orphaned.",
+    "text": "That’s documented orphaned wells over all wells drilled and not plugged in December 2023, {shareRank} lowest of {shareCount} states with data.",
+    "basis": "IOGCC’s survey of state agencies.  States define an orphaned well differently, and Colorado’s own count has risen since.",
+    "derived": true,
+    "see": [
+     [
+      "Documented orphans as a share of unplugged wells",
+      "states",
+      "orphanshare"
+     ]
+    ],
+    "src": [
+     "iogcc24"
+    ]
+   }
+  ]
+ },
+ "sourcesLead": "Every document behind the program pages, with a link.  The well pages’ sources and retrieval dates are on the About the data page.  News reports are used only where no agency document gives the figure, and are marked as news.",
+ "sources": {
+  "ar26": {
+   "t": "Orphaned Well Program annual report, fiscal year 2026",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY26_Orphaned_Well_Program_Annual_Report_Final.pdf",
+   "date": "2026-09-10"
+  },
+  "ar25": {
+   "t": "Orphaned Well Program annual report, fiscal year 2025",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY25_Orphaned_Well_Program_Annual_Report_Final.pdf",
+   "date": "2025-09-08"
+  },
+  "ar24": {
+   "t": "Orphaned Well Program annual report, fiscal year 2024",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/Fiscal_Year_2024_Orphaned_Well_Program_Annual_Report.pdf",
+   "date": "2024-09-05"
+  },
+  "ar23": {
+   "t": "Orphaned Well Program annual report, fiscal year 2023",
+   "pub": "ECMC",
+   "url": "https://content.leg.colorado.gov/sites/default/files/fy2024-25_natbrf2.pdf",
+   "date": "2023-09-01",
+   "note": "Reproduced as an attachment in the Joint Budget Committee’s FY2024-25 staff briefing."
+  },
+  "ar22": {
+   "t": "Orphaned Well Program annual report, fiscal year 2022",
+   "pub": "COGCC",
+   "url": "https://spl.cde.state.co.us/artemis/nrserials/nr1030internet/nr10302022internet.pdf",
+   "date": "2022-09-06",
+   "note": "State Publications Library copy."
+  },
+  "ar21": {
+   "t": "Orphaned Well Program annual report, fiscal year 2021",
+   "pub": "COGCC",
+   "url": "https://spl.cde.state.co.us/artemis/nrserials/nr19internet/2022-23/nr19202223017internet.pdf",
+   "date": "2021-09-01",
+   "note": "Reproduced in a November 2021 DNR letter to the Joint Budget Committee."
+  },
+  "ar20": {
+   "t": "Orphaned Well Program annual report, fiscal year 2020",
+   "pub": "COGCC",
+   "url": "https://spl.cde.state.co.us/artemis/nrserials/nr1030internet/nr10302020internet.pdf",
+   "date": "2020-09-01"
+  },
+  "ar19": {
+   "t": "Orphaned Well Program annual report, fiscal year 2019",
+   "pub": "COGCC",
+   "url": "https://ecmc.prod.govaccess.org/home/showpublisheddocument/1252/638514633459800000",
+   "date": "2019-08-30"
+  },
+  "ar18": {
+   "t": "Orphaned Well Program annual report, fiscal year 2018",
+   "pub": "COGCC",
+   "url": "https://ecmc.prod.govaccess.org/home/showpublisheddocument/1250/638514633457470000",
+   "date": "2018-08-31"
+  },
+  "owpreports": {
+   "t": "Orphaned Well Program reports page",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/regulation/orphaned-well-program/owp-reports",
+   "note": "Index of annual reports and lists."
+  },
+  "owp": {
+   "t": "Orphaned Well Program page",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/regulation/orphaned-well-program"
+  },
+  "owme25": {
+   "t": "Staff presentation, Orphan Wells Mitigation Enterprise board meeting",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/Staff_Presentation_OWME_Board_Meeting-10_21_2025.pdf",
+   "date": "2025-10-21"
+  },
+  "owme26": {
+   "t": "Staff presentation, Orphan Wells Mitigation Enterprise board meeting",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/OWME-Board-Meeting-Presentation_09292026.pdf",
+   "date": "2026-09-29"
+  },
+  "feerelease": {
+   "t": "News release: enterprise board increases the industry fee",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/news-article/ecmc-orphan-wells-mitigation-enterprise-board-increases-industry-fee-to-sustain",
+   "date": "2026-10-02"
+  },
+  "feepage": {
+   "t": "Colorado orphan-well progress and the 2027 mitigation fee",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/colorado-orphan-well-progress-and-the-2027-mitigation-fee",
+   "date": "2026"
+  },
+  "marginalfee": {
+   "t": "Press release: enterprise adopts new fee to fund marginal well plugging",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/press-release/orphan-wells-mitigation-enterprise-adopts-new-fee-to-fund-marginal-well-plugging",
+   "date": "2024-11-22"
+  },
+  "smart26": {
+   "t": "SMART Act report, 2026",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/SMARTAct_Report_2026.pdf",
+   "date": "2026"
+  },
+  "wp2020": {
+   "t": "2020 Readiness Whitepaper FAQs",
+   "pub": "COGCC",
+   "url": "https://ecmc.prod.govaccess.org/home/showpublisheddocument/1148/638513940817930000",
+   "date": "2020"
+  },
+  "sb181page": {
+   "t": "2023 SB 19-181 accomplishments",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/press-release/2023-sb-19-181-accomplishments",
+   "date": "2023",
+   "note": "Gives 196 orphaned wells plugged in fiscal years 2019 through 2022."
+  },
+  "rules700": {
+   "t": "700 Series rules, Financial Assurance, effective April 30, 2022",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/700%20Series%20-%20Financial%20Assurance_Effective%20April%2030%2C%202022.pdf",
+   "date": "2022-04-30"
+  },
+  "rules100": {
+   "t": "100 Series rules, Definitions, effective October 30, 2025",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/100%20Series%20-%20Definitions_Effective%20October%2030%2C%202025_1.pdf",
+   "date": "2025-10-30"
+  },
+  "rules200": {
+   "t": "200 Series rules, General Provisions, effective October 30, 2025",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/200%20Series%20-%20General%20Provisions_Effective%20October%2030%2C%202025.pdf",
+   "date": "2025-10-30",
+   "note": "Includes Rules 205 and 218."
+  },
+  "rules400": {
+   "t": "400 Series rules, Operations and Reporting, effective April 30, 2025",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/400%20Series%20-%20Operations%20and%20Reporting_Effective%20April%2030%2C%202025.pdf",
+   "date": "2025-04-30",
+   "note": "Includes Rule 434."
+  },
+  "rules1000": {
+   "t": "1000 Series rules, Reclamation, effective January 15, 2021",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/1000%20Series%20-%20Reclamation%20Regulations_Effective%20January%2015%2C%202021.pdf",
+   "date": "2021-01-15"
+  },
+  "rulespage": {
+   "t": "Rules page",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/regulation/rules"
+  },
+  "rulemaking": {
+   "t": "Rulemaking index",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/hearings/rulemaking"
+  },
+  "fadocket": {
+   "t": "Financial Assurance Rulemaking docket",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/hearings/financial-assurance-rulemaking",
+   "date": "2022-03-01"
+  },
+  "fafact": {
+   "t": "Fact sheet, financial assurance rulemaking",
+   "pub": "COGCC",
+   "url": "https://ecmc.state.co.us/documents/media/Fact_Sheet_FA_Rulemaking_20220301.pdf",
+   "date": "2022-03-01"
+  },
+  "act2026": {
+   "t": "Energy and Carbon Management Act (2026), consolidated text",
+   "pub": "ECMC",
+   "url": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/Energy-%26-Carbon-Management-Act-%282026%29_20260814.pdf",
+   "date": "2026-08-14",
+   "note": "C.R.S. Title 34, Article 60."
+  },
+  "jbc27": {
+   "t": "Staff budget briefing FY2026-27, Department of Natural Resources",
+   "pub": "Colorado Joint Budget Committee",
+   "url": "https://content.leg.colorado.gov/sites/default/files/fy2026-27_natbrf2.pdf",
+   "date": "2026"
+  },
+  "jbc24fig": {
+   "t": "Staff figure setting FY2023-24, Department of Natural Resources",
+   "pub": "Colorado Joint Budget Committee",
+   "url": "https://leg.colorado.gov/sites/default/files/fy2023-24_natfig2.pdf",
+   "date": "2023-02-16"
+  },
+  "jbc20hrg": {
+   "t": "FY2019-20 hearing agenda, Department of Natural Resources (reproduces Executive Order D 2018-012)",
+   "pub": "Colorado Joint Budget Committee",
+   "url": "https://content.leg.colorado.gov/sites/default/files/fy2019-20_nathrg2.pdf",
+   "date": "2018-12"
+  },
+  "jbc18brf": {
+   "t": "Staff budget briefing FY2017-18, Department of Natural Resources",
+   "pub": "Colorado Joint Budget Committee",
+   "url": "https://leg.colorado.gov/sites/default/files/fy2017-18_natbrf2.pdf",
+   "date": "2016-12-06"
+  },
+  "jbc21hrg": {
+   "t": "FY2020-21 hearing responses, Department of Natural Resources",
+   "pub": "Colorado Joint Budget Committee",
+   "url": "https://content.leg.colorado.gov/sites/default/files/fy2020-21_nathrg.pdf",
+   "date": "2019-12"
+  },
+  "jbc19fig": {
+   "t": "Staff figure setting FY2018-19, Department of Natural Resources",
+   "pub": "Colorado Joint Budget Committee",
+   "url": "https://content.leg.colorado.gov/sites/default/files/fy2018-19_natfig2.pdf",
+   "date": "2018-03-08"
+  },
+  "jbc19brf": {
+   "t": "Staff budget briefing FY2018-19, Department of Natural Resources",
+   "pub": "Colorado Joint Budget Committee",
+   "url": "https://content.leg.colorado.gov/sites/default/files/fy2018-19_natbrf2.pdf",
+   "date": "2017-12-05"
+  },
+  "doi26": {
+   "t": "Orphaned Wells Program annual report to Congress, fiscal year 2026",
+   "pub": "U.S. Department of the Interior",
+   "url": "https://www.doi.gov/sites/default/files/documents/2026-11/owpo-annual-report-congress-202610092026.pdf",
+   "date": "2026-11",
+   "note": "Awards through September 30, 2026."
+  },
+  "doi25": {
+   "t": "Orphaned Wells Program annual report to Congress, fiscal year 2025",
+   "pub": "U.S. Department of the Interior",
+   "url": "https://www.doi.gov/sites/default/files/documents/2025-11/fy-2025-orphaned-wells-congressional-report.pdf",
+   "date": "2025-11",
+   "note": "Awards through September 30, 2025."
+  },
+  "doi24": {
+   "t": "Orphaned Wells Program annual report to Congress, fiscal year 2024",
+   "pub": "U.S. Department of the Interior",
+   "url": "https://www.doi.gov/sites/default/files/documents/2024-11/fy-2024-owpo-annual-congressional-reportfinal-publishing.pdf",
+   "date": "2024-11",
+   "note": "Table 3 gives formula grant eligibility by state."
+  },
+  "doiguid": {
+   "t": "Revised State Formula Grant Guidance",
+   "pub": "U.S. Department of the Interior",
+   "url": "https://www.doi.gov/sites/default/files/documents/2025-07/revised-state-formula-grant-guidance508.pdf",
+   "date": "2025-07"
+  },
+  "doitribal": {
+   "t": "Press release: resources for Tribal Nations to address legacy pollution",
+   "pub": "U.S. Department of the Interior",
+   "url": "https://doi.gov/pressreleases/presidents-investing-america-agenda-provides-resources-tribal-nations-address-legacy",
+   "date": "2023-09-21"
+  },
+  "usc15907": {
+   "t": "42 U.S.C. 15907, orphaned well site plugging, remediation, and restoration",
+   "pub": "Cornell Legal Information Institute",
+   "url": "https://www.law.cornell.edu/uscode/text/42/15907",
+   "note": "The House’s own U.S. Code site was in a temporary format on November 19, 2026 and its section links returned Page Not Found, so this links Cornell’s copy."
+  },
+  "blmbond": {
+   "t": "Bonding page, oil and gas leasing",
+   "pub": "Bureau of Land Management",
+   "url": "https://www.blm.gov/programs/energy-and-minerals/oil-and-gas/leasing/bonding"
+  },
+  "fr2025": {
+   "t": "Federal onshore oil and gas statewide bonds: extension of phase-in deadline",
+   "pub": "Federal Register",
+   "url": "https://www.federalregister.gov/documents/2025/12/18/2025-23228/federal-onshore-oil-and-gas-statewide-bonds-extension-of-phase-in-deadline",
+   "date": "2025-12-18"
+  },
+  "fr2026": {
+   "t": "Oil and Gas Leasing, proposed rule",
+   "pub": "Federal Register",
+   "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12734/oil-and-gas-leasing",
+   "date": "2026-06-24"
+  },
+  "merp": {
+   "t": "News release: $12.6 million in grants from EPA",
+   "pub": "Colorado Governor’s Office",
+   "url": "https://www.colorado.gov/governor/news/governor-polis-colorado-energy-carbon-management-commission-announce-126-million-grants-epa",
+   "date": "2024-08-23"
+  },
+  "iogcc24": {
+   "t": "Orphan wells supplemental report, data through December 2023",
+   "pub": "Interstate Oil and Gas Compact Commission",
+   "url": "https://oklahoma.gov/content/dam/ok/en/iogcc/documents/publications/Orphan%20Wells%20Revised.pdf",
+   "date": "2024"
+  },
+  "iogcc26": {
+   "t": "Idle and Orphan Oil and Gas Wells 2026, presentation",
+   "pub": "Interstate Oil and Gas Compact Commission",
+   "url": "https://oklahoma.gov/content/dam/ok/en/iogcc/documents/ac/2026/Idle%20and%20Orphan%20Oil%20and%20Gas%20wells%202026.pdf",
+   "date": "2026-10-26",
+   "note": "The full 2026 report wasn’t available; the slides carry no readable state values."
+  },
+  "rff": {
+   "t": "Working Paper 26-07, orphaned well plugging costs",
+   "pub": "Resources for the Future",
+   "url": "https://media.rff.org/documents/WP_26-07.pdf",
+   "date": "2026",
+   "note": "Covers six states.  Colorado isn’t one of them."
+  },
+  "ctfalse": {
+   "t": "False Start",
+   "pub": "Carbon Tracker Initiative",
+   "url": "https://carbontracker.org/reports/false-start",
+   "date": "2024-02",
+   "note": "A research group’s estimate.  ECMC disputes its bonding findings."
+  },
+  "ctback": {
+   "t": "Backfire",
+   "pub": "Carbon Tracker Initiative",
+   "url": "https://carbontracker.org/reports/backfire",
+   "date": "2024-09",
+   "note": "A research group’s estimate."
+  },
+  "ctbdo": {
+   "t": "Billion Dollar Orphans",
+   "pub": "Carbon Tracker Initiative",
+   "url": "https://legacy-assets.eenews.net/open_files/assets/2020/10/01/document_ew_02.pdf",
+   "date": "2020-10",
+   "note": "A research group’s cost model.  Predates Colorado’s 2022 rules."
+  },
+  "ctrace": {
+   "t": "Race to the Top",
+   "pub": "Carbon Tracker Initiative",
+   "url": "https://www.longfinance.net/media/documents/Race-to-the-top_Oct21.pdf",
+   "date": "2021-10",
+   "note": "A research group’s ratio.  Predates Colorado’s 2022 rules."
+  },
+  "sun2402": {
+   "t": "Oil wells, Colorado, and Carbon Tracker bonding analysis",
+   "pub": "Colorado Sun",
+   "url": "https://coloradosun.com/2024/02/20/oil-wells-colorado-carbon-tracker-bonding",
+   "date": "2024-02-20",
+   "note": "News report.  Carries ECMC’s statement of bonds held."
+  },
+  "sun2403": {
+   "t": "Colorado orphan wells funding legislation",
+   "pub": "Colorado Sun",
+   "url": "https://coloradosun.com/2024/03/27/colorado-orphan-wells-funding-legislation",
+   "date": "2024-03-27",
+   "note": "News report."
+  },
+  "cpr24": {
+   "t": "Colorado oil and gas companies orphaned a record number of wells",
+   "pub": "CPR News",
+   "url": "https://www.cpr.org/2024/09/17/colorado-oil-and-gas-companies-orphaned-a-record-number-of-wells",
+   "date": "2024-09-17",
+   "note": "News report."
+  },
+  "hppr26": {
+   "t": "Colorado losing ground in fight to clean up record number of orphaned oil and gas wells",
+   "pub": "Colorado Sun, republished by HPPR",
+   "url": "https://www.hppr.org/hppr-news/2026-11-04/colorado-losing-ground-in-fight-to-clean-up-record-number-of-orphaned-oil-and-gas-wells",
+   "date": "2026-11-04",
+   "note": "News report."
+  },
+  "kpk1v": {
+   "t": "Cause 1V, Docket 260700198: Notice and Application for Hearing, K.P. Kauffman Company Inc.",
+   "pub": "ECMC Hearings eFiling System",
+   "url": "https://oitco.hylandcloud.com/DNRCOGPublicAccess/index.html",
+   "date": "2026-07-23",
+   "note": "Choose Search for Docket Related Documents, enter docket number 260700198, and set the From Date to July 1, 2026 or earlier.  The system gives no fixed link to a single filing."
+  },
+  "kauffman": {
+   "t": "Kauffman v. Oil and Gas Conservation Commission, 25CA1249 (unpublished)",
+   "pub": "Colorado Court of Appeals, via CourtListener",
+   "url": "https://www.courtlistener.com/opinion/10870373/kauffman-v-oil-and-gas",
+   "date": "2026-06-04"
+  },
+  "tx": {
+   "t": "Oilfield Cleanup Program annual report, fiscal year 2025",
+   "pub": "Railroad Commission of Texas",
+   "url": "https://www.rrc.texas.gov/media/xgtpvwhf/2025-oilfield-cleanup-program-annual-report_final.pdf",
+   "date": "2025"
+  },
+  "txiija": {
+   "t": "Federally funded well plugging",
+   "pub": "Railroad Commission of Texas",
+   "url": "https://rrc.texas.gov/oil-and-gas/environmental-cleanup-programs/federally-funded-well-plugging/"
+  },
+  "ks": {
+   "t": "2026 Abandoned Oil and Gas Well Status Report",
+   "pub": "Kansas Corporation Commission",
+   "url": "https://www.kcc.ks.gov/images/PDFs/legislative-reports/2026%20Abandoned%20Oil%20Gas%20Well%20Status%20Report.pdf",
+   "date": "2026"
+  },
+  "ksprog": {
+   "t": "State plugging program",
+   "pub": "Kansas Corporation Commission",
+   "url": "https://www.kcc.ks.gov/oil-gas/state-plugging-program"
+  },
+  "ok": {
+   "t": "Plan addressing orphaned well plugging challenges",
+   "pub": "Oklahoma Corporation Commission",
+   "url": "https://oklahoma.gov/content/dam/ok/en/occ/documents/og/OCC-Plan-Addressing-Orphaned-Well-Plugging-Challenges.pdf",
+   "date": "2025-01"
+  },
+  "wy": {
+   "t": "Orphan well program",
+   "pub": "Wyoming Oil and Gas Conservation Commission",
+   "url": "https://wogcc.wyo.gov/public-resources/orphan-well-program"
+  },
+  "nm": {
+   "t": "EMNRD well plugging update, legislative handout",
+   "pub": "New Mexico Energy, Minerals and Natural Resources Department",
+   "url": "https://www.nmlegis.gov/handouts/WNR%20071326%20Item%205%20EMNRD%20Well%20Plugging%20Update.pdf",
+   "date": "2026-07-13"
+  },
+  "nmlfc": {
+   "t": "Policy Spotlight: Orphaned Wells",
+   "pub": "New Mexico Legislative Finance Committee",
+   "url": "https://www.nmlegis.gov/Entity/LFC/Documents/Program_Evaluation_Reports/LFC%20Policy%20Spotlight%20-%20Orphaned%20Wells%20-%20Final.pdf",
+   "date": "2025-06"
+  },
+  "nmrule": {
+   "t": "19.15.8 NMAC amendment, financial assurance",
+   "pub": "New Mexico Oil Conservation Division",
+   "url": "https://www.emnrd.nm.gov/ocd/wp-content/uploads/sites/6/19.15.8-amendment.pdf",
+   "date": "2026-09-22"
+  },
+  "ut": {
+   "t": "OGM secures federal grant to accelerate orphaned well plugging",
+   "pub": "Utah Division of Oil, Gas and Mining",
+   "url": "https://ogm.utah.gov/2026/04/07/ogm-secures-federal-grant-to-accelerate-orphaned-well-plugging/",
+   "date": "2026-04-07"
+  },
+  "utrule": {
+   "t": "OGM implements updated oil and gas bonding rules",
+   "pub": "Utah Division of Oil, Gas and Mining",
+   "url": "https://ogm.utah.gov/2026/07/16/ogm-implements-updated-oil-and-gas-bonding-rules",
+   "date": "2026-07-16"
+  },
+  "nd": {
+   "t": "IIJA Initial Grant final performance report",
+   "pub": "North Dakota Department of Mineral Resources",
+   "url": "https://www.dmr.nd.gov/dmr/sites/default/files/documents/IIJA/Compliance/Final_Performance_Report_D22AP00231.pdf",
+   "date": "2025"
+  },
+  "ndfund": {
+   "t": "Trust fund analysis, June 2026",
+   "pub": "North Dakota Legislative Council",
+   "url": "https://ndlegis.gov/sites/default/files/fiscal/2025-27/docs/trust-fund-analysis-june-2026.pdf",
+   "date": "2026-06"
+  },
+  "mt": {
+   "t": "Orphan well IIJA funding files",
+   "pub": "Montana Board of Oil and Gas Conservation",
+   "url": "https://bogwebfiles.dnrc.mt.gov/OrphanWellIijaFunding/",
+   "note": "File listing.  The spreadsheets weren’t opened."
+  },
+  "oh": {
+   "t": "Orphan Well Program 2025 annual report",
+   "pub": "Ohio Department of Natural Resources",
+   "url": "https://dam.assets.ohio.gov/image/upload/ohiodnr.gov/documents/oil-gas/orphanwell/Annual%20Reports/2025_OWP_Annual_Report.pdf",
+   "date": "2025"
+  },
+  "pa": {
+   "t": "Legacy wells",
+   "pub": "Pennsylvania Department of Environmental Protection",
+   "url": "https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas/legacy-wells"
+  },
+  "wv": {
+   "t": "Abandoned Well Plugging Fund report, fiscal year 2026",
+   "pub": "West Virginia Department of Environmental Protection",
+   "url": "https://www.wvlegislature.gov/legisdocs/reports/agency/E05_FY_2026_27077.pdf",
+   "date": "2026"
+  },
+  "ky": {
+   "t": "IIJA well plugging dashboard",
+   "pub": "Kentucky Energy and Environment Cabinet",
+   "url": "https://kygis.maps.arcgis.com/apps/dashboards/d0cd68389c3f494bafecede7f1c76ddd"
+  },
+  "ca": {
+   "t": "State abandonments",
+   "pub": "California Geologic Energy Management Division",
+   "url": "https://conservation.ca.gov/calgem/Pages/State-Abandonments.aspx"
+  },
+  "la": {
+   "t": "Performance audit, Oilfield Site Restoration program",
+   "pub": "Louisiana Legislative Auditor",
+   "url": "https://app.lla.la.gov/publicreports.nsf/0/fd253aa20b74174d86258bbf00730b5c/$file/00006296a.pdf",
+   "date": "2024-10"
+  },
+  "il": {
+   "t": "IIJA federal projects",
+   "pub": "Illinois Department of Natural Resources",
+   "url": "https://dnr.illinois.gov/oilandgas/iija-federal-projects.html"
+  },
+  "in": {
+   "t": "Monthly orphaned well plugging reports",
+   "pub": "Indiana Department of Natural Resources",
+   "url": "https://secure.in.gov/dnr/oil-and-gas/publications/monthly-orphaned-well-plugging-reports"
+  },
+  "sra": {
+   "t": "State Orphan Well Plugging: 2024 and 2025 figures from state agency sources",
+   "pub": "Subsurface Risk Analytics",
+   "url": "https://github.com/sklimowski/colorado-orphan-wells",
+   "date": "2026-10-08",
+   "note": "An earlier SRA compilation from state agency pages.  Rows marked carried come from it and weren’t re-checked for this page.  The link is a placeholder until the compilation is published."
+  }
+ },
+ "kpis": [
+  {
+   "k": "Wells plugged in FY26 (July 2025 to June 2026)",
+   "v": "161",
+   "n": "95 in FY25",
+   "g": "g1",
+   "src": "ar26",
+   "bars": [
+    61,
+    55,
+    73,
+    61,
+    132,
+    95,
+    161
+   ],
+   "barLabels": [
+    "FY20",
+    "FY21",
+    "FY22",
+    "FY23",
+    "FY24",
+    "FY25",
+    "FY26"
+   ],
+   "unit": "n"
+  },
+  {
+   "k": "Program spending in FY26",
+   "v": "$26.5M",
+   "n": "$15.3M in FY25",
+   "g": "g2",
+   "src": "ar26",
+   "bars": [
+    834775,
+    1561081,
+    4740440,
+    3165132,
+    5373482,
+    10200211,
+    14995068,
+    15329957,
+    26524512
+   ],
+   "barLabels": [
+    "FY18",
+    "FY19",
+    "FY20",
+    "FY21",
+    "FY22",
+    "FY23",
+    "FY24",
+    "FY25",
+    "FY26"
+   ],
+   "unit": "usd"
+  },
+  {
+   "k": "Unplugged orphaned wells under ECMC jurisdiction, July 1, 2026",
+   "v": "996",
+   "n": "on 2,156 orphaned sites",
+   "g": "g3",
+   "src": "ar26",
+   "bars": [
+    263,
+    275,
+    215,
+    236,
+    528,
+    467,
+    941,
+    948,
+    996
+   ],
+   "barLabels": [
+    "Aug 2018",
+    "Jul 2019",
+    "Jul 2020",
+    "Jul 2021",
+    "Jul 2022",
+    "Jul 2023",
+    "Jul 2024",
+    "Jul 2025",
+    "Jul 2026"
+   ],
+   "unit": "n"
+  },
+  {
+   "k": "Federal IIJA grants awarded to Colorado",
+   "v": "$89.9M",
+   "n": "Through Sept 30, 2026",
+   "g": "g4",
+   "src": "doi26",
+   "bars": [
+    25000000,
+    25000000,
+    29064506,
+    10841527
+   ],
+   "barLabels": [
+    "Initial",
+    "Formula Phase 1",
+    "Formula Phase 2",
+    "Matching"
+   ],
+   "unit": "usd"
+  },
+  {
+   "k": "Annual enterprise fee per well, by production tier",
+   "v": "$225 / $125",
+   "n": "$285 / $155 from April 2027",
+   "g": "g6",
+   "src": "feerelease"
+  }
+ ],
+ "pages": {
+  "overview": {
+   "lead": "Colorado’s Orphaned Well Program, run by the Energy and Carbon Management Commission (ECMC), plugs wells and cleans up sites whose operators can’t be found or can’t pay.  This page gathers what ECMC, the Joint Budget Committee, the Interior Department, and other states’ agencies have published about the program’s money, its work, and the wells still on its list, with a link to every source.",
+   "cards": [
+    {
+     "id": "spend",
+     "kind": "bars",
+     "wide": true,
+     "stacked": true,
+     "unit": "usd",
+     "unit2": "n",
+     "xLabel": "State fiscal year",
+     "height": 320,
+     "title": "Program spending by funding source, with wells plugged",
+     "eyebrow": "FY18 to FY26",
+     "lead": "Project spending as each ECMC annual report states it.  State fiscal years run July 1 to June 30, so FY26 ended June 30, 2026.  The line shows wells plugged, on the right axis.",
+     "x": [
+      "FY18",
+      "FY19",
+      "FY20",
+      "FY21",
+      "FY22",
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Federal IIJA grants",
+       "c": "s1",
+       "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        6743925,
+        10136116,
+        5872956,
+        18951104
+       ]
+      },
+      {
+       "name": "Federal BLM grant",
+       "c": "s7",
+       "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        509637,
+        369997
+       ]
+      },
+      {
+       "name": "Enterprise fee (OWME)",
+       "c": "s3",
+       "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        379542,
+        242949,
+        8113338,
+        6254290
+       ]
+      },
+      {
+       "name": "State appropriation (response fund)",
+       "c": "s2",
+       "values": [
+        415003,
+        1360648,
+        4281891,
+        3016798,
+        4899395,
+        2801972,
+        3848632,
+        0,
+        0
+       ]
+      },
+      {
+       "name": "Operator bond claims",
+       "c": "s5",
+       "values": [
+        419772,
+        200434,
+        458549,
+        148334,
+        474086,
+        274772,
+        767371,
+        834026,
+        949121
+       ]
+      },
+      {
+       "name": "Wells plugged",
+       "c": "s6",
+       "type": "line",
+       "axis": "right",
+       "values": [
+        null,
+        7,
+        61,
+        55,
+        73,
+        61,
+        132,
+        95,
+        161
+       ]
+      }
+     ],
+     "notes": [
+      "The state appropriation came from the Oil and Gas Conservation and Environmental Response Fund, which holds the conservation levy and penalties.  The line item was zeroed after FY24, when enterprise fees took over.",
+      "Wells plugged: no FY18 total was found.  FY19 (7) is derived by subtracting FY20 to FY22 from ECMC’s 196 total for FY19 to FY22.",
+      "The FY26 report’s text gives a total of $26,524,512.  Its Table 3 lists 93 projects in whole dollars, and those rows sum to $26,524,516, so the $4 difference is rounding.  The chart uses the figures in the text.",
+      "FY26 enterprise spending includes $1,182,520 that an operator provided to plug federal wells next to non-federal wells."
+     ],
+     "src": [
+      "ar18",
+      "ar19",
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26",
+      "sb181page"
+     ]
+    },
+    {
+     "id": "inventory",
+     "kind": "bars",
+     "unit": "n",
+     "xLabel": "As of",
+     "title": "Orphan inventory: unplugged wells and sites",
+     "eyebrow": "ECMC jurisdiction",
+     "lead": "Counts at the start of each state fiscal year, from the annual reports.  They exclude wells and sites under federal or tribal jurisdiction.  A site can have no well: tank batteries, pits, and flowlines count as sites.",
+     "x": [
+      "Aug 2018",
+      "Jul 2019",
+      "Jul 2020",
+      "Jul 2021",
+      "Jul 2022",
+      "Jul 2023",
+      "Jul 2024",
+      "Jul 2025",
+      "Jul 2026"
+     ],
+     "series": [
+      {
+       "name": "Unplugged orphaned wells",
+       "c": "s1",
+       "values": [
+        263,
+        275,
+        215,
+        236,
+        528,
+        467,
+        941,
+        948,
+        996
+       ]
+      },
+      {
+       "name": "Orphaned sites",
+       "c": "s4",
+       "values": [
+        365,
+        422,
+        454,
+        547,
+        981,
+        1116,
+        1747,
+        1897,
+        2156
+       ]
+      }
+     ],
+     "notes": [
+      "The first count is dated August 1, 2018.  The rest are July 1.",
+      "On October 20, 2025, ECMC staff counted 929 wells on 1,906 sites under ECMC jurisdiction and another 393 wells on 523 sites under federal or tribal jurisdiction."
+     ],
+     "src": [
+      "ar18",
+      "ar19",
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26",
+      "owme25"
+     ]
+    },
+    {
+     "kind": "bullets",
+     "title": "Where to start",
+     "eyebrow": "reading note",
+     "items": [
+      "Key findings states what the figures show, in ten sentences with their sources.",
+      "Funding and spending, Plugging and inventory, and Federal funding hold the charts and tables behind them.",
+      "The Unplugged wells pages cover every well on ECMC’s list, one at a time or filtered by county, project, and record."
+     ]
+    },
+    {
+     "kind": "bullets",
+     "title": "Two counts of the same list",
+     "eyebrow": "reading note",
+     "items": [
+      "The well pages in this dashboard hold every record ECMC’s Orphaned Well Program shapefile marks Unplugged, including wells where the surface or the minerals are Federal, Tribal, or Indian.",
+      "ECMC’s annual report counts only wells under its own jurisdiction, so its July 1 figure is smaller than the list file’s.  The Map page’s Federal/Tribal filter shows how many wells on the list fall outside it.",
+      "The two counts also carry different dates.  The list file’s retrieval date is in the banner on every well page."
+     ],
+     "src": [
+      "ar26",
+      "owme25"
+     ]
+    }
+   ]
+  },
+  "finance": {
+   "lead": "Where the program’s money has come from and where it went, by state fiscal year (July 1 to June 30).  Dollars are nominal.  Figures are as published unless a card is marked as including derived figures.",
+   "cards": [
+    {
+     "id": "spend",
+     "kind": "bars",
+     "wide": true,
+     "stacked": true,
+     "unit": "usd",
+     "unit2": "n",
+     "xLabel": "State fiscal year",
+     "height": 320,
+     "title": "Program spending by funding source, with wells plugged",
+     "eyebrow": "FY18 to FY26",
+     "lead": "Project spending as each ECMC annual report states it.  State fiscal years run July 1 to June 30, so FY26 ended June 30, 2026.  The line shows wells plugged, on the right axis.",
+     "x": [
+      "FY18",
+      "FY19",
+      "FY20",
+      "FY21",
+      "FY22",
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Federal IIJA grants",
+       "c": "s1",
+       "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        6743925,
+        10136116,
+        5872956,
+        18951104
+       ]
+      },
+      {
+       "name": "Federal BLM grant",
+       "c": "s7",
+       "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        509637,
+        369997
+       ]
+      },
+      {
+       "name": "Enterprise fee (OWME)",
+       "c": "s3",
+       "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        379542,
+        242949,
+        8113338,
+        6254290
+       ]
+      },
+      {
+       "name": "State appropriation (response fund)",
+       "c": "s2",
+       "values": [
+        415003,
+        1360648,
+        4281891,
+        3016798,
+        4899395,
+        2801972,
+        3848632,
+        0,
+        0
+       ]
+      },
+      {
+       "name": "Operator bond claims",
+       "c": "s5",
+       "values": [
+        419772,
+        200434,
+        458549,
+        148334,
+        474086,
+        274772,
+        767371,
+        834026,
+        949121
+       ]
+      },
+      {
+       "name": "Wells plugged",
+       "c": "s6",
+       "type": "line",
+       "axis": "right",
+       "values": [
+        null,
+        7,
+        61,
+        55,
+        73,
+        61,
+        132,
+        95,
+        161
+       ]
+      }
+     ],
+     "notes": [
+      "The state appropriation came from the Oil and Gas Conservation and Environmental Response Fund, which holds the conservation levy and penalties.  The line item was zeroed after FY24, when enterprise fees took over.",
+      "Wells plugged: no FY18 total was found.  FY19 (7) is derived by subtracting FY20 to FY22 from ECMC’s 196 total for FY19 to FY22.",
+      "The FY26 report’s text gives a total of $26,524,512.  Its Table 3 lists 93 projects in whole dollars, and those rows sum to $26,524,516, so the $4 difference is rounding.  The chart uses the figures in the text.",
+      "FY26 enterprise spending includes $1,182,520 that an operator provided to plug federal wells next to non-federal wells."
+     ],
+     "src": [
+      "ar18",
+      "ar19",
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26",
+      "sb181page"
+     ]
+    },
+    {
+     "kind": "bars",
+     "unit": "usd",
+     "xLabel": "State fiscal year",
+     "title": "Enterprise fee: collected and spent",
+     "eyebrow": "OWME cash fund",
+     "lead": "The Orphan Wells Mitigation Enterprise collects an annual fee on every unplugged well.  ECMC staff gave the board two different sets of collection figures a year apart, so both are shown.  Spending includes administration.",
+     "x": [
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Fees collected, as presented Oct 2025",
+       "c": "s3",
+       "values": [
+        9457322,
+        8789326,
+        7300798,
+        null
+       ]
+      },
+      {
+       "name": "Actual revenue, as presented Sept 2026",
+       "c": "s7",
+       "values": [
+        9332275,
+        8789325,
+        8626225,
+        8459385
+       ]
+      },
+      {
+       "name": "Fund spending, with administration",
+       "c": "s2",
+       "values": [
+        390592,
+        262630,
+        8378080,
+        null
+       ]
+      }
+     ],
+     "notes": [
+      "The two presentations agree on FY24 and differ on FY23 (by $125,047) and FY25 (by $1,325,427).  Neither says why.  The September 2026 slide also lists $9,332,300 for FY22, a year before the fee was first charged.",
+      "The fund balance was $16,516,144 on June 30, 2025, by the October 2025 presentation.  The June 30, 2026 balance wasn’t found.",
+      "FY26 fund spending with administration wasn’t found.  The FY26 annual report gives $6,254,290 of enterprise project spending.",
+      "The Joint Budget Committee’s FY2026-27 briefing shows $262,589 spent from the fund in FY24 and $8,378,080 in FY25.  A sentence in the same briefing says the enterprise spent $11.7 million in FY24, which its own table doesn’t support."
+     ],
+     "src": [
+      "owme25",
+      "owme26",
+      "ar26",
+      "jbc27"
+     ]
+    },
+    {
+     "id": "feewells",
+     "kind": "bars",
+     "unit": "n",
+     "xLabel": "State fiscal year",
+     "title": "Active wells paying the fee",
+     "eyebrow": "ECMC staff figures",
+     "x": [
+      "FY22",
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Active wells",
+       "c": "s5",
+       "values": [
+        45000,
+        43371,
+        41469,
+        40255,
+        37630
+       ]
+      }
+     ],
+     "notes": [
+      "Staff estimates for later years, with no change in the fee base: 36,125 in FY28, 34,680 in FY29, 33,293 in FY30, and 31,961 in FY31.",
+      "A second slide in the same presentation gives 37,630 as the FY27 count."
+     ],
+     "src": [
+      "owme26"
+     ]
+    },
+    {
+     "id": "feeschedule",
+     "kind": "table",
+     "title": "Fee schedule",
+     "eyebrow": "C.R.S. 34-60-133",
+     "cols": [
+      {
+       "k": "p",
+       "label": "Period"
+      },
+      {
+       "k": "hi",
+       "label": "Higher tier, per well",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "lo",
+       "label": "Lower tier, per well",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "m",
+       "label": "Marginal well fee, per well",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "n",
+       "label": "Set by",
+       "wrap": true
+      }
+     ],
+     "rows": [
+      {
+       "p": "August 2022 to March 2025",
+       "hi": 225,
+       "lo": 125,
+       "m": {
+        "t": "none"
+       },
+       "n": "SB 22-198 and the 2022 fee rule"
+      },
+      {
+       "p": "April 2025 to March 2027",
+       "hi": 225,
+       "lo": 125,
+       "m": 115,
+       "n": "Marginal well fee adopted by the board November 22, 2024"
+      },
+      {
+       "p": "From April 2027",
+       "hi": 285,
+       "lo": 155,
+       "m": 115,
+       "n": "Board decision September 29, 2026.  From 2028 the fee adjusts each year by the Bureau of Labor Statistics consumer price index for energy commodities."
+      }
+     ],
+     "notes": [
+      "The lower tier applies to wells of operators whose average production is at or below 15 barrels of oil equivalent or 22 thousand cubic feet equivalent per day."
+     ],
+     "src": [
+      "feerelease",
+      "feepage",
+      "marginalfee",
+      "owme25",
+      "owme26"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "title": "State budget line and program staff",
+     "eyebrow": "Long Bill",
+     "cols": [
+      {
+       "k": "fy",
+       "label": "Fiscal year"
+      },
+      {
+       "k": "a",
+       "label": "Appropriation",
+       "wrap": true
+      },
+      {
+       "k": "s",
+       "label": "Spent from the line",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "f",
+       "label": "Program staff",
+       "wrap": true
+      }
+     ],
+     "rows": [
+      {
+       "fy": "FY12 to FY18",
+       "a": "$445,000 a year ($220,000 before FY12)",
+       "s": null,
+       "f": "1.0 FTE"
+      },
+      {
+       "fy": "FY19",
+       "a": "$5,011,000",
+       "s": 1360648,
+       "f": "6.0 FTE"
+      },
+      {
+       "fy": "FY20",
+       "a": "$5,011,000",
+       "s": 4281891,
+       "f": null
+      },
+      {
+       "fy": "FY21",
+       "a": "$3,850,000",
+       "s": 3016798,
+       "f": null
+      },
+      {
+       "fy": "FY22",
+       "a": "$3,850,000",
+       "s": 4899395,
+       "f": null
+      },
+      {
+       "fy": "FY23",
+       "a": "$3,850,000",
+       "s": 2801972,
+       "f": "13"
+      },
+      {
+       "fy": "FY24",
+       "a": "Line ended; spending was rolled forward",
+       "s": 3848632,
+       "f": "13 technical FTE"
+      },
+      {
+       "fy": "FY25",
+       "a": "$0",
+       "s": 0,
+       "f": "13 technical FTE"
+      },
+      {
+       "fy": "FY26",
+       "a": "$0, with a $9,500,000 informational line for the enterprise",
+       "s": 0,
+       "f": "18 technical FTE"
+      },
+      {
+       "fy": "FY27",
+       "a": "$0 requested, with the same $9,500,000 informational line",
+       "s": null,
+       "f": "25 planned"
+      }
+     ],
+     "notes": [
+      "The line is \"Plugging and Reclaiming Abandoned/Orphaned Wells.\"  It carried two-year spending authority from FY19, so a year’s spending can exceed that year’s appropriation.",
+      "FY22 and FY23 appropriations are read from a continuation statement and a request, not from the bills themselves.",
+      "Spending from the line before FY18, from two consecutive Joint Budget Committee documents: $425,058 in FY15, $439,682 in FY16, and $441,339 in FY17."
+     ],
+     "src": [
+      "jbc27",
+      "jbc24fig",
+      "jbc21hrg",
+      "jbc19fig",
+      "jbc18brf",
+      "ar18",
+      "ar19",
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26"
+     ]
+    },
+    {
+     "kind": "bars",
+     "unit": "usd",
+     "xLabel": "Annual report",
+     "title": "Operator bond claims in each year’s report",
+     "eyebrow": "active projects only",
+     "lead": "Each annual report lists the bond claims behind projects active that year.  The set of projects changes, so these aren’t cumulative recoveries.",
+     "x": [
+      "FY18",
+      "FY19",
+      "FY20",
+      "FY21",
+      "FY22",
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Total claimed",
+       "c": "s5",
+       "values": [
+        1385439,
+        1340545,
+        1849183,
+        2012922,
+        2709178,
+        2878049,
+        3539777,
+        4257882,
+        7505671
+       ]
+      },
+      {
+       "name": "Remaining unspent",
+       "c": "s4",
+       "values": [
+        646606,
+        478602,
+        416756,
+        581917,
+        802527,
+        940684,
+        687422,
+        707764,
+        3019025
+       ]
+      }
+     ],
+     "notes": [
+      "The FY26 jump includes a new $2,030,000 claim against Locin Oil that was unspent at year end."
+     ],
+     "src": [
+      "ar18",
+      "ar19",
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26"
+     ]
+    },
+    {
+     "kind": "hbar",
+     "unit": "usd",
+     "rowLabel": "Operator",
+     "valueLabel": "Bond claim",
+     "title": "Larger individual bond claims",
+     "eyebrow": "by ECMC order",
+     "lead": "Financial assurance ECMC claimed from operators whose wells entered the program, as listed in the annual reports.",
+     "rows": [
+      {
+       "label": "Locin Oil (1V-957)",
+       "value": 2030000,
+       "note": "First listed FY26"
+      },
+      {
+       "label": "Benchmark Energy (1V-564)",
+       "value": 620000
+      },
+      {
+       "label": "Fram (1V-774)",
+       "value": 347244
+      },
+      {
+       "label": "PetroShare (1V-726)",
+       "value": 325000,
+       "note": "Shown as $284,068 in later reports"
+      },
+      {
+       "label": "Painted Pegasus (1V-780)",
+       "value": 305000
+      },
+      {
+       "label": "Four Corners (1V-953)",
+       "value": 279892
+      },
+      {
+       "label": "Yates (1V-889)",
+       "value": 277233
+      },
+      {
+       "label": "Prospect Energy (1V-930)",
+       "value": 267571,
+       "note": "$225,000 in the FY25 report"
+      },
+      {
+       "label": "Entek GRB (1V-676)",
+       "value": 225000
+      },
+      {
+       "label": "Omimex Petroleum (1V-908)",
+       "value": 205000
+      },
+      {
+       "label": "Behrens (1-259)",
+       "value": 165000
+      },
+      {
+       "label": "Barrett Resources (1-349)",
+       "value": 125000
+      }
+     ],
+     "src": [
+      "ar22",
+      "ar25",
+      "ar26"
+     ]
+    },
+    {
+     "kind": "hbar",
+     "unit": "usd",
+     "rowLabel": "Project",
+     "valueLabel": "FY26 spending",
+     "title": "Largest projects by FY26 spending",
+     "eyebrow": "all funding sources",
+     "c": "s7",
+     "lead": "ECMC names projects for the operator that left the wells.  Spending is from every source combined.",
+     "rows": [
+      {
+       "label": "Painted Pegasus",
+       "value": 4675543
+      },
+      {
+       "label": "Omimex Petroleum",
+       "value": 2927148
+      },
+      {
+       "label": "Behrens",
+       "value": 2647717
+      },
+      {
+       "label": "Monument Global",
+       "value": 1655057
+      },
+      {
+       "label": "CM Production",
+       "value": 1580689
+      }
+     ],
+     "notes": [
+      "Omimex Petroleum left 339 wells with $205,000 of bonds, by a 2024 news report.  The Well list in charts page shows how many wells each project has on the list today."
+     ],
+     "src": [
+      "ar26",
+      "sun2403"
+     ]
+    },
+    {
+     "kind": "hbar",
+     "unit": "usd",
+     "rowLabel": "County",
+     "valueLabel": "FY26 spending",
+     "title": "FY26 spending by county",
+     "eyebrow": "ECMC staff slide",
+     "c": "s3",
+     "lead": "The counties ECMC staff listed as the top spenders in FY26, to the nearest $0.1 million.",
+     "rows": [
+      {
+       "label": "Adams",
+       "value": 6000000
+      },
+      {
+       "label": "Moffat",
+       "value": 2800000
+      },
+      {
+       "label": "La Plata",
+       "value": 2500000
+      },
+      {
+       "label": "Phillips and Sedgwick",
+       "value": 2500000
+      },
+      {
+       "label": "Montezuma",
+       "value": 1800000
+      },
+      {
+       "label": "Yuma",
+       "value": 1500000
+      },
+      {
+       "label": "Arapahoe",
+       "value": 1400000
+      },
+      {
+       "label": "Rio Blanco",
+       "value": 1100000
+      },
+      {
+       "label": "Garfield",
+       "value": 800000
+      }
+     ],
+     "notes": [
+      "The slide’s table is headed Top 10 and lists nine rows.  Its chart shows Jackson County among the largest bars, and the table leaves Jackson out.",
+      "A November 2026 news report gives different figures: Adams $6.2 million, La Plata $2.6 million, Jackson $2.4 million, and Phillips and Sedgwick $1.1 million."
+     ],
+     "src": [
+      "owme26",
+      "hppr26"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "title": "Statewide financial assurance held and estimated liability",
+     "eyebrow": "mixed sources",
+     "lead": "No official time series of total bonds held was found.  These figures come from ECMC statements reported in the news and from a research group, and they use different definitions, so they’re listed and not charted.",
+     "cols": [
+      {
+       "k": "d",
+       "label": "Date"
+      },
+      {
+       "k": "b",
+       "label": "Financial assurance held"
+      },
+      {
+       "k": "l",
+       "label": "Estimated liability"
+      },
+      {
+       "k": "w",
+       "label": "Who says",
+       "wrap": true
+      },
+      {
+       "k": "s",
+       "label": "Source"
+      }
+     ],
+     "rows": [
+      {
+       "d": "2021",
+       "b": "$272 million",
+       "l": null,
+       "w": "Carbon Tracker",
+       "s": {
+        "t": "False Start",
+        "u": "https://carbontracker.org/reports/false-start"
+       }
+      },
+      {
+       "d": "April 2022",
+       "b": "About $243 million (1,593 bonds)",
+       "l": null,
+       "w": "ECMC statement, reported by the Colorado Sun",
+       "s": {
+        "t": "Colorado Sun",
+        "u": "https://coloradosun.com/2024/02/20/oil-wells-colorado-carbon-tracker-bonding"
+       }
+      },
+      {
+       "d": "February 2024",
+       "b": "$399 million (1,827 bonds)",
+       "l": null,
+       "w": "ECMC statement, reported by the Colorado Sun",
+       "s": {
+        "t": "Colorado Sun",
+        "u": "https://coloradosun.com/2024/02/20/oil-wells-colorado-carbon-tracker-bonding"
+       }
+      },
+      {
+       "d": "February 2024",
+       "b": "About $268 million",
+       "l": "$7.2 billion",
+       "w": "Carbon Tracker",
+       "s": {
+        "t": "False Start",
+        "u": "https://carbontracker.org/reports/false-start"
+       }
+      },
+      {
+       "d": "September 2024",
+       "b": "$218 million \"in hand\"",
+       "l": "$6.8 billion minimum",
+       "w": "Carbon Tracker",
+       "s": {
+        "t": "Backfire",
+        "u": "https://carbontracker.org/reports/backfire"
+       }
+      }
+     ],
+     "notes": [
+      "ECMC disputes Carbon Tracker’s bonding findings.",
+      "The Legislation and rules page describes the 2022 financial assurance rules.  The Bonding and fees by state page sets them beside other states’ rules."
+     ],
+     "src": [
+      "ctfalse",
+      "ctback",
+      "sun2402"
+     ]
+    },
+    {
+     "kind": "bullets",
+     "title": "Published cost references",
+     "eyebrow": "ECMC and COGCC",
+     "items": [
+      {
+       "b": "2012 to 2017 averages.",
+       "t": "$35,000 to plug a well, $82,500 to plug and reclaim a one-well site, and $47,500 to reclaim a site with no well.",
+       "src": [
+        "wp2020"
+       ]
+      },
+      {
+       "b": "2026 range.",
+       "t": "ECMC gives $20,000 to $140,000 per well for plugging.",
+       "src": [
+        "smart26"
+       ]
+      },
+      {
+       "b": "No current average.",
+       "t": "ECMC doesn’t publish a current average cost per well or per site.  The Plugging and inventory page shows total spending divided by wells plugged, which isn’t a unit cost."
+      }
+     ]
+    }
+   ]
+  },
+  "activity": {
+   "lead": "What the program did each year and how the list of orphaned wells and sites has moved.  ECMC reports wells plugged, sites worked, and tasks.  It doesn’t publish annual totals of sites closed or wells added.",
+   "cards": [
+    {
+     "id": "wellsplugged",
+     "kind": "bars",
+     "unit": "n",
+     "xLabel": "State fiscal year",
+     "title": "Orphaned wells plugged",
+     "eyebrow": "FY19 to FY26",
+     "x": [
+      "FY19",
+      "FY20",
+      "FY21",
+      "FY22",
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Wells plugged",
+       "c": "s1",
+       "values": [
+        7,
+        61,
+        55,
+        73,
+        61,
+        132,
+        95,
+        161
+       ]
+      }
+     ],
+     "notes": [
+      "FY19 (7) is derived: ECMC’s 196 wells for FY19 through FY22, less FY20, FY21, and FY22.",
+      "FY20 through FY26 come from the annual reports.",
+      "ECMC staff estimated 150 wells for calendar 2026 and 200 for 2027."
+     ],
+     "derived": true,
+     "src": [
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26",
+      "sb181page",
+      "owme26"
+     ]
+    },
+    {
+     "id": "inventory",
+     "kind": "bars",
+     "unit": "n",
+     "xLabel": "As of",
+     "title": "Orphan inventory: unplugged wells and sites",
+     "eyebrow": "ECMC jurisdiction",
+     "lead": "Counts at the start of each state fiscal year, from the annual reports.  They exclude wells and sites under federal or tribal jurisdiction.  A site can have no well: tank batteries, pits, and flowlines count as sites.",
+     "x": [
+      "Aug 2018",
+      "Jul 2019",
+      "Jul 2020",
+      "Jul 2021",
+      "Jul 2022",
+      "Jul 2023",
+      "Jul 2024",
+      "Jul 2025",
+      "Jul 2026"
+     ],
+     "series": [
+      {
+       "name": "Unplugged orphaned wells",
+       "c": "s1",
+       "values": [
+        263,
+        275,
+        215,
+        236,
+        528,
+        467,
+        941,
+        948,
+        996
+       ]
+      },
+      {
+       "name": "Orphaned sites",
+       "c": "s4",
+       "values": [
+        365,
+        422,
+        454,
+        547,
+        981,
+        1116,
+        1747,
+        1897,
+        2156
+       ]
+      }
+     ],
+     "notes": [
+      "The first count is dated August 1, 2018.  The rest are July 1.",
+      "On October 20, 2025, ECMC staff counted 929 wells on 1,906 sites under ECMC jurisdiction and another 393 wells on 523 sites under federal or tribal jurisdiction."
+     ],
+     "src": [
+      "ar18",
+      "ar19",
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26",
+      "owme25"
+     ]
+    },
+    {
+     "kind": "bars",
+     "unit": "n",
+     "xLabel": "State fiscal year",
+     "title": "Sites with work and tasks",
+     "eyebrow": "FY18 to FY26",
+     "x": [
+      "FY18",
+      "FY19",
+      "FY20",
+      "FY21",
+      "FY22",
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Sites with work",
+       "c": "s3",
+       "values": [
+        61,
+        45,
+        102,
+        117,
+        139,
+        333,
+        290,
+        624,
+        813
+       ]
+      },
+      {
+       "name": "Tasks",
+       "c": "s2",
+       "values": [
+        85,
+        93,
+        185,
+        152,
+        161,
+        386,
+        339,
+        690,
+        1184
+       ]
+      }
+     ],
+     "notes": [
+      "A task is one piece of work at a site: plugging, equipment removal, flowline abandonment, sampling, remediation, or reclamation.",
+      "A task counts whether it was finished or still in progress at year end, and a task in progress may have started in an earlier year.",
+      "FY26 was checked row by row: Table 1 of the annual report lists 1,184 tasks at 813 distinct sites, plus one field-wide task, which matches the report’s text.  Of the 1,184 tasks, 121 are marked Completed and 1,063 In Progress.  Of the 813 sites, 798 are In Progress, 11 Completed, and 4 On Hold.",
+      "ECMC’s fee page and its October 2, 2026 news release give 1,035 tasks completed at 807 sites for FY26.  Those figures can’t be reproduced from the annual report’s Table 1.  The chart uses the annual report."
+     ],
+     "src": [
+      "ar18",
+      "ar19",
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26",
+      "feepage",
+      "feerelease"
+     ]
+    },
+    {
+     "id": "perwell",
+     "kind": "bars",
+     "unit": "usd",
+     "xLabel": "State fiscal year",
+     "title": "Total program spending divided by wells plugged",
+     "eyebrow": "FY20 to FY26",
+     "derived": true,
+     "x": [
+      "FY20",
+      "FY21",
+      "FY22",
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Spending per well plugged",
+       "c": "s6",
+       "values": [
+        77712,
+        57548,
+        73609,
+        167217,
+        113599,
+        161368,
+        164749
+       ]
+      }
+     ],
+     "lead": "Arithmetic on two published totals.  It isn’t a cost per well: the spending also pays for sites with no well, remediation, reclamation, flowlines, and monitoring.",
+     "notes": [
+      "From FY23 the program worked several times as many sites as it plugged wells, which raises this ratio without any change in plugging cost."
+     ],
+     "src": [
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26"
+     ]
+    },
+    {
+     "kind": "donut",
+     "unit": "pct",
+     "title": "FY25 spending by kind of work",
+     "eyebrow": "approximate shares",
+     "center": "$15.3M",
+     "sub": "FY25 spending",
+     "segs": [
+      {
+       "label": "Plugging, equipment decommissioning, flowline abandonment, methane monitoring",
+       "value": 64,
+       "c": "s1"
+      },
+      {
+       "label": "Reclamation",
+       "value": 20,
+       "c": "s3"
+      },
+      {
+       "label": "Sampling and remediation",
+       "value": 16,
+       "c": "s2"
+      }
+     ],
+     "notes": [
+      "Shares are as the FY25 annual report states them, to the nearest percent.  The report covered 690 tasks at 624 sites."
+     ],
+     "src": [
+      "ar25"
+     ]
+    },
+    {
+     "id": "mix26",
+     "kind": "donut",
+     "unit": "pct",
+     "title": "FY26 spending by kind of work",
+     "eyebrow": "approximate shares",
+     "center": "$26.5M",
+     "sub": "FY26 spending",
+     "segs": [
+      {
+       "label": "Equipment decommissioning, plugging and other well work, methane monitoring, flowline abandonment",
+       "value": 68,
+       "c": "s1"
+      },
+      {
+       "label": "Surface reclamation",
+       "value": 19,
+       "c": "s3"
+      },
+      {
+       "label": "Environmental sampling, laboratory analysis, and remediation",
+       "value": 13,
+       "c": "s2"
+      }
+     ],
+     "notes": [
+      "Shares are as the FY26 annual report states them, to the nearest percent."
+     ],
+     "src": [
+      "ar26"
+     ]
+    },
+    {
+     "kind": "table",
+     "title": "Year-over-year change in the well count",
+     "eyebrow": "derived",
+     "derived": true,
+     "lead": "ECMC doesn’t publish wells added or removed.  Net change is the difference between July 1 counts.  Implied additions add back the wells plugged that year, so they’re approximate.",
+     "cols": [
+      {
+       "k": "d",
+       "label": "July 1"
+      },
+      {
+       "k": "w",
+       "label": "Wells",
+       "num": true
+      },
+      {
+       "k": "n",
+       "label": "Net change",
+       "num": true
+      },
+      {
+       "k": "g",
+       "label": "Implied wells added in the year just ended",
+       "num": true
+      }
+     ],
+     "rows": [
+      {
+       "d": "2020",
+       "w": 215,
+       "n": -60,
+       "g": 1
+      },
+      {
+       "d": "2021",
+       "w": 236,
+       "n": 21,
+       "g": 76
+      },
+      {
+       "d": "2022",
+       "w": 528,
+       "n": 292,
+       "g": 365
+      },
+      {
+       "d": "2023",
+       "w": 467,
+       "n": -61,
+       "g": 0
+      },
+      {
+       "d": "2024",
+       "w": 941,
+       "n": 474,
+       "g": 606
+      },
+      {
+       "d": "2025",
+       "w": 948,
+       "n": 7,
+       "g": 102
+      },
+      {
+       "d": "2026",
+       "w": 996,
+       "n": 48,
+       "g": 209
+      }
+     ],
+     "notes": [
+      "CPR News reported 576 wells added in FY24, of which Omimex Petroleum (339) and WME Yates (212) were 96%.  The derived figure for that year is 606.",
+      "A count can also fall when ECMC finds a responsible party or corrects a record, which this arithmetic can’t see."
+     ],
+     "src": [
+      "ar20",
+      "ar21",
+      "ar22",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26",
+      "cpr24"
+     ]
+    },
+    {
+     "kind": "table",
+     "title": "Earlier counts",
+     "eyebrow": "before the annual reports",
+     "cols": [
+      {
+       "k": "d",
+       "label": "As of"
+      },
+      {
+       "k": "w",
+       "label": "Orphaned wells",
+       "num": true
+      },
+      {
+       "k": "s",
+       "label": "Sites or locations",
+       "num": true
+      }
+     ],
+     "rows": [
+      {
+       "d": "FY14",
+       "w": 38,
+       "s": 43
+      },
+      {
+       "d": "FY15",
+       "w": 57,
+       "s": 62
+      },
+      {
+       "d": "FY16",
+       "w": 53,
+       "s": 82
+      },
+      {
+       "d": "September 2017",
+       "w": 244,
+       "s": 300
+      }
+     ],
+     "notes": [
+      "The Joint Budget Committee’s staff reported fewer than 20 orphaned wells a year from FY08 through FY13.",
+      "About 225 Adams County wells entered the program together in 2018 when a gathering system shut down, by a 2026 news report."
+     ],
+     "src": [
+      "jbc19fig",
+      "jbc19brf",
+      "hppr26"
+     ]
+    },
+    {
+     "id": "pending",
+     "kind": "bullets",
+     "title": "What’s pending",
+     "eyebrow": "September 2026",
+     "items": [
+      {
+       "b": "2027 bond claims.",
+       "t": "Potential claims covering 1,215 wells were noticed, set for hearing, or in pre-hearing negotiation, 1,054 of them from one operator.  ECMC’s slides don’t name the operator.",
+       "src": [
+        "owme26"
+       ]
+      },
+      {
+       "b": "Named in the news.",
+       "t": "The Colorado Sun identifies the operator as K.P. Kauffman Company and gives 1,041 wells.",
+       "src": [
+        "hppr26"
+       ]
+      },
+      {
+       "b": "Commission docket.",
+       "t": "ECMC staff filed an enforcement application against K.P. Kauffman Company Inc. on July 23, 2026, as Cause 1V, Docket 260700198.  It asks the Commission to foreclose the operator’s financial assurance and to authorize the Director to declare its wells orphaned.  The notice set a hearing for November 5, 2026, subject to change.  A staff motion of September 1 calls the company operator of record for 1,575 wells and facilities.  The filings read don’t give the 1,054 figure, and the docket showed no order on November 19, 2026.",
+       "src": [
+        "kpk1v"
+       ]
+      },
+      {
+       "b": "Court of Appeals.",
+       "t": "On June 4, 2026 the court affirmed a $1,935,030 penalty and a suspension order against that operator in an unpublished opinion.",
+       "src": [
+        "kauffman"
+       ]
+      },
+      {
+       "b": "Already ordered.",
+       "t": "Approved orders covered 71 fee or state wells likely to be added in calendar 2026.",
+       "src": [
+        "owme26"
+       ]
+      },
+      {
+       "b": "FY26 site work.",
+       "t": "Staff reported sampling or methane monitoring at 548 sites, reclamation at 156 sites, weed management at more than 300 others, and 284 facilities decommissioned.",
+       "src": [
+        "owme26"
+       ]
+      },
+      {
+       "b": "Methane.",
+       "t": "Staff told the board the program mitigated about 1,371 metric tons of methane a year from July 2022 through June 2026.  A footnote on the same slide gives a four-year cumulative total of 3,300 metric tons, which is the figure in the annual report.",
+       "src": [
+        "owme26",
+        "ar26"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "federal": {
+   "lead": "Federal money for orphaned wells in Colorado comes mostly from Section 40601 of the 2021 Infrastructure Investment and Jobs Act (IIJA), which the Interior Department awards to states as Initial, Formula, and Matching grants.  FFY means the federal fiscal year, October through September.  State fiscal years run July through June.",
+   "cards": [
+    {
+     "id": "coawards",
+     "kind": "donut",
+     "unit": "usd",
+     "title": "IIJA grants awarded to Colorado",
+     "eyebrow": "through Sept 30, 2026",
+     "sub": "awarded",
+     "segs": [
+      {
+       "label": "Initial Grant (August 2022)",
+       "value": 25000000,
+       "c": "s1"
+      },
+      {
+       "label": "Formula Phase 1 (August 2024)",
+       "value": 25000000,
+       "c": "s2"
+      },
+      {
+       "label": "Formula Phase 2 (December 2025)",
+       "value": 29064506,
+       "c": "s3"
+      },
+      {
+       "label": "Matching Grants (December 2025 and March 2026)",
+       "value": 10841527,
+       "c": "s5"
+      }
+     ],
+     "notes": [
+      "Interior reports Formula awards as one figure, $54,064,506.  ECMC’s FY26 report gives the Phase 2 award as $29,064,506.",
+      "Colorado’s formula eligibility is $54,064,506, so none of it remains to be awarded."
+     ],
+     "src": [
+      "doi26",
+      "ar26",
+      "doi24",
+      "ar25"
+     ]
+    },
+    {
+     "id": "awardspent",
+     "kind": "hbar",
+     "unit": "usd",
+     "derived": true,
+     "rowLabel": "Measure",
+     "valueLabel": "Dollars",
+     "title": "IIJA money awarded and spent on projects",
+     "eyebrow": "different dates",
+     "lead": "The award total runs through September 30, 2026.  Project spending runs through June 30, 2026, summed from four annual reports.",
+     "rows": [
+      {
+       "label": "Awarded through Sept 30, 2026",
+       "value": 89906033,
+       "c": "s4"
+      },
+      {
+       "label": "Project spending, FY23 through FY26",
+       "value": 41704101,
+       "c": "s1",
+       "note": "Derived: 6,743,925 + 10,136,116 + 5,872,956 + 18,951,104"
+      }
+     ],
+     "notes": [
+      "Project spending leaves out grant administration, so it understates what Colorado has drawn.  ECMC calls the $25 million Initial Grant fully spent, while published project spending under it sums to about $21.8 million."
+     ],
+     "src": [
+      "doi26",
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26"
+     ]
+    },
+    {
+     "kind": "bars",
+     "wide": true,
+     "stacked": true,
+     "unit": "usd",
+     "xLabel": "State fiscal year",
+     "title": "Federal share of program spending",
+     "eyebrow": "FY23 to FY26",
+     "x": [
+      "FY23",
+      "FY24",
+      "FY25",
+      "FY26"
+     ],
+     "series": [
+      {
+       "name": "Federal IIJA grants",
+       "c": "s1",
+       "values": [
+        6743925,
+        10136116,
+        5872956,
+        18951104
+       ]
+      },
+      {
+       "name": "Federal BLM grant",
+       "c": "s7",
+       "values": [
+        0,
+        0,
+        509637,
+        369997
+       ]
+      },
+      {
+       "name": "State and operator sources",
+       "c": "s4",
+       "values": [
+        3456286,
+        4858952,
+        8947364,
+        7203411
+       ]
+      }
+     ],
+     "notes": [
+      "ECMC reports wells plugged as a program total.  It doesn’t publish how many were plugged with federal money.",
+      "The BLM agreements pay for work at orphaned sites on federal land: $1,358,963 awarded in September 2023 and $655,670 in September 2025."
+     ],
+     "src": [
+      "ar23",
+      "ar24",
+      "ar25",
+      "ar26",
+      "jbc27",
+      "owme25"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "tall": true,
+     "title": "Federal grants touching Colorado’s orphaned and marginal wells",
+     "eyebrow": "as published",
+     "cols": [
+      {
+       "k": "g",
+       "label": "Grant",
+       "wrap": true
+      },
+      {
+       "k": "a",
+       "label": "Amount",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "d",
+       "label": "Awarded"
+      },
+      {
+       "k": "s",
+       "label": "Status",
+       "wrap": true
+      },
+      {
+       "k": "l",
+       "label": "Source"
+      }
+     ],
+     "rows": [
+      {
+       "g": "IIJA Initial Grant",
+       "a": 25000000,
+       "d": "2022-08-25",
+       "s": "Field work ended November 30, 2024.  Closed in March 2025 and reported fully spent.",
+       "l": {
+        "t": "ECMC FY25 report",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY25_Orphaned_Well_Program_Annual_Report_Final.pdf"
+       }
+      },
+      {
+       "g": "IIJA Formula Grant, Phase 1",
+       "a": 25000000,
+       "d": "2024-08-02",
+       "s": "Runs September 1, 2024 to December 31, 2026.",
+       "l": {
+        "t": "ECMC FY25 report",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY25_Orphaned_Well_Program_Annual_Report_Final.pdf"
+       }
+      },
+      {
+       "g": "IIJA Formula Grant, Phase 2",
+       "a": 29064506,
+       "d": "2025-12-18",
+       "s": "Applied December 13, 2024 and revised to new federal guidance in 2025.  Effective January 1, 2026.",
+       "l": {
+        "t": "ECMC FY26 report",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY26_Orphaned_Well_Program_Annual_Report_Final.pdf"
+       }
+      },
+      {
+       "g": "IIJA Matching Grant, FY25",
+       "a": 5420764,
+       "d": "2025-12-19",
+       "s": "Effective January 1, 2026.",
+       "l": {
+        "t": "ECMC FY26 report",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY26_Orphaned_Well_Program_Annual_Report_Final.pdf"
+       }
+      },
+      {
+       "g": "IIJA Matching Grant, FY26",
+       "a": 5420763,
+       "d": "2026-03-31",
+       "s": "Effective April 1, 2026.  The two Matching awards sum to Interior’s $10,841,527.",
+       "l": {
+        "t": "ECMC FY26 report",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY26_Orphaned_Well_Program_Annual_Report_Final.pdf"
+       }
+      },
+      {
+       "g": "IIJA Regulatory Improvement Grant",
+       "a": null,
+       "d": null,
+       "s": "No Colorado record found.  Interior’s FY2025 and FY2026 reports don’t mention the grant type.",
+       "l": {
+        "t": "Interior FY2026 report",
+        "u": "https://www.doi.gov/sites/default/files/documents/2026-11/owpo-annual-report-congress-202610092026.pdf"
+       }
+      },
+      {
+       "g": "BLM grant to ECMC for federal sites, first award",
+       "a": 1358963,
+       "d": "2023-09-07",
+       "s": "Five years.  $509,637 spent in FY25 and $369,997 in FY26.",
+       "l": {
+        "t": "JBC FY2026-27 briefing",
+        "u": "https://content.leg.colorado.gov/sites/default/files/fy2026-27_natbrf2.pdf"
+       }
+      },
+      {
+       "g": "BLM cooperative agreement with ECMC, second award",
+       "a": 655670,
+       "d": "2025-09-24",
+       "s": "Five years, effective October 1, 2025.  Work starts once the 2023 agreement is spent.",
+       "l": {
+        "t": "ECMC FY26 report",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY26_Orphaned_Well_Program_Annual_Report_Final.pdf"
+       }
+      },
+      {
+       "g": "Tribal Phase 1 grant, Southern Ute Indian Tribe",
+       "a": 497850,
+       "d": "2023-09-21",
+       "s": "Assessment of an estimated 50 wells.",
+       "l": {
+        "t": "Interior release",
+        "u": "https://doi.gov/pressreleases/presidents-investing-america-agenda-provides-resources-tribal-nations-address-legacy"
+       }
+      },
+      {
+       "g": "Tribal Phase 2 in-lieu-of-grant, Ute Mountain Ute Tribe",
+       "a": null,
+       "d": null,
+       "s": "Named in Interior’s FY2026 report with no amount or well count.",
+       "l": {
+        "t": "Interior FY2026 report",
+        "u": "https://www.doi.gov/sites/default/files/documents/2026-11/owpo-annual-report-congress-202610092026.pdf"
+       }
+      },
+      {
+       "g": "EPA and DOE methane grant for marginal wells (Inflation Reduction Act)",
+       "a": 12600000,
+       "d": "2024-08-23",
+       "s": "Five years.  For low-producing wells that aren’t orphaned.  118 wells awarded as of October 2025.",
+       "l": {
+        "t": "Governor’s office",
+        "u": "https://www.colorado.gov/governor/news/governor-polis-colorado-energy-carbon-management-commission-announce-126-million-grants-epa"
+       }
+      }
+     ],
+     "src": [
+      "doi26",
+      "doi25",
+      "ar25",
+      "ar26",
+      "jbc27",
+      "owme25",
+      "doitribal",
+      "merp"
+     ]
+    },
+    {
+     "id": "stateawards",
+     "kind": "hbar",
+     "wide": true,
+     "unit": "usd",
+     "rowLabel": "State",
+     "valueLabel": "IIJA state grants awarded",
+     "title": "IIJA state grants awarded, by state",
+     "eyebrow": "through Sept 30, 2026",
+     "lead": "Initial, Formula, and Matching grants combined, for the 27 states with an award.",
+     "rows": [
+      {
+       "label": "Texas",
+       "value": 254184393
+      },
+      {
+       "label": "Pennsylvania",
+       "value": 216016185
+      },
+      {
+       "label": "California",
+       "value": 143044069
+      },
+      {
+       "label": "Oklahoma",
+       "value": 127613486
+      },
+      {
+       "label": "Ohio",
+       "value": 112757052
+      },
+      {
+       "label": "Louisiana",
+       "value": 108263107
+      },
+      {
+       "label": "West Virginia",
+       "value": 93050737
+      },
+      {
+       "label": "New Mexico",
+       "value": 90500000
+      },
+      {
+       "label": "Colorado",
+       "value": 89906033,
+       "hl": true
+      },
+      {
+       "label": "Kentucky",
+       "value": 85000000
+      },
+      {
+       "label": "New York",
+       "value": 69672162
+      },
+      {
+       "label": "Kansas",
+       "value": 58600000
+      },
+      {
+       "label": "Alaska",
+       "value": 53336497
+      },
+      {
+       "label": "North Dakota",
+       "value": 50000000
+      },
+      {
+       "label": "Illinois",
+       "value": 50000000
+      },
+      {
+       "label": "Michigan",
+       "value": 45873295
+      },
+      {
+       "label": "Indiana",
+       "value": 39076668
+      },
+      {
+       "label": "Arizona",
+       "value": 29871791
+      },
+      {
+       "label": "Wyoming",
+       "value": 25000000
+      },
+      {
+       "label": "Montana",
+       "value": 25000000
+      },
+      {
+       "label": "Nebraska",
+       "value": 25000000
+      },
+      {
+       "label": "Florida",
+       "value": 25000000
+      },
+      {
+       "label": "Mississippi",
+       "value": 13908146
+      },
+      {
+       "label": "Arkansas",
+       "value": 10589721
+      },
+      {
+       "label": "Missouri",
+       "value": 9930237
+      },
+      {
+       "label": "Alabama",
+       "value": 6681430
+      },
+      {
+       "label": "Utah",
+       "value": 5000000
+      }
+     ],
+     "notes": [
+      "All states: $1,862,875,009, up from $1,537,160,717 a year earlier."
+     ],
+     "src": [
+      "doi26",
+      "doi25"
+     ]
+    },
+    {
+     "kind": "hbar",
+     "wide": true,
+     "unit": "pct",
+     "derived": true,
+     "rowLabel": "State",
+     "valueLabel": "Formula eligibility not yet awarded",
+     "title": "Share of formula grant eligibility not yet awarded",
+     "eyebrow": "derived",
+     "lead": "One minus Formula awards through September 30, 2026 over the eligibility Interior published in its FY2024 report.  A state at 0% has been awarded all of it.",
+     "rows": [
+      {
+       "label": "Wyoming",
+       "value": 100.0
+      },
+      {
+       "label": "Utah",
+       "value": 100.0
+      },
+      {
+       "label": "Montana",
+       "value": 100.0
+      },
+      {
+       "label": "Nebraska",
+       "value": 100.0
+      },
+      {
+       "label": "Missouri",
+       "value": 81.0
+      },
+      {
+       "label": "Ohio",
+       "value": 75.0
+      },
+      {
+       "label": "North Dakota",
+       "value": 54.8
+      },
+      {
+       "label": "Oklahoma",
+       "value": 50.0
+      },
+      {
+       "label": "West Virginia",
+       "value": 50.0
+      },
+      {
+       "label": "Texas",
+       "value": 37.5
+      },
+      {
+       "label": "Pennsylvania",
+       "value": 37.5
+      },
+      {
+       "label": "California",
+       "value": 37.5
+      },
+      {
+       "label": "Illinois",
+       "value": 32.2
+      },
+      {
+       "label": "Louisiana",
+       "value": 30.6
+      },
+      {
+       "label": "Kentucky",
+       "value": 24.0
+      },
+      {
+       "label": "New Mexico",
+       "value": 17.0
+      },
+      {
+       "label": "Kansas",
+       "value": 0.2
+      },
+      {
+       "label": "Colorado",
+       "value": 0.0,
+       "hl": true
+      },
+      {
+       "label": "Indiana",
+       "value": 0.0
+      },
+      {
+       "label": "New York",
+       "value": 0.0
+      },
+      {
+       "label": "Michigan",
+       "value": 0.0
+      },
+      {
+       "label": "Alaska",
+       "value": 0.0
+      },
+      {
+       "label": "Alabama",
+       "value": 0.0
+      },
+      {
+       "label": "Arizona",
+       "value": 0.0
+      },
+      {
+       "label": "Arkansas",
+       "value": 0.0
+      },
+      {
+       "label": "Mississippi",
+       "value": 0.0
+      },
+      {
+       "label": "Florida",
+       "value": null
+      }
+     ],
+     "notes": [
+      "Eligibility figures are as of September 30, 2024.  Interior hasn’t restated them since, and a later transfer of $285 million out of the program may have changed what’s available.",
+      "Florida has no formula eligibility in Interior’s table."
+     ],
+     "src": [
+      "doi26",
+      "doi24"
+     ]
+    },
+    {
+     "kind": "bullets",
+     "wide": true,
+     "title": "Federal actions since 2025 that bear on Colorado",
+     "eyebrow": "as published",
+     "items": [
+      {
+       "b": "July 2025 guidance.",
+       "t": "Interior’s revised formula grant guidance made methane measurement before and after plugging optional unless state law requires it, and dropped the post-award environmental review.",
+       "src": [
+        "doiguid"
+       ]
+      },
+      {
+       "b": "Delay.",
+       "t": "ECMC revised its Phase 2 and Matching applications to the new guidance on July 25, 2025, and they were still pending on October 21, 2025.  No Colorado-specific freeze amount or release date was found.",
+       "src": [
+        "owme25"
+       ]
+      },
+      {
+       "b": "Reviews.",
+       "t": "ECMC reported that a new endangered species and historic preservation screening delayed projects by several months each in FY25.",
+       "src": [
+        "ar25"
+       ]
+      },
+      {
+       "b": "Transfer.",
+       "t": "Interior’s FY2026 report says Public Law 119-74 moved $285 million of unobligated orphaned well money to wildland fire.  The law itself wasn’t read for this page.",
+       "src": [
+        "doi26"
+       ]
+      },
+      {
+       "b": "Federal bonds.",
+       "t": "BLM’s 2024 rule raised minimum bonds to $150,000 per lease and $500,000 statewide.  In December 2025 BLM moved the statewide compliance date to June 22, 2027, and in June 2026 it proposed returning to the earlier minimums.  No final rule was found.",
+       "src": [
+        "blmbond",
+        "fr2025",
+        "fr2026"
+       ]
+      },
+      {
+       "b": "Federal land in Colorado.",
+       "t": "Interior reports wells plugged by bureau for the nation only, so there’s no published count for BLM, Forest Service, or Park Service land in Colorado."
+      },
+      {
+       "b": "Methane.",
+       "t": "No Colorado count of wells measured before and after plugging was found in Interior’s reports.  ECMC’s FY26 report says plugging orphaned wells eliminated a cumulative total of more than 3,330 metric tons of atmospheric methane from July 2022 through June 2026.",
+       "src": [
+        "ar26"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "states": {
+   "lead": "Where Colorado sits beside other oil and gas states on published figures.  States define an orphaned well differently, count different costs, and report on different calendars, so each chart states its basis.  The page reports positions on each measure and doesn’t grade them.",
+   "cards": [
+    {
+     "kind": "bullets",
+     "wide": true,
+     "title": "Colorado’s position on each measure",
+     "eyebrow": "derived from the tables below",
+     "items": [
+      {
+       "b": "Orphan share of unplugged wells.",
+       "t": "1.32% on the IOGCC December 2023 basis (650 of 49,405), fifth lowest of 22 states with data.",
+       "src": [
+        "iogcc24"
+       ]
+      },
+      {
+       "b": "Federal grants per documented orphan well.",
+       "t": "$138,317 on the December 2023 count of 650, fifth highest of 22.  On ECMC’s July 1, 2026 count of 996 it’s $90,267.",
+       "src": [
+        "doi26",
+        "iogcc24",
+        "ar26"
+       ]
+      },
+      {
+       "b": "Federal formula money.",
+       "t": "All of Colorado’s formula eligibility is awarded.  Across all states, about 41% of eligibility wasn’t awarded by September 30, 2026.",
+       "src": [
+        "doi26",
+        "doi24"
+       ]
+      },
+      {
+       "b": "Total IIJA awards.",
+       "t": "$89.9 million, ninth of 27 states.",
+       "src": [
+        "doi26"
+       ]
+      },
+      {
+       "b": "Wells plugged against the list.",
+       "t": "161 wells in FY26 against 996 on the list is 16% a year.  That’s arithmetic on two published figures and ignores wells added to the list.",
+       "src": [
+        "ar26"
+       ]
+      },
+      {
+       "b": "Spending per well.",
+       "t": "About $165,000 of total program spending per well plugged in FY26, below New Mexico’s and North Dakota’s all-in figures and above the figures found for Texas, Kansas, Oklahoma, Wyoming, Utah, Kentucky, and Ohio.  The definitions differ row to row.",
+       "src": [
+        "ar26"
+       ]
+      },
+      {
+       "b": "Reporting.",
+       "t": "Colorado is one of the states that publish an annual program report and a well-level list file.  It doesn’t publish an average cost per well.",
+       "src": [
+        "owpreports"
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "hbar",
+     "wide": true,
+     "unit": "usd",
+     "derived": true,
+     "rowLabel": "State and basis",
+     "valueLabel": "Dollars per well",
+     "title": "Cost per well, as each state’s figures allow",
+     "eyebrow": "not like for like",
+     "rowH": 24,
+     "lead": "Every row names its basis.  \"All-in\" divides total spending, including site reclamation and remediation, by wells plugged.  \"Plugging only\" leaves that work out.  The gap between the two bases inside one state can be larger than the gap between states.",
+     "rows": [
+      {
+       "label": "North Dakota, Initial Grant: all-in (derived)",
+       "value": 356923,
+       "note": "$26,055,370 / 73 wells, with reclamation of 115 sites."
+      },
+      {
+       "label": "New Mexico, FY26: all-in (derived)",
+       "value": 249123,
+       "note": "$28.4M / 114 wells."
+      },
+      {
+       "label": "New Mexico: official average, 195 federally funded wells",
+       "value": 193000,
+       "note": "Published by the agency."
+      },
+      {
+       "label": "Colorado, FY26: all program spending / wells (derived)",
+       "value": 164749,
+       "note": "$26,524,512 / 161.  Includes sites with no well, remediation, and reclamation.",
+       "hl": true
+      },
+      {
+       "label": "Colorado, FY25: all program spending / wells (derived)",
+       "value": 161368,
+       "note": "$15,329,957 / 95.",
+       "hl": true
+      },
+      {
+       "label": "Louisiana, 2022 to 2023: official mean",
+       "value": 113449,
+       "note": "Median $17,675.  Includes restoration."
+      },
+      {
+       "label": "Ohio, 2025: official, state traditional contracts",
+       "value": 98822,
+       "note": "Published by the agency."
+      },
+      {
+       "label": "Pennsylvania: one contract (implied)",
+       "value": 92400,
+       "note": "Carried from the SRA compilation."
+      },
+      {
+       "label": "North Dakota, Initial Grant: plugging only (derived)",
+       "value": 62245,
+       "note": "$4,543,897 / 73 wells."
+      },
+      {
+       "label": "West Virginia, 2025 to 2026 fund year (derived)",
+       "value": 59052,
+       "note": "$5,787,062 on the plugging line / 98 wells.  $60,853 with program staff costs."
+      },
+      {
+       "label": "Indiana, cumulative (derived)",
+       "value": 58100,
+       "note": "Carried from the SRA compilation."
+      },
+      {
+       "label": "Texas, FY25: plugging contracts / wells (derived)",
+       "value": 56312,
+       "note": "$62.0M / 1,101.  $67,698 with remediation contracts."
+      },
+      {
+       "label": "Utah, cumulative since 1992 (derived)",
+       "value": 37662,
+       "note": "$5.8M / 154 wells."
+      },
+      {
+       "label": "Illinois (derived)",
+       "value": 37000,
+       "note": "Carried from the SRA compilation."
+      },
+      {
+       "label": "Wyoming, Initial Grant (derived)",
+       "value": 25000,
+       "note": "$25M / 1,008 wells, mostly shallow coalbed methane wells."
+      },
+      {
+       "label": "Kentucky, Phase 1: official average",
+       "value": 22500,
+       "note": "From the state’s well-level data."
+      },
+      {
+       "label": "Oklahoma, FY24, federally funded (derived)",
+       "value": 21178,
+       "note": "State-funded wells: $37,482."
+      },
+      {
+       "label": "Kansas, federally funded (derived)",
+       "value": 10074,
+       "note": "$25,688,192 / 2,550 wells.  Official five-year district averages run $5,595 to $12,567."
+      }
+     ],
+     "notes": [
+      "No source was found that compares Colorado’s cost with another state’s and explains the difference.",
+      "Resources for the Future’s study of six states, which doesn’t include Colorado, estimates that full site reclamation adds about $32,000 to $40,000 a well and depth adds about $4.30 to $5.00 a foot."
+     ],
+     "src": [
+      "ar25",
+      "ar26",
+      "ks",
+      "ky",
+      "la",
+      "nd",
+      "nm",
+      "oh",
+      "ok",
+      "sra",
+      "tx",
+      "ut",
+      "wv",
+      "wy",
+      "rff"
+     ]
+    },
+    {
+     "kind": "hbar",
+     "unit": "n",
+     "rowLabel": "State and period",
+     "valueLabel": "Wells plugged",
+     "title": "Wells plugged in the latest reported year",
+     "eyebrow": "periods differ",
+     "rows": [
+      {
+       "label": "Texas, FY25",
+       "value": 1101
+      },
+      {
+       "label": "Oklahoma, FY24",
+       "value": 965
+      },
+      {
+       "label": "Kansas, 2024 (state and federal)",
+       "value": 639
+      },
+      {
+       "label": "Ohio, 2025",
+       "value": 480
+      },
+      {
+       "label": "Wyoming, FY25",
+       "value": 267
+      },
+      {
+       "label": "Colorado, FY26",
+       "value": 161,
+       "hl": true
+      },
+      {
+       "label": "Montana, 2023 (federal)",
+       "value": 137
+      },
+      {
+       "label": "New Mexico, FY26",
+       "value": 114
+      },
+      {
+       "label": "Pennsylvania, year to March 2025 (federal)",
+       "value": 100
+      },
+      {
+       "label": "West Virginia, 2025 to 2026 (state)",
+       "value": 98
+      },
+      {
+       "label": "Kentucky, 2025 (federal)",
+       "value": 83
+      },
+      {
+       "label": "North Dakota, 2023",
+       "value": 76
+      },
+      {
+       "label": "Indiana, 2025 to 2026 (federal)",
+       "value": 29
+      }
+     ],
+     "notes": [
+      "Rows marked federal count only federally funded wells.  Figures for Oklahoma, Wyoming, Ohio, Pennsylvania, West Virginia, Kentucky, and Indiana are carried from the SRA compilation of October 2026."
+     ],
+     "src": [
+      "ar26",
+      "tx",
+      "ks",
+      "nm",
+      "nd",
+      "iogcc24",
+      "sra"
+     ]
+    },
+    {
+     "id": "orphanshare",
+     "kind": "hbar",
+     "unit": "pct",
+     "derived": true,
+     "rowLabel": "State",
+     "valueLabel": "Orphan share",
+     "title": "Documented orphans as a share of wells drilled and not plugged",
+     "eyebrow": "IOGCC, Dec 2023",
+     "lead": "Documented orphaned wells over all wells drilled and not plugged, both from IOGCC’s survey of state agencies.",
+     "rows": [
+      {
+       "label": "Missouri",
+       "value": 83.01
+      },
+      {
+       "label": "Ohio",
+       "value": 33.34
+      },
+      {
+       "label": "New York",
+       "value": 32.67
+      },
+      {
+       "label": "Kentucky",
+       "value": 25.98
+      },
+      {
+       "label": "Nebraska",
+       "value": 20.63
+      },
+      {
+       "label": "Pennsylvania",
+       "value": 18.73
+      },
+      {
+       "label": "Indiana",
+       "value": 15.18
+      },
+      {
+       "label": "Illinois",
+       "value": 14.31
+      },
+      {
+       "label": "Oklahoma",
+       "value": 10.07
+      },
+      {
+       "label": "West Virginia",
+       "value": 8.1
+      },
+      {
+       "label": "Louisiana",
+       "value": 8.01
+      },
+      {
+       "label": "New Mexico",
+       "value": 5.41
+      },
+      {
+       "label": "California",
+       "value": 5.25
+      },
+      {
+       "label": "Kansas",
+       "value": 4.77
+      },
+      {
+       "label": "Michigan",
+       "value": 2.23
+      },
+      {
+       "label": "Texas",
+       "value": 2.14
+      },
+      {
+       "label": "Wyoming",
+       "value": 1.69
+      },
+      {
+       "label": "Colorado",
+       "value": 1.32,
+       "hl": true
+      },
+      {
+       "label": "Alaska",
+       "value": 0.76
+      },
+      {
+       "label": "Montana",
+       "value": 0.62
+      },
+      {
+       "label": "North Dakota",
+       "value": 0.35
+      },
+      {
+       "label": "Utah",
+       "value": 0.21
+      }
+     ],
+     "notes": [
+      "State definitions differ.  Ohio, California, and Pennsylvania each publish more than one count.",
+      "IOGCC’s 2026 report, with data through 2025, wasn’t available in full."
+     ],
+     "src": [
+      "iogcc24",
+      "iogcc26"
+     ]
+    },
+    {
+     "kind": "hbar",
+     "wide": true,
+     "unit": "n",
+     "rowLabel": "State",
+     "valueLabel": "Documented orphaned wells",
+     "title": "Documented orphaned wells",
+     "eyebrow": "IOGCC, Dec 2023",
+     "rows": [
+      {
+       "label": "Pennsylvania",
+       "value": 27240
+      },
+      {
+       "label": "Oklahoma",
+       "value": 21684
+      },
+      {
+       "label": "Ohio",
+       "value": 21508
+      },
+      {
+       "label": "Kentucky",
+       "value": 15870
+      },
+      {
+       "label": "Texas",
+       "value": 9313
+      },
+      {
+       "label": "New York",
+       "value": 7375
+      },
+      {
+       "label": "West Virginia",
+       "value": 6042
+      },
+      {
+       "label": "Kansas",
+       "value": 5713
+      },
+      {
+       "label": "California",
+       "value": 5333
+      },
+      {
+       "label": "Missouri",
+       "value": 4896
+      },
+      {
+       "label": "Louisiana",
+       "value": 4786
+      },
+      {
+       "label": "Illinois",
+       "value": 3946
+      },
+      {
+       "label": "New Mexico",
+       "value": 3158
+      },
+      {
+       "label": "Indiana",
+       "value": 1238
+      },
+      {
+       "label": "Wyoming",
+       "value": 790
+      },
+      {
+       "label": "Colorado",
+       "value": 650,
+       "hl": true
+      },
+      {
+       "label": "Nebraska",
+       "value": 466
+      },
+      {
+       "label": "Michigan",
+       "value": 388
+      },
+      {
+       "label": "Montana",
+       "value": 94
+      },
+      {
+       "label": "North Dakota",
+       "value": 80
+      },
+      {
+       "label": "Alaska",
+       "value": 43
+      },
+      {
+       "label": "Utah",
+       "value": 34
+      }
+     ],
+     "notes": [
+      "Colorado’s own count has since risen to 996 (July 1, 2026).  Other states’ latest figures are in the table below."
+     ],
+     "src": [
+      "iogcc24",
+      "ar26"
+     ]
+    },
+    {
+     "kind": "hbar",
+     "wide": true,
+     "unit": "usd",
+     "derived": true,
+     "rowLabel": "State",
+     "valueLabel": "IIJA dollars per documented orphan",
+     "title": "IIJA grants awarded per documented orphaned well",
+     "eyebrow": "15 states",
+     "lead": "Total awards through September 30, 2026 over the IOGCC December 2023 orphan count.  Every state could get a $25 million Initial Grant whatever its count, so states with short lists rank high.",
+     "rows": [
+      {
+       "label": "North Dakota",
+       "value": 625000
+      },
+      {
+       "label": "Montana",
+       "value": 265957
+      },
+      {
+       "label": "Utah",
+       "value": 147059
+      },
+      {
+       "label": "Colorado",
+       "value": 138317,
+       "hl": true
+      },
+      {
+       "label": "Wyoming",
+       "value": 31646
+      },
+      {
+       "label": "New Mexico",
+       "value": 28657
+      },
+      {
+       "label": "Texas",
+       "value": 27294
+      },
+      {
+       "label": "California",
+       "value": 26822
+      },
+      {
+       "label": "Louisiana",
+       "value": 22621
+      },
+      {
+       "label": "West Virginia",
+       "value": 15401
+      },
+      {
+       "label": "Kansas",
+       "value": 10257
+      },
+      {
+       "label": "Pennsylvania",
+       "value": 7930
+      },
+      {
+       "label": "Oklahoma",
+       "value": 5885
+      },
+      {
+       "label": "Kentucky",
+       "value": 5356
+      },
+      {
+       "label": "Ohio",
+       "value": 5243
+      }
+     ],
+     "notes": [
+      "Alaska ($1,240,384) and Michigan ($118,230) are in the full table and not in this chart."
+     ],
+     "src": [
+      "doi26",
+      "iogcc24"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "tall": true,
+     "title": "Inventory, annual plugging, and the ratio between them",
+     "eyebrow": "derived, not a forecast",
+     "derived": true,
+     "lead": "Inventory divided by wells plugged in a year.  It ignores wells added to the list, so it isn’t a forecast of when a list clears.",
+     "cols": [
+      {
+       "k": "s",
+       "label": "State"
+      },
+      {
+       "k": "i",
+       "label": "Inventory",
+       "num": true
+      },
+      {
+       "k": "b",
+       "label": "Inventory basis",
+       "wrap": true
+      },
+      {
+       "k": "w",
+       "label": "Wells in a year",
+       "num": true
+      },
+      {
+       "k": "p",
+       "label": "Period",
+       "wrap": true
+      },
+      {
+       "k": "sh",
+       "label": "Share of inventory",
+       "num": true,
+       "unit": "pct"
+      },
+      {
+       "k": "y",
+       "label": "Inventory / annual wells",
+       "num": true,
+       "unit": "yr"
+      }
+     ],
+     "rows": [
+      {
+       "s": "Colorado",
+       "i": 996,
+       "b": "ECMC, July 1, 2026",
+       "w": 161,
+       "p": "FY26",
+       "sh": 16.2,
+       "y": 6.2,
+       "hl": true
+      },
+      {
+       "s": "Texas",
+       "i": 10029,
+       "b": "Railroad Commission, Aug 2025",
+       "w": 1101,
+       "p": "FY25",
+       "sh": 11.0,
+       "y": 9.1
+      },
+      {
+       "s": "Kansas",
+       "i": 4566,
+       "b": "KCC, FY2025 report",
+       "w": 639,
+       "p": "2024, state and federal",
+       "sh": 14.0,
+       "y": 7.1
+      },
+      {
+       "s": "Kansas",
+       "i": 4566,
+       "b": "KCC, FY2025 report",
+       "w": 102,
+       "p": "FY25, state fund only",
+       "sh": 2.2,
+       "y": 44.8
+      },
+      {
+       "s": "Oklahoma",
+       "i": 20406,
+       "b": "OCC, Jan 2025 (carried)",
+       "w": 965,
+       "p": "FY24 (carried)",
+       "sh": 4.7,
+       "y": 21.1
+      },
+      {
+       "s": "Wyoming",
+       "i": 500,
+       "b": "WOGCC, July 2025, approximate (carried)",
+       "w": 267,
+       "p": "FY25 (carried)",
+       "sh": 53.4,
+       "y": 1.9
+      },
+      {
+       "s": "New Mexico",
+       "i": 2000,
+       "b": "EMNRD and LFC, 2026, approximate",
+       "w": 114,
+       "p": "FY26",
+       "sh": 5.7,
+       "y": 17.5
+      },
+      {
+       "s": "Ohio",
+       "i": 2533,
+       "b": "ODNR program inventory, 2025 (carried)",
+       "w": 480,
+       "p": "2025 (carried)",
+       "sh": 18.9,
+       "y": 5.3
+      },
+      {
+       "s": "Ohio",
+       "i": 21508,
+       "b": "IOGCC, Dec 2023",
+       "w": 480,
+       "p": "2025 (carried)",
+       "sh": 2.2,
+       "y": 44.8
+      },
+      {
+       "s": "Pennsylvania",
+       "i": 27000,
+       "b": "DEP, April 2025, approximate (carried)",
+       "w": 100,
+       "p": "Year to March 2025, federal (carried)",
+       "sh": 0.4,
+       "y": 270
+      },
+      {
+       "s": "West Virginia",
+       "i": 6042,
+       "b": "IOGCC, Dec 2023",
+       "w": 98,
+       "p": "June 2025 to May 2026, state only (carried)",
+       "sh": 1.6,
+       "y": 61.7
+      },
+      {
+       "s": "Kentucky",
+       "i": 15000,
+       "b": "EEC, Oct 2023, approximate (carried)",
+       "w": 83,
+       "p": "2025, federal only (carried)",
+       "sh": 0.6,
+       "y": 180.7
+      },
+      {
+       "s": "Indiana",
+       "i": 754,
+       "b": "DNR, Aug 2026, approximate (carried)",
+       "w": 29,
+       "p": "Feb 2025 to Jan 2026, federal only (carried)",
+       "sh": 3.8,
+       "y": 26.0
+      }
+     ],
+     "notes": [
+      "Kansas and Ohio have two rows each because the answer depends on which definition is used.",
+      "\"Carried\" marks a figure taken from the SRA compilation of October 2026 and not re-checked for this page."
+     ],
+     "src": [
+      "ar26",
+      "tx",
+      "ks",
+      "nm",
+      "iogcc24",
+      "sra"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "tall": true,
+     "title": "IIJA awards, eligibility, and orphan counts, all states",
+     "eyebrow": "Interior and IOGCC",
+     "cols": [
+      {
+       "k": "s",
+       "label": "State"
+      },
+      {
+       "k": "i",
+       "label": "Initial",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "f",
+       "label": "Formula awarded",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "m",
+       "label": "Matching",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "t",
+       "label": "Total, Sept 30, 2026",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "p",
+       "label": "Total, Sept 30, 2025",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "e",
+       "label": "Formula eligibility",
+       "num": true,
+       "unit": "usdfull"
+      },
+      {
+       "k": "u",
+       "label": "Formula not awarded (derived)",
+       "num": true,
+       "unit": "pct"
+      },
+      {
+       "k": "o",
+       "label": "Orphans, IOGCC Dec 2023",
+       "num": true
+      },
+      {
+       "k": "d",
+       "label": "IIJA $ per orphan (derived)",
+       "num": true,
+       "unit": "usdfull"
+      }
+     ],
+     "rows": [
+      {
+       "s": "Texas",
+       "i": 25000000,
+       "f": 199184393,
+       "m": 30000000,
+       "t": 254184393,
+       "p": 254184393,
+       "e": 318695029,
+       "u": 37.5,
+       "o": 9313,
+       "d": 27294
+      },
+      {
+       "s": "Pennsylvania",
+       "i": 25000000,
+       "f": 191016185,
+       "m": 0,
+       "t": 216016185,
+       "p": 101406474,
+       "e": 305625896,
+       "u": 37.5,
+       "o": 27240,
+       "d": 7930
+      },
+      {
+       "s": "California",
+       "i": 25000000,
+       "f": 88044069,
+       "m": 30000000,
+       "t": 143044069,
+       "p": 122072683,
+       "e": 140870510,
+       "u": 37.5,
+       "o": 5333,
+       "d": 26822
+      },
+      {
+       "s": "Oklahoma",
+       "i": 25000000,
+       "f": 102613486,
+       "m": 0,
+       "t": 127613486,
+       "p": 127613486,
+       "e": 205226972,
+       "u": 50.0,
+       "o": 21684,
+       "d": 5885
+      },
+      {
+       "s": "Ohio",
+       "i": 25000000,
+       "f": 57757052,
+       "m": 30000000,
+       "t": 112757052,
+       "p": 82757052,
+       "e": 231028206,
+       "u": 75.0,
+       "o": 21508,
+       "d": 5243
+      },
+      {
+       "s": "Louisiana",
+       "i": 25000000,
+       "f": 60000000,
+       "m": 23263107,
+       "t": 108263107,
+       "p": 73263107,
+       "e": 86449520,
+       "u": 30.6,
+       "o": 4786,
+       "d": 22621
+      },
+      {
+       "s": "West Virginia",
+       "i": 25000000,
+       "f": 58466114,
+       "m": 9584623,
+       "t": 93050737,
+       "p": 59505005,
+       "e": 116932226,
+       "u": 50.0,
+       "o": 6042,
+       "d": 15401
+      },
+      {
+       "s": "New Mexico",
+       "i": 25000000,
+       "f": 60000000,
+       "m": 5500000,
+       "t": 90500000,
+       "p": 55500000,
+       "e": 72260163,
+       "u": 17.0,
+       "o": 3158,
+       "d": 28657
+      },
+      {
+       "s": "Colorado",
+       "i": 25000000,
+       "f": 54064506,
+       "m": 10841527,
+       "t": 89906033,
+       "p": 50000000,
+       "e": 54064506,
+       "u": 0.0,
+       "o": 650,
+       "d": 138317,
+       "hl": true
+      },
+      {
+       "s": "Kentucky",
+       "i": 25000000,
+       "f": 60000000,
+       "m": 0,
+       "t": 85000000,
+       "p": 85000000,
+       "e": 78980737,
+       "u": 24.0,
+       "o": 15870,
+       "d": 5356
+      },
+      {
+       "s": "New York",
+       "i": 25000000,
+       "f": 44672162,
+       "m": 0,
+       "t": 69672162,
+       "p": 69672162,
+       "e": 44672162,
+       "u": 0.0,
+       "o": 7375,
+       "d": 9447
+      },
+      {
+       "s": "Kansas",
+       "i": 25000000,
+       "f": 33600000,
+       "m": 0,
+       "t": 58600000,
+       "p": 58600000,
+       "e": 33666697,
+       "u": 0.2,
+       "o": 5713,
+       "d": 10257
+      },
+      {
+       "s": "Alaska",
+       "i": 25000000,
+       "f": 28336497,
+       "m": 0,
+       "t": 53336497,
+       "p": 53336497,
+       "e": 28336497,
+       "u": 0.0,
+       "o": 43,
+       "d": 1240384
+      },
+      {
+       "s": "North Dakota",
+       "i": 25000000,
+       "f": 25000000,
+       "m": 0,
+       "t": 50000000,
+       "p": 50000000,
+       "e": 55266234,
+       "u": 54.8,
+       "o": 80,
+       "d": 625000
+      },
+      {
+       "s": "Illinois",
+       "i": 25000000,
+       "f": 25000000,
+       "m": 0,
+       "t": 50000000,
+       "p": 50000000,
+       "e": 36875485,
+       "u": 32.2,
+       "o": 3946,
+       "d": 12671
+      },
+      {
+       "s": "Michigan",
+       "i": 25000000,
+       "f": 5873295,
+       "m": 15000000,
+       "t": 45873295,
+       "p": 35873295,
+       "e": 5873295,
+       "u": 0.0,
+       "o": 388,
+       "d": 118230
+      },
+      {
+       "s": "Indiana",
+       "i": 25000000,
+       "f": 14076668,
+       "m": 0,
+       "t": 39076668,
+       "p": 39076668,
+       "e": 14076668,
+       "u": 0.0,
+       "o": 1238,
+       "d": 31564
+      },
+      {
+       "s": "Arizona",
+       "i": 25000000,
+       "f": 4871791,
+       "m": 0,
+       "t": 29871791,
+       "p": 29871791,
+       "e": 4871791,
+       "u": 0.0,
+       "o": null,
+       "d": null
+      },
+      {
+       "s": "Wyoming",
+       "i": 25000000,
+       "f": 0,
+       "m": 0,
+       "t": 25000000,
+       "p": 25000000,
+       "e": 40680639,
+       "u": 100.0,
+       "o": 790,
+       "d": 31646
+      },
+      {
+       "s": "Montana",
+       "i": 25000000,
+       "f": 0,
+       "m": 0,
+       "t": 25000000,
+       "p": 25000000,
+       "e": 5139423,
+       "u": 100.0,
+       "o": 94,
+       "d": 265957
+      },
+      {
+       "s": "Nebraska",
+       "i": 25000000,
+       "f": 0,
+       "m": 0,
+       "t": 25000000,
+       "p": 25000000,
+       "e": 4151076,
+       "u": 100.0,
+       "o": 466,
+       "d": 53648
+      },
+      {
+       "s": "Florida",
+       "i": 25000000,
+       "f": 0,
+       "m": 0,
+       "t": 25000000,
+       "p": 25000000,
+       "e": null,
+       "u": null,
+       "o": null,
+       "d": null
+      },
+      {
+       "s": "Mississippi",
+       "i": 5000000,
+       "f": 6830345,
+       "m": 2077801,
+       "t": 13908146,
+       "p": 13908146,
+       "e": 6830345,
+       "u": 0.0,
+       "o": null,
+       "d": null
+      },
+      {
+       "s": "Arkansas",
+       "i": 5000000,
+       "f": 5589721,
+       "m": 0,
+       "t": 10589721,
+       "p": 10589721,
+       "e": 5589721,
+       "u": 0.0,
+       "o": null,
+       "d": null
+      },
+      {
+       "s": "Missouri",
+       "i": 4806743,
+       "f": 5123494,
+       "m": 0,
+       "t": 9930237,
+       "p": 9930237,
+       "e": 26925384,
+       "u": 81.0,
+       "o": 4896,
+       "d": 2028
+      },
+      {
+       "s": "Alabama",
+       "i": 5000000,
+       "f": 1681430,
+       "m": 0,
+       "t": 6681430,
+       "p": 5000000,
+       "e": 1681430,
+       "u": 0.0,
+       "o": null,
+       "d": null
+      },
+      {
+       "s": "Utah",
+       "i": 5000000,
+       "f": 0,
+       "m": 0,
+       "t": 5000000,
+       "p": 0,
+       "e": 5229389,
+       "u": 100.0,
+       "o": 34,
+       "d": 147059
+      }
+     ],
+     "notes": [
+      "A zero in an award column is a dash in Interior’s table, meaning no award is listed.",
+      "Utah’s $5 million sits ambiguously between columns in the extracted table and is shown as an Initial Grant, which matches the state’s own announcement."
+     ],
+     "derived": true,
+     "src": [
+      "doi26",
+      "doi25",
+      "doi24",
+      "iogcc24",
+      "ut"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "tall": true,
+     "title": "What each state publishes",
+     "eyebrow": "reporting",
+     "lead": "\"Not found\" means it wasn’t located for this page, which is weaker than a confirmed no.",
+     "cols": [
+      {
+       "k": "s",
+       "label": "State"
+      },
+      {
+       "k": "r",
+       "label": "Annual program report",
+       "wrap": true
+      },
+      {
+       "k": "d",
+       "label": "Well-level data download",
+       "wrap": true
+      },
+      {
+       "k": "m",
+       "label": "Public map or dashboard"
+      },
+      {
+       "k": "c",
+       "label": "Cost per well published",
+       "wrap": true
+      },
+      {
+       "k": "l",
+       "label": "Where"
+      }
+     ],
+     "rows": [
+      {
+       "s": "Colorado",
+       "r": "Yes, FY2026 (Sept 2026)",
+       "d": "Yes, Orphaned Well Program shapefile",
+       "m": "Yes",
+       "c": "No",
+       "l": {
+        "t": "ECMC",
+        "u": "https://ecmc.colorado.gov/regulation/orphaned-well-program/owp-reports"
+       },
+       "hl": true
+      },
+      {
+       "s": "Texas",
+       "r": "Yes, FY2025",
+       "d": "Yes, IIJA well-level spreadsheets with cost",
+       "m": "Yes",
+       "c": "No average; well-level costs posted",
+       "l": {
+        "t": "RRC",
+        "u": "https://rrc.texas.gov/oil-and-gas/environmental-cleanup-programs/federally-funded-well-plugging/"
+       }
+      },
+      {
+       "s": "Kansas",
+       "r": "Yes, 2026 report on FY2025",
+       "d": "Yes, well listing and monthly statistics",
+       "m": "Not found",
+       "c": "Yes, five-year district averages",
+       "l": {
+        "t": "KCC",
+        "u": "https://www.kcc.ks.gov/oil-gas/state-plugging-program"
+       }
+      },
+      {
+       "s": "Oklahoma",
+       "r": "No; agency annual reports stop at FY23",
+       "d": "Not found",
+       "m": "Yes",
+       "c": "No",
+       "l": {
+        "t": "OCC",
+        "u": "https://oklahoma.gov/occ/divisions/oil-gas.html"
+       }
+      },
+      {
+       "s": "Wyoming",
+       "r": "Yes, agency annual report, 2025",
+       "d": "Not found",
+       "m": "Not found",
+       "c": "No; a 2014 to 2019 cost summary only",
+       "l": {
+        "t": "WOGCC",
+        "u": "https://wogcc.wyo.gov/public-resources/orphan-well-program"
+       }
+      },
+      {
+       "s": "New Mexico",
+       "r": "No; legislative handouts",
+       "d": "Not found",
+       "m": "Not found",
+       "c": "Yes, $193,000 average on 195 wells",
+       "l": {
+        "t": "EMNRD",
+        "u": "https://www.nmlegis.gov/handouts/WNR%20071326%20Item%205%20EMNRD%20Well%20Plugging%20Update.pdf"
+       }
+      },
+      {
+       "s": "Utah",
+       "r": "No",
+       "d": "Not found",
+       "m": "Yes",
+       "c": "No; cumulative totals only",
+       "l": {
+        "t": "OGM",
+        "u": "https://ogm.utah.gov/orphan-well"
+       }
+      },
+      {
+       "s": "North Dakota",
+       "r": "No; IIJA final performance report",
+       "d": "Yes, IIJA data tracking sheet",
+       "m": "Not found",
+       "c": "No; totals allow it to be derived",
+       "l": {
+        "t": "DMR",
+        "u": "https://www.dmr.nd.gov/dmr/iija/initialgrant"
+       }
+      },
+      {
+       "s": "Montana",
+       "r": "No; quarterly federal spreadsheets",
+       "d": "Yes, quarterly spreadsheets",
+       "m": "Not found",
+       "c": "No",
+       "l": {
+        "t": "BOGC",
+        "u": "https://bogwebfiles.dnrc.mt.gov/OrphanWellIijaFunding/"
+       }
+      },
+      {
+       "s": "Ohio",
+       "r": "Yes, 2025",
+       "d": "Not found",
+       "m": "Not found",
+       "c": "Yes",
+       "l": {
+        "t": "ODNR",
+        "u": "https://ohiodnr.gov/business-and-industry/energy-resources/oil-and-gas-wells/orphan-well-program"
+       }
+      },
+      {
+       "s": "Pennsylvania",
+       "r": "No; quarterly grant reports",
+       "d": "Not found",
+       "m": "Yes",
+       "c": "No",
+       "l": {
+        "t": "DEP",
+        "u": "https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas/legacy-wells"
+       }
+      },
+      {
+       "s": "West Virginia",
+       "r": "Yes, fund report, FY26",
+       "d": "Not found",
+       "m": "Yes",
+       "c": "No",
+       "l": {
+        "t": "DEP",
+        "u": "https://dep.wv.gov/oil-and-gas/abandoned-well-plugging/state-funded-plugging/Pages/default.aspx"
+       }
+      },
+      {
+       "s": "Kentucky",
+       "r": "No",
+       "d": "Yes, public feature service with cost",
+       "m": "Yes",
+       "c": "Yes, per-well totals",
+       "l": {
+        "t": "EEC",
+        "u": "https://kygis.maps.arcgis.com/apps/dashboards/d0cd68389c3f494bafecede7f1c76ddd"
+       }
+      },
+      {
+       "s": "California",
+       "r": "No; expenditure plan, Oct 2024",
+       "d": "Not found",
+       "m": "Not found",
+       "c": "No",
+       "l": {
+        "t": "CalGEM",
+        "u": "https://conservation.ca.gov/calgem/Pages/State-Abandonments.aspx"
+       }
+      }
+     ],
+     "notes": [
+      "Rows other than Colorado, Texas, Kansas, New Mexico, Utah, and North Dakota are carried from the SRA compilation of October 2026."
+     ],
+     "src": [
+      "owpreports",
+      "sra"
+     ]
+    }
+   ]
+  },
+  "policy": {
+   "lead": "How Colorado’s financial assurance rules, dedicated fees, idle-well rules, and definitions sit beside other states’, as in force in November 2026.  Each row links to the statute, rule, or agency page it rests on.  \"Not confirmed\" means the detail wasn’t verified on an official source for this page.",
+   "cards": [
+    {
+     "kind": "bullets",
+     "wide": true,
+     "title": "Colorado’s 2022 financial assurance rules in brief",
+     "eyebrow": "700 Series, effective April 30, 2022",
+     "items": [
+      {
+       "b": "Plans.",
+       "t": "Each operator files a financial assurance plan under one of six options tied to its well count and production.",
+       "src": [
+        "rules700"
+       ]
+      },
+      {
+       "b": "Which option.",
+       "t": "The option follows the operator’s average daily production per well: Option 1 above 60 barrels of oil equivalent, Option 2 above 15 and up to 60, Option 3 above 2 and up to 15, and Option 4 for everyone else, including operators reporting no production.  Option 5 is for individual circumstances and Option 6 for larger public and private companies.",
+       "src": [
+        "rules700"
+       ]
+      },
+      {
+       "b": "Options 1 and 2, blanket amounts.",
+       "t": "Option 1: $12,000 a well for 50 or fewer wells, $10,000 for 51 to 150, $5,000 for 151 to 1,500, $3,000 for 1,501 to 4,000, and $1,500 above 4,000.  Option 2: $18,000, $15,000, $12,000, $10,000, and $8,000 for the same bands.",
+       "src": [
+        "rules700"
+       ]
+      },
+      {
+       "b": "Low-producing wells.",
+       "t": "The blanket covers low-producing wells up to 10% of an operator’s wells under Option 1 and 5% under Option 2.  Wells past that share, and low-producing wells that change hands, need single-well financial assurance.",
+       "src": [
+        "rules700"
+       ]
+      },
+      {
+       "b": "Options 3 and 4.",
+       "t": "Single-well financial assurance for every well, paid in over time: a presumptive 5% of the total each year under Option 3 and 10% under Option 4.",
+       "src": [
+        "rules700"
+       ]
+      },
+      {
+       "b": "Single-well amount.",
+       "t": "Either the operator’s demonstrated cost, or the commission’s estimates: $10,000 to plug a well of 4,000 feet or less, $30,000 for 4,000 to 8,000 feet, and $40,000 beyond 8,000 feet, plus the well’s share of $100,000 of reclamation per location.",
+       "src": [
+        "rules100"
+       ]
+      },
+      {
+       "b": "What the agency said in 2022.",
+       "t": "COGCC’s fact sheet said the rules raise amounts 10 to 30 times for mid and high production operators and likely put single-well assurance on over half the state’s wells.",
+       "src": [
+        "fafact"
+       ]
+      },
+      {
+       "b": "Before 2022.",
+       "t": "A 2018 legislative attachment cites $20,000 per well for plugging and inactive wells as the requirement then.",
+       "src": [
+        "jbc19fig"
+       ]
+      },
+      {
+       "b": "Not amended since.",
+       "t": "ECMC’s current rule set still links the April 30, 2022 text of the 700 Series.",
+       "src": [
+        "rulespage"
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "tall": true,
+     "title": "Financial assurance by state",
+     "eyebrow": "bonding",
+     "cols": [
+      {
+       "k": "s",
+       "label": "State"
+      },
+      {
+       "k": "i",
+       "label": "Individual well",
+       "wrap": true
+      },
+      {
+       "k": "b",
+       "label": "Blanket",
+       "wrap": true
+      },
+      {
+       "k": "sc",
+       "label": "Scales with",
+       "wrap": true
+      },
+      {
+       "k": "f",
+       "label": "Full-cost or single-well trigger",
+       "wrap": true
+      },
+      {
+       "k": "u",
+       "label": "Last major update",
+       "wrap": true
+      },
+      {
+       "k": "l",
+       "label": "Citation"
+      }
+     ],
+     "rows": [
+      {
+       "s": "Colorado",
+       "i": "Demonstrated cost, or $10,000, $30,000, or $40,000 by depth plus a share of $100,000 per location",
+       "b": "$1,500 to $12,000 a well (Option 1) or $8,000 to $18,000 a well (Option 2)",
+       "sc": "Well count and operator production",
+       "f": "Low-producing wells above 10% (Option 1) or 5% (Option 2) of an operator’s wells; transferred low-producing wells; every well under Options 3 and 4",
+       "u": "April 30, 2022",
+       "l": {
+        "t": "Rule 702",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/700%20Series%20-%20Financial%20Assurance_Effective%20April%2030%2C%202022.pdf"
+       },
+       "hl": true
+      },
+      {
+       "s": "Wyoming",
+       "i": "$10 a foot",
+       "b": "$100,000",
+       "sc": "Depth",
+       "f": "Idle wells: up to $10 a foot, or an accepted plan",
+       "u": "June 22, 2022",
+       "l": {
+        "t": "Ch. 3 Sec. 4",
+        "u": "https://www.law.cornell.edu/regulations/wyoming/055-3-Wyo-Code-R-SS-3-4"
+       }
+      },
+      {
+       "s": "New Mexico",
+       "i": "$150,000",
+       "b": "$250,000 for active wells",
+       "sc": "Flat; risk status",
+       "f": "Low-producing wells on transfer now, all from May 1, 2029; all wells if over 20% are inactive",
+       "u": "September 22, 2026",
+       "l": {
+        "t": "19.15.8.9 NMAC",
+        "u": "https://www.emnrd.nm.gov/ocd/wp-content/uploads/sites/6/19.15.8-amendment.pdf"
+       }
+      },
+      {
+       "s": "Utah",
+       "i": "Depth-based; schedule not confirmed",
+       "b": "Three tiers; $200,000 to $5 million, not confirmed",
+       "sc": "Depth, production, well count, share of at-risk wells",
+       "f": "Supplemental bond for at-risk wells",
+       "u": "July 8, 2026",
+       "l": {
+        "t": "OGM notice",
+        "u": "https://ogm.utah.gov/2026/07/16/ogm-implements-updated-oil-and-gas-bonding-rules"
+       }
+      },
+      {
+       "s": "North Dakota",
+       "i": "$50,000",
+       "b": "$100,000, with at most six abandoned or long-idle wells",
+       "sc": "Flat",
+       "f": "Commission may raise after a hearing",
+       "u": null,
+       "l": {
+        "t": "NDAC 43-02-03-15",
+        "u": "https://ndlegis.gov/prod/acdata/pdf/43-02-03.pdf"
+       }
+      },
+      {
+       "s": "Montana",
+       "i": "$1,500, $5,000, or $10,000",
+       "b": "$50,000",
+       "sc": "Depth bands",
+       "f": "Board may double the bond or limit wells",
+       "u": "March 23, 2007",
+       "l": {
+        "t": "ARM 36.22.1308",
+        "u": "https://www.law.cornell.edu/regulations/montana/Mont-Admin-r-36.22.1308"
+       }
+      },
+      {
+       "s": "Oklahoma",
+       "i": null,
+       "b": "$25,000 for 1 to 10 wells, $50,000 for 11 to 50, $100,000 for 51 to 100, $150,000 above 100",
+       "sc": "Well count",
+       "f": null,
+       "u": "November 1, 2025 (HB 1369)",
+       "l": {
+        "t": "HB 1369",
+        "u": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1369%20ENR.PDF"
+       }
+      },
+      {
+       "s": "Texas",
+       "i": "$2 a foot of aggregate depth",
+       "b": "$25,000, $50,000, or $250,000",
+       "sc": "Depth or well count",
+       "f": "A full-cost bond is one extension option for long-inactive wells from September 1, 2027",
+       "u": "2001 to 2005; SB 1150 in 2025",
+       "l": {
+        "t": "RRC",
+        "u": "https://www.rrc.texas.gov/oil-and-gas/requirements-and-responsibilities/summary-of-requirements"
+       }
+      },
+      {
+       "s": "Kansas",
+       "i": "$0.75 a foot of aggregate depth",
+       "b": "$7,500 to $45,000, or a $100 annual fee, or a 6% fee",
+       "sc": "Depth and well count",
+       "f": "None found",
+       "u": null,
+       "l": {
+        "t": "K.S.A. 55-155",
+        "u": "https://www.ksrevisor.gov/statutes/chapters/ch55/055_001_0055.html"
+       }
+      },
+      {
+       "s": "Pennsylvania",
+       "i": "Conventional $2,500; unconventional $4,000 or $10,000",
+       "b": "Conventional $25,000 to $100,000; unconventional capped at $35,000 to $600,000",
+       "sc": "Well type, bore length, well count",
+       "f": "None; pre-1985 conventional wells are exempt",
+       "u": "July 19, 2022 (Act 96)",
+       "l": {
+        "t": "58 Pa.C.S. 3225",
+        "u": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/58/00.032.025.000..HTM"
+       }
+      },
+      {
+       "s": "Ohio",
+       "i": "$5,000",
+       "b": "$15,000",
+       "sc": "Flat",
+       "f": "Higher bond after a forfeiture",
+       "u": "Not confirmed; SB 219 took effect September 23, 2026",
+       "l": {
+        "t": "ODNR",
+        "u": "https://ohiodnr.gov/buy-and-apply/regulatory-permits/oil-and-gas-permits/bonding-insurance"
+       }
+      },
+      {
+       "s": "West Virginia",
+       "i": "$5,000; horizontal $50,000",
+       "b": "$50,000; horizontal $250,000",
+       "sc": "Well type",
+       "f": "None found",
+       "u": null,
+       "l": {
+        "t": "W. Va. Code 22-6-26",
+        "u": "https://code.wvlegislature.gov/pdf/22-6-26/"
+       }
+      },
+      {
+       "s": "Kentucky",
+       "i": "$2 a foot; deep wells $25,000 or $40,000, not confirmed",
+       "b": "$20,000 to $1.5 million by well count, not confirmed",
+       "sc": "Depth and well count",
+       "f": null,
+       "u": "June 27, 2019",
+       "l": {
+        "t": "KRS 353.590",
+        "u": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48617"
+       }
+      },
+      {
+       "s": "California",
+       "i": "$25,000 or $40,000",
+       "b": "$200,000 to $3,000,000",
+       "sc": "Depth bands, well count",
+       "f": "Full cost on transfer (AB 1167); up to $30 million added by risk (AB 1057)",
+       "u": "January 1, 2018 amounts; January 1, 2024 transfers",
+       "l": {
+        "t": "PRC 3205",
+        "u": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3205.&lawCode=PRC"
+       }
+      },
+      {
+       "s": "Louisiana",
+       "i": "$2, $5, or $4 a foot on land; $8 inland water; $12 offshore",
+       "b": "$50,000, $250,000, or $500,000 on land",
+       "sc": "Depth, location, well count",
+       "f": "Commissioner’s discretion",
+       "u": "August 12, 2016",
+       "l": {
+        "t": "LAC 43:XIX.104",
+        "u": "https://www.dnr.louisiana.gov/page/financial-security"
+       }
+      }
+     ],
+     "src": [
+      "rules700",
+      "nmrule",
+      "utrule"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "tall": true,
+     "title": "Dedicated orphan well funding by state",
+     "eyebrow": "funds and fees",
+     "cols": [
+      {
+       "k": "s",
+       "label": "State"
+      },
+      {
+       "k": "f",
+       "label": "Fund",
+       "wrap": true
+      },
+      {
+       "k": "r",
+       "label": "Revenue source",
+       "wrap": true
+      },
+      {
+       "k": "rt",
+       "label": "Rate",
+       "wrap": true
+      },
+      {
+       "k": "a",
+       "label": "Published annual revenue",
+       "wrap": true
+      },
+      {
+       "k": "c",
+       "label": "Cap, trigger, or sweep",
+       "wrap": true
+      },
+      {
+       "k": "l",
+       "label": "Statute and link"
+      }
+     ],
+     "rows": [
+      {
+       "s": "Colorado",
+       "f": "Orphaned Wells Mitigation Enterprise cash fund",
+       "r": "Annual per-well fee on unplugged wells",
+       "rt": "$225 or $125 ($285 or $155 from April 2027); marginal well fee $115",
+       "a": "$9.5 million (FY23), $8.8 million (FY24), $7.3 million (FY25)",
+       "c": "Board reviews the fee each year; no balance cap found",
+       "l": {
+        "t": "C.R.S. 34-60-133",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/Staff_Presentation_OWME_Board_Meeting-10_21_2025.pdf"
+       },
+       "hl": true
+      },
+      {
+       "s": "Wyoming",
+       "f": "Conservation tax; no separate orphan fund named",
+       "r": "Mill levy on oil and gas sales, after forfeited bonds",
+       "rt": "At most 0.8 mill; 0.5 mill as of 2021",
+       "a": null,
+       "c": "Statutory maximum rate",
+       "l": {
+        "t": "W.S. 30-5-116",
+        "u": "https://wyoleg.gov/InterimCommittee/2021/02-20211213055-197-OGCCOrphanWellSummary.pdf"
+       }
+      },
+      {
+       "s": "New Mexico",
+       "f": "Oil and Gas Reclamation Fund",
+       "r": "Share of the conservation tax",
+       "rt": "10.5% or 19.7% of the tax, by oil price",
+       "a": "$26.93 million (FY23)",
+       "c": "Remainder goes to the general fund",
+       "l": {
+        "t": "NMSA 7-1-6.21",
+        "u": "https://www.nmlegis.gov/Entity/LFC/Documents/Program_Evaluation_Reports/LFC%20Policy%20Spotlight%20-%20Orphaned%20Wells%20-%20Final.pdf"
+       }
+      },
+      {
+       "s": "Utah",
+       "f": "Oil and Gas Conservation Account",
+       "r": "Conservation fee on production value",
+       "rt": "0.2%",
+       "a": null,
+       "c": "Also pays for administration",
+       "l": {
+        "t": "Utah Code 40-6-14",
+        "u": "https://tax.utah.gov/business/other-taxes/oil-gas-conservation"
+       }
+      },
+      {
+       "s": "North Dakota",
+       "f": "Abandoned Oil and Gas Well Plugging and Site Reclamation Fund",
+       "r": "A share of the gross production tax; fees; forfeitures",
+       "rt": "4% of the first 1% of the tax",
+       "a": "$15 million of tax per biennium",
+       "c": "$7.5 million a fiscal year; $100 million balance through June 30, 2027, then $50 million",
+       "l": {
+        "t": "NDCC 38-08-04.5",
+        "u": "https://ndlegis.gov/sites/default/files/fiscal/2025-27/docs/trust-fund-analysis-june-2026.pdf"
+       }
+      },
+      {
+       "s": "Montana",
+       "f": "Oil and Gas Production Damage Mitigation Account",
+       "r": "Trust interest; residual privilege and license tax; forfeitures",
+       "rt": "$650,000 a biennium; tax ceiling 0.3%",
+       "a": null,
+       "c": "Deposits stop at set balances",
+       "l": {
+        "t": "MCA 82-11-161",
+        "u": "https://mca.legmt.gov/bills/MCA/title_0820/chapter_0110/part_0010/section_0610/0820-0110-0010-0610.html"
+       }
+      },
+      {
+       "s": "Oklahoma",
+       "f": "Corporation Commission Plugging Fund",
+       "r": "Share of the petroleum excise tax",
+       "rt": null,
+       "a": null,
+       "c": "A $5 million maintenance level triggers added tax; sunset July 1, 2031",
+       "l": {
+        "t": "17 O.S. 180.10",
+        "u": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB897%20ENR.PDF"
+       }
+      },
+      {
+       "s": "Texas",
+       "f": "Oil and Gas Regulation and Cleanup Fund",
+       "r": "Cleanup fees on oil and gas, permit fees, forfeitures",
+       "rt": null,
+       "a": "$93.5 million (FY24, carried)",
+       "c": null,
+       "l": {
+        "t": "Nat. Res. Code 81.067",
+        "u": "https://texas.public.law/statutes/tex._nat._resources_code_section_81.067"
+       }
+      },
+      {
+       "s": "Kansas",
+       "f": "Abandoned Oil and Gas Well Fund",
+       "r": "Half of the state’s federal mineral leasing receipts; licensing assurance fees",
+       "rt": "$100 a year or a 6% fee option",
+       "a": null,
+       "c": "Can’t be used for administration",
+       "l": {
+        "t": "K.S.A. 55-192",
+        "u": "https://www.kcc.ks.gov/oil-gas/state-plugging-program"
+       }
+      },
+      {
+       "s": "Pennsylvania",
+       "f": "Orphan Well Plugging Fund; Abandoned Well Plugging Fund",
+       "r": "Permit surcharges",
+       "rt": "$100 oil, $200 gas",
+       "a": null,
+       "c": null,
+       "l": {
+        "t": "58 Pa.C.S. 3271",
+        "u": "https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas/legacy-wells"
+       }
+      },
+      {
+       "s": "Ohio",
+       "f": "Oil and Gas Well Fund, orphan program share",
+       "r": "Share of fund revenue",
+       "rt": "At least 30% of the prior year’s fund revenue",
+       "a": "$47.7 million budgeted (FY2026)",
+       "c": "A spending floor, not a cap",
+       "l": {
+        "t": "ORC 1509.071",
+        "u": "http://codes.ohio.gov/ohio-revised-code/section-1509.071"
+       }
+      },
+      {
+       "s": "West Virginia",
+       "f": "Oil and Gas Abandoned Well Plugging Fund; Reclamation Fund",
+       "r": "Special severance rate; permit fees",
+       "rt": null,
+       "a": "$2.2 million and $1.3 million (FY26, carried)",
+       "c": "The special rate drops to zero when the fund holds $6 million or more on June 1",
+       "l": {
+        "t": "W. Va. Code 11-13A-3a",
+        "u": "https://code.wvlegislature.gov/11-13A-3A/"
+       }
+      },
+      {
+       "s": "Kentucky",
+       "f": "Oil and gas well plugging fund; orphan well reclamation fund",
+       "r": "Cash bond interest; grants and appropriations",
+       "rt": null,
+       "a": null,
+       "c": null,
+       "l": {
+        "t": "KRS 353.562",
+        "u": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52165"
+       }
+      },
+      {
+       "s": "California",
+       "f": "Hazardous and Idle-Deserted Well Abatement Fund",
+       "r": "Idle well fees",
+       "rt": "$1,000 to $22,500 per idle well per year",
+       "a": null,
+       "c": null,
+       "l": {
+        "t": "PRC 3206",
+        "u": "https://www.conservation.ca.gov/calgem/idle_well"
+       }
+      },
+      {
+       "s": "Louisiana",
+       "f": "Oilfield Site Restoration Fund",
+       "r": "Per-unit production fee",
+       "rt": "$0.04 a barrel and $0.004 per thousand cubic feet for FY2026-27",
+       "a": null,
+       "c": "The rate steps with price",
+       "l": {
+        "t": "La. R.S. 30:87",
+        "u": "https://dam.ldr.la.gov/lawspolicies/Oilfield%20Restoration%20Fee%20RIB.vF%208.4.26_1.pdf"
+       }
+      }
+     ],
+     "notes": [
+      "Colorado’s fee is charged per well whatever the well produces.  Most other states in the table fund plugging from a share of a production tax or fee, so their revenue moves with prices and volumes.",
+      "Texas and West Virginia revenue figures are carried from the SRA compilation of October 2026."
+     ],
+     "src": [
+      "owme25",
+      "feerelease",
+      "nmlfc",
+      "ndfund",
+      "sra"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "tall": true,
+     "title": "Idle wells, definitions, and transfers by state",
+     "eyebrow": "rules",
+     "cols": [
+      {
+       "k": "s",
+       "label": "State"
+      },
+      {
+       "k": "i",
+       "label": "Idle or inactive well rule",
+       "wrap": true
+      },
+      {
+       "k": "f",
+       "label": "Idle fee or added bond",
+       "wrap": true
+      },
+      {
+       "k": "d",
+       "label": "Orphaned or abandoned, in short",
+       "wrap": true
+      },
+      {
+       "k": "t",
+       "label": "Transfer rule",
+       "wrap": true
+      },
+      {
+       "k": "l",
+       "label": "Citation"
+      }
+     ],
+     "rows": [
+      {
+       "s": "Colorado",
+       "i": "Plug within six months of going inactive unless returned to production, covered by single-well assurance, or designated out of service",
+       "f": "Single-well assurance under the operator’s plan; $115 marginal well fee on all wells",
+       "d": "No owner or operator can be found, or the owner or operator is unwilling or unable to pay; covers locations and facilities",
+       "t": "Single-well assurance for transferred low-producing wells; the seller’s assurance is held until the buyer’s is in place",
+       "l": {
+        "t": "Rule 434",
+        "u": "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/400%20Series%20-%20Operations%20and%20Reporting_Effective%20April%2030%2C%202025.pdf"
+       },
+       "hl": true
+      },
+      {
+       "s": "Wyoming",
+       "i": "Annual idle well review after one year idle",
+       "f": "Up to $10 a foot, or an accepted plan",
+       "d": "Wells left after bond forfeiture on fee or state minerals",
+       "t": "The prior bond may be held six months",
+       "l": {
+        "t": "Ch. 3 Sec. 4",
+        "u": "https://www.law.cornell.edu/regulations/wyoming/055-3-Wyo-Code-R-SS-3-4"
+       }
+      },
+      {
+       "s": "New Mexico",
+       "i": "One year plus 90 days; temporary abandonment limits not confirmed",
+       "f": "$150,000 per inactive well",
+       "d": "Not defined in statute or rule",
+       "t": "$150,000 per transferred low-producing well",
+       "l": {
+        "t": "19.15.8.9 NMAC",
+        "u": "https://www.emnrd.nm.gov/ocd/wp-content/uploads/sites/6/19.15.8-amendment.pdf"
+       }
+      },
+      {
+       "s": "Utah",
+       "i": "12 months, then a written justification",
+       "f": "Supplemental bond for at-risk wells",
+       "d": null,
+       "t": "New operators meet the new standards at once",
+       "l": {
+        "t": "OGM",
+        "u": "https://ogm.utah.gov/2026/07/16/ogm-implements-updated-oil-and-gas-bonding-rules"
+       }
+      },
+      {
+       "s": "North Dakota",
+       "i": "Temporarily abandoned status up to seven years counts as active for bonding",
+       "f": "Six-well limit on a blanket bond",
+       "d": null,
+       "t": "Bond and transfer rule 43-02-03-15",
+       "l": {
+        "t": "NDAC",
+        "u": "https://ndlegis.gov/prod/acdata/pdf/43-02-03.pdf"
+       }
+      },
+      {
+       "s": "Montana",
+       "i": "Board reviews of inactive wells",
+       "f": "Board may double the bond",
+       "d": "Abandoned, and the responsible person can’t be found or won’t act",
+       "t": "Board review of larger or inactive-heavy transfers",
+       "l": {
+        "t": "BOGC",
+        "u": "http://dnrc.mt.gov/BOGC/current-new-operators"
+       }
+      },
+      {
+       "s": "Oklahoma",
+       "i": null,
+       "f": null,
+       "d": "Responsible entity gone or can’t be located, or surety forfeited",
+       "t": null,
+       "l": {
+        "t": "OCC plan",
+        "u": "https://oklahoma.gov/content/dam/ok/en/occ/documents/og/OCC-Plan-Addressing-Orphaned-Well-Plugging-Challenges.pdf"
+       }
+      },
+      {
+       "s": "Texas",
+       "i": "Annual extensions; from September 1, 2027 no routine extension for wells inactive 15 or more years and at least 25 years old",
+       "f": "10% escrow or other options; a full-cost bond option for those wells",
+       "d": null,
+       "t": "Joint affirmation; new supplemental assurance within six months",
+       "l": {
+        "t": "Texas Register",
+        "u": "https://www.sos.texas.gov/texreg/archive/October232026/Proposed%20Rules/16.ECONOMIC%20REGULATION.html"
+       }
+      },
+      {
+       "s": "Kansas",
+       "i": "Temporary abandonment approval within 90 days, renewed yearly, 10-year limit without an exception",
+       "f": "None found",
+       "d": "Out of production, unplugged, and the owner can’t be determined or located",
+       "t": "Through operator licensing",
+       "l": {
+        "t": "K.A.R. 82-3-111",
+        "u": "https://www.law.cornell.edu/regulations/kansas/K-A-R-82-3-111"
+       }
+      },
+      {
+       "s": "Pennsylvania",
+       "i": null,
+       "f": "None found",
+       "d": "Classified orphan by DEP; no bond; no responsible person identifiable",
+       "t": null,
+       "l": {
+        "t": "DEP",
+        "u": "https://www.pa.gov/agencies/dep/programs-and-services/oil-and-gas/legacy-wells"
+       }
+      },
+      {
+       "s": "Ohio",
+       "i": null,
+       "f": "None found",
+       "d": "Unplugged; owner unknown, deceased, or can’t be located, or abandoned with no money available",
+       "t": "Change of owner form",
+       "l": {
+        "t": "ORC 1509.01",
+        "u": "http://codes.ohio.gov/assets/laws/revised-code/authenticated/15/1509/1509.01/9-23-2026/1509.01-9-23-2026.pdf"
+       }
+      },
+      {
+       "s": "West Virginia",
+       "i": null,
+       "f": "None found",
+       "d": "Any well required to be plugged under 22-6-19",
+       "t": null,
+       "l": {
+        "t": "W. Va. Code 22-10",
+        "u": "https://code.wvlegislature.gov/email/22-10/"
+       }
+      },
+      {
+       "s": "Kentucky",
+       "i": null,
+       "f": null,
+       "d": "\"Eligible well\" under KRS 353.510; text not read",
+       "t": "Bond required before acquiring wells",
+       "l": {
+        "t": "KY EEC",
+        "u": "https://eec.ky.gov/Natural-Resources/Oil-and-Gas/Programs/Pages/Bonds.aspx"
+       }
+      },
+      {
+       "s": "California",
+       "i": "Pay an annual idle fee or file a plan that eliminates 5% to 20% of idle wells a year",
+       "f": "$1,000 to $22,500; $60,000 at 25 or more years idle from 2029",
+       "d": "Deserted; non-payment or no plan is evidence of desertion",
+       "t": "Full-cost bond from the acquirer",
+       "l": {
+        "t": "PRC 3206",
+        "u": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3206.&lawCode=PRC"
+       }
+      },
+      {
+       "s": "Louisiana",
+       "i": "Inactive status resets after three months of any production",
+       "f": "Annual inactive well fee that rises with time; amounts not confirmed",
+       "d": null,
+       "t": "A pre-rule exemption ends on change of operator",
+       "l": {
+        "t": "LLA 2024",
+        "u": "https://app.lla.la.gov/publicreports.nsf/0/fd253aa20b74174d86258bbf00730b5c/$file/00006296a.pdf"
+       }
+      }
+     ],
+     "notes": [
+      "A blank cell means the detail wasn’t confirmed for this page, not that the state has no rule."
+     ],
+     "src": [
+      "rules400",
+      "rules100",
+      "nmrule",
+      "utrule",
+      "la"
+     ]
+    },
+    {
+     "kind": "table",
+     "wide": true,
+     "tall": true,
+     "title": "Published coverage and ranking figures",
+     "eyebrow": "third parties and auditors",
+     "lead": "What others have published about bonds held against estimated cost.  The Carbon Tracker figures come from that group’s own cost model and predate Colorado’s 2022 rules unless dated later.  ECMC disputes its Colorado findings.",
+     "cols": [
+      {
+       "k": "s",
+       "label": "State"
+      },
+      {
+       "k": "f",
+       "label": "Figure",
+       "wrap": true
+      },
+      {
+       "k": "p",
+       "label": "Publisher",
+       "wrap": true
+      },
+      {
+       "k": "d",
+       "label": "Date"
+      },
+      {
+       "k": "m",
+       "label": "Method",
+       "wrap": true
+      },
+      {
+       "k": "l",
+       "label": "Link"
+      }
+     ],
+     "rows": [
+      {
+       "s": "Colorado",
+       "f": "Bonds 2% of estimated closure cost ($0.18 billion of $7.09 billion)",
+       "p": "Carbon Tracker",
+       "d": "Oct 2020",
+       "m": "Publisher’s cost model; before the 2022 rules",
+       "l": {
+        "t": "Billion Dollar Orphans",
+        "u": "https://legacy-assets.eenews.net/open_files/assets/2020/10/01/document_ew_02.pdf"
+       },
+       "hl": true
+      },
+      {
+       "s": "Colorado",
+       "f": "Financial assurance 7% of decommissioning costs",
+       "p": "Carbon Tracker",
+       "d": "Feb 2024",
+       "m": "Publisher’s cost model",
+       "l": {
+        "t": "False Start",
+        "u": "https://carbontracker.org/reports/false-start"
+       },
+       "hl": true
+      },
+      {
+       "s": "Colorado",
+       "f": "Producer ratio 23%, tied fourth of 13 states",
+       "p": "Carbon Tracker",
+       "d": "Oct 2021",
+       "m": "Non-stripper producing wells over unplugged post-1970 wells; describes the well stock, not the rules",
+       "l": {
+        "t": "Race to the Top",
+        "u": "https://www.longfinance.net/media/documents/Race-to-the-top_Oct21.pdf"
+       },
+       "hl": true
+      },
+      {
+       "s": "Wyoming",
+       "f": "3% coverage; producer ratio 32%",
+       "p": "Carbon Tracker",
+       "d": "2020; 2021",
+       "m": "As above",
+       "l": {
+        "t": "Billion Dollar Orphans",
+        "u": "https://legacy-assets.eenews.net/open_files/assets/2020/10/01/document_ew_02.pdf"
+       }
+      },
+      {
+       "s": "New Mexico",
+       "f": "2% coverage; producer ratio 23%",
+       "p": "Carbon Tracker",
+       "d": "2020; 2021",
+       "m": "As above",
+       "l": {
+        "t": "Billion Dollar Orphans",
+        "u": "https://legacy-assets.eenews.net/open_files/assets/2020/10/01/document_ew_02.pdf"
+       }
+      },
+      {
+       "s": "New Mexico",
+       "f": "$117 million held; $5.6 million against more than $130 million for 702 orphaned wells",
+       "p": "New Mexico Legislative Finance Committee",
+       "d": "Jun 2025",
+       "m": "Agency data and FY24 per-foot costs",
+       "l": {
+        "t": "LFC",
+        "u": "https://www.nmlegis.gov/Entity/LFC/Documents/Program_Evaluation_Reports/LFC%20Policy%20Spotlight%20-%20Orphaned%20Wells%20-%20Final.pdf"
+       }
+      },
+      {
+       "s": "Utah",
+       "f": "1% coverage; producer ratio 15%",
+       "p": "Carbon Tracker",
+       "d": "2020; 2021",
+       "m": "As above",
+       "l": {
+        "t": "Billion Dollar Orphans",
+        "u": "https://legacy-assets.eenews.net/open_files/assets/2020/10/01/document_ew_02.pdf"
+       }
+      },
+      {
+       "s": "North Dakota",
+       "f": "1% coverage; producer ratio 47%",
+       "p": "Carbon Tracker",
+       "d": "2020; 2021",
+       "m": "As above",
+       "l": {
+        "t": "Billion Dollar Orphans",
+        "u": "https://legacy-assets.eenews.net/open_files/assets/2020/10/01/document_ew_02.pdf"
+       }
+      },
+      {
+       "s": "Pennsylvania",
+       "f": "0% coverage; producer ratio 11%",
+       "p": "Carbon Tracker",
+       "d": "2020; 2021",
+       "m": "As above",
+       "l": {
+        "t": "Billion Dollar Orphans",
+        "u": "https://legacy-assets.eenews.net/open_files/assets/2020/10/01/document_ew_02.pdf"
+       }
+      },
+      {
+       "s": "West Virginia",
+       "f": "0% coverage; producer ratio 7%",
+       "p": "Carbon Tracker",
+       "d": "2020; 2021",
+       "m": "As above",
+       "l": {
+        "t": "Billion Dollar Orphans",
+        "u": "https://legacy-assets.eenews.net/open_files/assets/2020/10/01/document_ew_02.pdf"
+       }
+      },
+      {
+       "s": "Louisiana",
+       "f": "Required $2 a foot against a median actual cost of $8 a foot (land wells to 3,000 ft)",
+       "p": "Louisiana Legislative Auditor",
+       "d": "Oct 2024",
+       "m": "Actual restoration contract costs, 2022 to 2023",
+       "l": {
+        "t": "LLA",
+        "u": "https://app.lla.la.gov/publicreports.nsf/0/fd253aa20b74174d86258bbf00730b5c/$file/00006296a.pdf"
+       }
+      },
+      {
+       "s": "Texas, Oklahoma, California, Ohio",
+       "f": "Producer ratios 17%, 9%, 5%, 3%",
+       "p": "Carbon Tracker",
+       "d": "Oct 2021",
+       "m": "As above",
+       "l": {
+        "t": "Race to the Top",
+        "u": "https://www.longfinance.net/media/documents/Race-to-the-top_Oct21.pdf"
+       }
+      }
+     ],
+     "notes": [
+      "No Resources for the Future, Environmental Defense Fund, IOGCC, or state auditor scorecard that ranks Colorado’s bonding was found.",
+      "No Colorado State Auditor report on the orphaned well program or on financial assurance was found."
+     ],
+     "src": [
+      "ctbdo",
+      "ctfalse",
+      "ctrace",
+      "nmlfc",
+      "la"
+     ]
+    },
+    {
+     "kind": "bullets",
+     "wide": true,
+     "title": "Changes in other states, 2025 and 2026",
+     "eyebrow": "in force or pending",
+     "items": [
+      {
+       "b": "New Mexico.",
+       "t": "An Oil Conservation Commission rule effective September 22, 2026 sets $150,000 one-well assurance or a $250,000 blanket for active wells.  An industry group has said it’s weighing a legal challenge.",
+       "src": [
+        "nmrule"
+       ]
+      },
+      {
+       "b": "Utah.",
+       "t": "A tiered, risk-based bonding rule took effect July 8, 2026.",
+       "src": [
+        "utrule"
+       ]
+      },
+      {
+       "b": "Texas.",
+       "t": "SB 1150 limits extensions for wells inactive 15 or more years and at least 25 years old from September 1, 2027.  The Railroad Commission proposed implementing rules in October 2026."
+      },
+      {
+       "b": "Oklahoma.",
+       "t": "HB 1369 began phasing in tiered surety on November 1, 2025."
+      },
+      {
+       "b": "California.",
+       "t": "Idle well fees now run $1,000 to $22,500 per well per year, with $60,000 for wells idle 25 or more years from 2029."
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "laws": {
+  "lead": "Colorado bills, executive actions, ECMC rules, and federal actions that bear on orphaned wells, their funding, and operator financial assurance, newest first.  Each entry says what it changed in neutral terms and links to the official page where one was found.  \"Detail unverified\" marks an entry with a date, number, or amount that wasn’t confirmed on an official page.",
+  "refs": [
+   [
+    "C.R.S. 34-60-106(13)",
+    "Every operator must show financial capability under rules adopted on or after April 16, 2019.",
+    "https://colorado.public.law/statutes/crs_34-60-106"
+   ],
+   [
+    "C.R.S. 34-60-121",
+    "Penalties up to $15,000 per violation per day.  Penalty money goes to the environmental response account.",
+    "https://law.justia.com/codes/colorado/title-34/energy-and-carbon-management-regulation/article-60/section-34-60-121/"
+   ],
+   [
+    "C.R.S. 34-60-122",
+    "The conservation levy on production, capped at 1.7 mills per dollar and set at 1.5 mills since October 2020.  Creates the Energy and Carbon Management Cash Fund and its environmental response account.",
+    "https://colorado.public.law/statutes/crs_34-60-122"
+   ],
+   [
+    "C.R.S. 34-60-124",
+    "Fund sources and uses.  Forfeited financial assurance is continuously appropriated to meet the defaulting operator’s obligations.",
+    "https://colorado.public.law/statutes/crs_34-60-124"
+   ],
+   [
+    "C.R.S. 34-60-133",
+    "The Orphaned Wells Mitigation Enterprise: its board, cash fund, and per-well fees, and the statutory definitions of orphaned well and marginal well.",
+    "https://law.justia.com/codes/colorado/title-34/energy-and-carbon-management-regulation/article-60/section-34-60-133"
+   ],
+   [
+    "Article 60, consolidated",
+    "ECMC’s posted text of the Energy and Carbon Management Act, C.R.S. 34-60-101 to 34-60-144.",
+    "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/Energy-%26-Carbon-Management-Act-%282026%29_20260814.pdf"
+   ],
+   [
+    "2 CCR 404-1, 100 Series",
+    "Definitions, including Orphaned Well, Orphaned Site, and Out of Service Well.",
+    "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/100%20Series%20-%20Definitions_Effective%20October%2030%2C%202025_1.pdf"
+   ],
+   [
+    "2 CCR 404-1, Rules 205 and 218",
+    "The orphan well mitigation fee and operator transfers, in the 200 Series.",
+    "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/200%20Series%20-%20General%20Provisions_Effective%20October%2030%2C%202025.pdf"
+   ],
+   [
+    "2 CCR 404-1, Rule 434",
+    "Plugging, inactive wells, and out of service wells, in the 400 Series.",
+    "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/400%20Series%20-%20Operations%20and%20Reporting_Effective%20April%2030%2C%202025.pdf"
+   ],
+   [
+    "2 CCR 404-1, 700 Series",
+    "Financial assurance.",
+    "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/700%20Series%20-%20Financial%20Assurance_Effective%20April%2030%2C%202022.pdf"
+   ],
+   [
+    "2 CCR 404-1, 1000 Series",
+    "Reclamation.",
+    "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/1000%20Series%20-%20Reclamation%20Regulations_Effective%20January%2015%2C%202021.pdf"
+   ],
+   [
+    "42 U.S.C. 15907",
+    "The federal orphaned well program.  On state and private land, a state’s own definition of orphaned well governs.",
+    "https://www.law.cornell.edu/uscode/text/42/15907"
+   ]
+  ],
+  "defs": [
+   {
+    "b": "Statute.",
+    "t": "C.R.S. 34-60-133(8)(f) uses one term, orphaned well, for a well, location, or facility with no owner or operator that can be found, or whose owner or operator is unwilling or unable to pay for plugging, reclaiming, and remediating it."
+   },
+   {
+    "b": "Rule.",
+    "t": "The 100 Series keeps two terms.  An Orphaned Well has no owner or operator that can be found, or one unwilling or unable to plug it.  An Orphaned Site is a location or facility with no operator holding unclaimed financial assurance or an active registration and no responsible party identified by the commission.  A site may have no well."
+   },
+   {
+    "b": "Marginal well.",
+    "t": "Added to the statute in 2024: an oil and gas well with a high risk of becoming orphaned."
+   },
+   {
+    "b": "2018 executive order.",
+    "t": "Executive Order D 2018-012 defined an Orphaned Well the way today’s rule does, and an Orphaned Site by environmental impact: a site where oil and gas operations have caused or may cause a significant adverse environmental impact and no responsible party can be found or is willing or able to mitigate it."
+   },
+   {
+    "b": "Change in 2021 and 2022.",
+    "t": "The commission rewrote Orphaned Site as a status test.  Its stated reason was that the program also reclaims and remediates sites with no well or an already plugged well."
+   }
+  ],
+  "items": [
+   {
+    "id": "owmeboard",
+    "date": "2026-09-29",
+    "cite": "OWME Board",
+    "title": "2027 orphan well mitigation fee",
+    "kind": "rule",
+    "status": "Adopted",
+    "summary": "Raised the annual fee from $225 and $125 to $285 and $155 per well, effective April 2027.  The marginal well fee stays $115.  ECMC expects about $10.7 million in 2027.  From 2028 the fee adjusts each year by the consumer price index for energy commodities.",
+    "sections": "C.R.S. 34-60-133(4)",
+    "links": [
+     [
+      "News release",
+      "https://ecmc.colorado.gov/news-article/ecmc-orphan-wells-mitigation-enterprise-board-increases-industry-fee-to-sustain"
+     ],
+     [
+      "Progress page",
+      "https://ecmc.colorado.gov/colorado-orphan-well-progress-and-the-2027-mitigation-fee"
+     ],
+     [
+      "Board presentation",
+      "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/OWME-Board-Meeting-Presentation_09292026.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "91fr38084",
+    "date": "2026-06-24",
+    "cite": "91 FR 38084",
+    "title": "BLM Oil and Gas Leasing, proposed rule",
+    "kind": "federal",
+    "status": "Proposed",
+    "summary": "Would return federal minimum bond amounts to their pre-2024 levels.  Comments closed August 24, 2026.  No final rule was found.",
+    "sections": "RIN 1004-AF05",
+    "links": [
+     [
+      "Federal Register",
+      "https://www.federalregister.gov/documents/2026/06/24/2026-12734/oil-and-gas-leasing"
+     ]
+    ]
+   },
+   {
+    "id": "25ca1249",
+    "date": "2026-06-04",
+    "cite": "25CA1249",
+    "title": "Kauffman v. Oil and Gas Conservation Commission",
+    "kind": "other",
+    "status": "Decided",
+    "summary": "The Court of Appeals, in an unpublished opinion, affirmed a $1,935,030 penalty and a suspension order against an operator with about 1,200 wells.",
+    "links": [
+     [
+      "Opinion",
+      "https://www.courtlistener.com/opinion/10870373/kauffman-v-oil-and-gas"
+     ]
+    ]
+   },
+   {
+    "id": "sb26-142",
+    "date": "2026-06-02",
+    "cite": "SB 26-142",
+    "title": "Development of Thermal Energy Resources",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "ECMC and the Colorado Geological Survey gather subsurface data for geothermal development, reported to include voluntary data from orphaned and marginal wells.  A report was due November 15, 2026.",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/SB26-142"
+     ],
+     [
+      "Act",
+      "https://leg.colorado.gov/bill_files/116927/download"
+     ]
+    ]
+   },
+   {
+    "id": "hb26-1303",
+    "date": "2026-05-05",
+    "cite": "HB 26-1303",
+    "title": "Technical Changes to Energy and Carbon Management Statutes",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "Terminology changes in Article 60.  No change to orphaned well funding.",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/HB26-1303"
+     ],
+     [
+      "Act",
+      "https://leg.colorado.gov/bill_files/115972/download"
+     ],
+     [
+      "Fiscal note",
+      "https://leg.colorado.gov/bill_files/117209/download"
+     ]
+    ]
+   },
+   {
+    "id": "publ119-74",
+    "date": "2026",
+    "cite": "Pub. L. 119-74",
+    "title": "Transfer from IIJA orphaned wells balances",
+    "kind": "federal",
+    "status": "Enacted (detail unverified)",
+    "summary": "By Interior’s account, moved $285 million of unobligated orphaned well money to wildland fire, lowering the national program total to $4.392 billion.  The law itself wasn’t read.",
+    "links": [
+     [
+      "Interior FY2026 report",
+      "https://www.doi.gov/sites/default/files/documents/2026-11/owpo-annual-report-congress-202610092026.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "rin1004-af52",
+    "date": "2025-12-18",
+    "cite": "RIN 1004-AF52",
+    "title": "BLM statewide bond phase-in extension",
+    "kind": "federal",
+    "status": "Adopted",
+    "summary": "Moved the compliance date for statewide federal bonds from June 22, 2026 to June 22, 2027.",
+    "sections": "43 CFR 3104.1(c)",
+    "links": [
+     [
+      "Federal Register",
+      "https://www.federalregister.gov/documents/2025/12/18/2025-23228/federal-onshore-oil-and-gas-statewide-bonds-extension-of-phase-in-deadline"
+     ]
+    ]
+   },
+   {
+    "id": "osa2464p",
+    "date": "2025-11-21",
+    "cite": "OSA 2464P",
+    "title": "Oil and Gas Reporting: Production, Emissions, and Severance Taxes",
+    "kind": "other",
+    "status": "Issued",
+    "summary": "A State Auditor performance audit of operator reporting across ECMC, CDPHE, and the Department of Revenue.  It isn’t specific to orphaned wells, and no audit of the orphaned well program was found.",
+    "sections": "C.R.S. 2-3-128",
+    "links": [
+     [
+      "Audit report",
+      "https://content.leg.colorado.gov/sites/default/files/documents/audits/2464P_oil_and_gas_reporting_production_emissions_severance_taxes.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "doiguidance",
+    "date": "2025-07",
+    "cite": "DOI guidance",
+    "title": "Revised State Formula Grant Guidance",
+    "kind": "federal",
+    "status": "Issued",
+    "summary": "Replaced the 2023 and 2024 formula grant guidance.  Methane measurement became optional unless state law requires it.",
+    "links": [
+     [
+      "Guidance",
+      "https://www.doi.gov/sites/default/files/documents/2025-07/revised-state-formula-grant-guidance508.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "owmeboard",
+    "date": "2025-03-31",
+    "cite": "OWME Board",
+    "title": "Enterprise Marginal Well Plugging program parameters",
+    "kind": "rule",
+    "status": "Adopted",
+    "summary": "Set which operators and wells qualify for reimbursement of marginal well plugging.",
+    "links": [
+     [
+      "Program page",
+      "https://ecmc.colorado.gov/regulation/marginal-wells/emwp"
+     ]
+    ]
+   },
+   {
+    "id": "hb25-1165",
+    "date": "2025",
+    "cite": "HB 25-1165",
+    "title": "Geologic Storage Enterprise and Geothermal Resources",
+    "kind": "bill",
+    "status": "Enacted (detail unverified)",
+    "summary": "Created a separate stewardship enterprise that can fund orphaned geologic storage facilities.  It doesn’t change the oil and gas orphan enterprise.  The signing date wasn’t confirmed.",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/hb25-1165"
+     ]
+    ]
+   },
+   {
+    "id": "owmeboard",
+    "date": "2024-11-22",
+    "cite": "OWME Board",
+    "title": "Marginal well mitigation fee",
+    "kind": "rule",
+    "status": "Adopted",
+    "summary": "A new flat fee of $115 per well per year from April 2025, forecast to raise $5 million a year.  The orphan fee didn’t change.",
+    "sections": "C.R.S. 34-60-133",
+    "links": [
+     [
+      "Press release",
+      "https://ecmc.colorado.gov/press-release/orphan-wells-mitigation-enterprise-adopts-new-fee-to-fund-marginal-well-plugging"
+     ]
+    ]
+   },
+   {
+    "id": "hb24-1346",
+    "date": "2024-05-21",
+    "cite": "HB 24-1346",
+    "title": "Energy and Carbon Management Regulation",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "No direct orphaned well provision.  Extended the period for bringing a violation to three years after discovery.",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/hb24-1346"
+     ]
+    ]
+   },
+   {
+    "id": "sb24-230",
+    "date": "2024-05-16",
+    "cite": "SB 24-230",
+    "title": "Oil and Gas Production Fees",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "No orphaned well provision.  Production fees fund transit and wildlife and land remediation from July 1, 2025.",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/sb24-230"
+     ],
+     [
+      "Session law",
+      "https://leg.colorado.gov/laws/session-laws/SB24-230/184/download"
+     ]
+    ]
+   },
+   {
+    "id": "sb24-229",
+    "date": "2024-05-16",
+    "cite": "SB 24-229",
+    "title": "Ozone Mitigation Measures",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "Let the enterprise pay for plugging marginal wells and defined \"marginal well\" in statute.  Added grounds for suspending or revoking an operator’s license.",
+    "sections": "C.R.S. 34-60-133, 34-60-121, 34-60-124",
+    "links": [
+     [
+      "Bill page",
+      "http://leg.colorado.gov/bills/sb24-229"
+     ],
+     [
+      "Act",
+      "https://content.leg.colorado.gov/sites/default/files/2024a_229_signed.pdf"
+     ],
+     [
+      "Fiscal note",
+      "https://content.leg.colorado.gov/sites/default/files/documents/2024A/bills/fn/2024a_sb229_f1.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "89fr30916",
+    "date": "2024-04-23",
+    "cite": "89 FR 30916",
+    "title": "BLM Fluid Mineral Leases and Leasing Process rule",
+    "kind": "federal",
+    "status": "Adopted",
+    "summary": "Raised federal minimum bonds to $150,000 per lease and $500,000 statewide, effective June 22, 2024.",
+    "sections": "43 CFR 3104.1",
+    "links": [
+     [
+      "BLM bonding page",
+      "https://www.blm.gov/programs/energy-and-minerals/oil-and-gas/leasing/bonding"
+     ],
+     [
+      "eCFR",
+      "https://www.ecfr.gov/current/title-43/section-3104.1"
+     ]
+    ]
+   },
+   {
+    "id": "sb24-159",
+    "date": "2024-03-28",
+    "cite": "SB 24-159",
+    "title": "Mod to Energy and Carbon Management Processes",
+    "kind": "bill",
+    "status": "Failed",
+    "summary": "Would have made prior owners and operators jointly and severally responsible for mitigation costs, and ended new permits by 2030.  Postponed indefinitely.",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/SB24-159"
+     ],
+     [
+      "Fiscal note",
+      "https://content.leg.colorado.gov/sites/default/files/documents/2024A/bills/fn/2024a_sb159_f1.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "sb23-285",
+    "date": "2023-05-22",
+    "cite": "SB 23-285",
+    "title": "Energy and Carbon Management Regulation in Colorado",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "Renamed the Colorado Oil and Gas Conservation Commission the Energy and Carbon Management Commission, and the response fund the Energy and Carbon Management Cash Fund, effective July 1, 2023.",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/sb23-285"
+     ],
+     [
+      "Act",
+      "https://content.leg.colorado.gov/sites/default/files/2023a_285_signed.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "2ccr404-1,rule205",
+    "date": "2022-06-30",
+    "cite": "2 CCR 404-1, Rule 205",
+    "title": "Orphan Well Mitigation Fee Rulemaking",
+    "kind": "rule",
+    "status": "Adopted",
+    "summary": "Aligned Rule 205 with SB 22-198 and set the production threshold between the two fee tiers at 15 barrels of oil equivalent or 22 thousand cubic feet equivalent a day.  The rulemaking record gives July 30, 2022 as the effective date and ECMC’s press release gives August 1.",
+    "sections": "Cause 1R, Docket 220500106",
+    "links": [
+     [
+      "Statement of basis",
+      "https://www.coloradosos.gov/CCR/Upload/NoticeOfRulemaking/AddInfoAttach2022-00243.pdf"
+     ],
+     [
+      "Press release",
+      "https://ecmc.colorado.gov/press-release/colorado-oil-gas-conservation-commission-votes-unanimously-to-adopt-orphan-well"
+     ],
+     [
+      "Rulemaking index",
+      "https://ecmc.colorado.gov/hearings/rulemaking"
+     ]
+    ]
+   },
+   {
+    "id": "sb22-198",
+    "date": "2022-06-02",
+    "cite": "SB 22-198",
+    "title": "Orphaned Oil and Gas Wells Enterprise",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "Created the Orphaned Wells Mitigation Enterprise, its board, and its cash fund, with per-well fees of $125 and $225, effective July 1, 2022.  The fiscal note estimated $10.4 million a year.",
+    "sections": "C.R.S. 34-60-133",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/sb22-198"
+     ],
+     [
+      "Act",
+      "https://content.leg.colorado.gov/sites/default/files/2022a_198_signed.pdf"
+     ],
+     [
+      "Session law",
+      "https://content.leg.colorado.gov/sites/default/files/documents/2022A/bills/sl/2022a_sl_331.pdf"
+     ],
+     [
+      "Fiscal note",
+      "https://content.leg.colorado.gov/sites/default/files/documents/2022A/bills/fn/2022a_sb198_f1.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "2ccr404-1,700series",
+    "date": "2022-03-01",
+    "cite": "2 CCR 404-1, 700 Series",
+    "title": "Financial Assurance Rulemaking",
+    "kind": "rule",
+    "status": "Adopted",
+    "summary": "Operator-specific financial assurance plans in six options tied to production, single-well assurance for low producers, transfer and out of service requirements, and a pooled orphan fee.  Effective April 30, 2022.",
+    "sections": "Rules 205, 218, 434; Cause 1R, Docket 210600097",
+    "links": [
+     [
+      "700 Series",
+      "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/700%20Series%20-%20Financial%20Assurance_Effective%20April%2030%2C%202022.pdf"
+     ],
+     [
+      "Docket",
+      "https://ecmc.colorado.gov/hearings/financial-assurance-rulemaking"
+     ],
+     [
+      "Press release",
+      "https://ecmc.colorado.gov/press-release/colorado-oil-gas-conservation-commission-votes-unanimously-to-adopt-sb-19-181"
+     ],
+     [
+      "Fact sheet",
+      "https://ecmc.state.co.us/documents/media/Fact_Sheet_FA_Rulemaking_20220301.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "publ117-58,sec40601",
+    "date": "2021-11-15",
+    "cite": "Pub. L. 117-58, sec. 40601",
+    "title": "Infrastructure Investment and Jobs Act: orphaned well site plugging, remediation, and restoration",
+    "kind": "federal",
+    "status": "Enacted",
+    "summary": "$4.275 billion for state grants.  A state’s own definition of orphaned well governs on state and private land.  Colorado’s awards total about $89.9 million.",
+    "sections": "42 U.S.C. 15907",
+    "links": [
+     [
+      "42 U.S.C. 15907",
+      "https://www.law.cornell.edu/uscode/text/42/15907"
+     ],
+     [
+      "Interior FY2026 report",
+      "https://www.doi.gov/sites/default/files/documents/2026-11/owpo-annual-report-congress-202610092026.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "2ccr404-1",
+    "date": "2021-01-15",
+    "cite": "2 CCR 404-1",
+    "title": "Mission change rules",
+    "kind": "rule",
+    "status": "Adopted",
+    "summary": "Reorganized the rule set after SB 19-181.  The 1000 Series reclamation rules in force today carry this date.",
+    "sections": "200 to 600, 800, 900, 1000, and 1200 Series",
+    "links": [
+     [
+      "Rules page",
+      "https://ecmc.colorado.gov/regulation/rules"
+     ],
+     [
+      "1000 Series",
+      "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/1000%20Series%20-%20Reclamation%20Regulations_Effective%20January%2015%2C%202021.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "initiative2019-2020#178",
+    "date": "2020-02-05",
+    "cite": "Initiative 2019-2020 #178",
+    "title": "Oil and Gas Operator Financial Assurance",
+    "kind": "other",
+    "status": "Not on ballot (detail unverified)",
+    "summary": "Would have required at least $270,000 of financial assurance per well.  The title was set and a rehearing denied on February 19, 2020.  It didn’t reach the ballot.",
+    "links": [
+     [
+      "Title Board results",
+      "https://www.coloradosos.gov/pubs/elections/Initiatives/titleBoard/results/2019-2020/178Results.html"
+     ],
+     [
+      "Text",
+      "https://leg.colorado.gov/initiative_files/2055/download"
+     ],
+     [
+      "Fiscal statement",
+      "https://leg.colorado.gov/initiative_files/2096/download"
+     ]
+    ]
+   },
+   {
+    "id": "sb19-181",
+    "date": "2019-04-16",
+    "cite": "SB 19-181",
+    "title": "Protect Public Welfare Oil and Gas Operations",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "Required rules making every operator show financial capability, with a pooled orphan fund to be considered, and changed the fund balance cap.  The fiscal note showed $3.0 million of revenue, about $0.96 million of cost, and 7.0 FTE.",
+    "sections": "C.R.S. 34-60-106(13), 34-60-122(1)(b)",
+    "links": [
+     [
+      "Bill page",
+      "https://leg.colorado.gov/bills/sb19-181"
+     ],
+     [
+      "Act",
+      "https://content.leg.colorado.gov/sites/default/files/2019a_181_signed.pdf"
+     ],
+     [
+      "Fiscal note",
+      "https://content.leg.colorado.gov/sites/default/files/documents/2019A/bills/fn/2019a_sb181_r3.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "executiveorderd2018-012",
+    "date": "2018-07-18",
+    "cite": "Executive Order D 2018-012",
+    "title": "Orphaned wells and sites",
+    "kind": "order",
+    "status": "Issued",
+    "summary": "Required a prioritized list by August 1, 2018, annual reports, a July 1, 2023 target for medium and high priority wells, a working group report by December 1, 2018, and financial assurance rules by September 1, 2019.  The order’s text is reproduced as a scanned attachment in the Joint Budget Committee’s FY2019-20 hearing document.  The link to the order on the old COGCC site no longer works.",
+    "links": [
+     [
+      "Order text, in the JBC hearing document",
+      "https://content.leg.colorado.gov/sites/default/files/fy2019-20_nathrg2.pdf"
+     ],
+     [
+      "COGCC memo, August 1, 2018",
+      "https://spl.cde.state.co.us/artemis/nrserials/nr1031internet/nr10312018internet.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "fy2018-19longbill",
+    "date": "2018-07",
+    "cite": "FY2018-19 Long Bill",
+    "title": "Orphaned Well Program appropriation",
+    "kind": "bill",
+    "status": "Enacted (detail unverified)",
+    "summary": "Raised the program’s line from $445,000 to $5,011,000 with two-year spending authority.  The bill number wasn’t confirmed.",
+    "links": [
+     [
+      "JBC briefing FY2020-21",
+      "https://leg.colorado.gov/sites/default/files/fy2020-21_natbrf2.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "hb18-1098",
+    "date": "2018-04-09",
+    "cite": "HB 18-1098",
+    "title": "Roll Over Year-end Balance Environmental Response Account",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "The year-end balance of the environmental response account stays in the account.  The fiscal note showed no fiscal impact.",
+    "sections": "C.R.S. 34-60-122(5)",
+    "links": [
+     [
+      "Bill page",
+      "http://leg.colorado.gov/bills/HB18-1098"
+     ],
+     [
+      "Act",
+      "https://content.leg.colorado.gov/sites/default/files/2018a_1098_signed.pdf"
+     ],
+     [
+      "Fiscal note",
+      "https://content.leg.colorado.gov/sites/default/files/documents/2018A/bills/fn/2018a_hb1098_f1.pdf"
+     ]
+    ]
+   },
+   {
+    "id": "hb14-1356",
+    "date": "2014-06-06",
+    "cite": "HB 14-1356",
+    "title": "Oil and gas penalty authority",
+    "kind": "bill",
+    "status": "Enacted",
+    "summary": "Set the current ceiling of $15,000 per violation per day.  Penalties flow to the environmental response account.  The legislature’s bill page no longer loads, so this rests on the statute’s history note and ECMC’s 2014 rulemaking page.",
+    "sections": "C.R.S. 34-60-121(1), (7)",
+    "links": [
+     [
+      "Statute history",
+      "https://law.justia.com/codes/colorado/title-34/energy-and-carbon-management-regulation/article-60/section-34-60-121/"
+     ],
+     [
+      "2014 penalty rulemaking",
+      "https://ecmc.colorado.gov/hearings/rulemaking/enforcement-and-penalty-rulemaking-2014"
+     ]
+    ]
+   },
+   {
+    "id": "longbill",
+    "date": "1990",
+    "cite": "Long Bill",
+    "title": "First orphan well plugging appropriation",
+    "kind": "bill",
+    "status": "Enacted (detail unverified)",
+    "summary": "First budget authority to plug historic wells with no financial assurance, paid from the levy and penalties.  The line ran through FY24.  The bill number wasn’t found.",
+    "links": [
+     [
+      "ECMC FY26 report",
+      "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/FY26_Orphaned_Well_Program_Annual_Report_Final.pdf"
+     ]
+    ]
+   }
+  ]
+ },
+ "gaps": [
+  "ECMC doesn’t publish wells added to or removed from the orphan list each year, or annual totals of sites closed.",
+  "ECMC doesn’t publish a current average cost to plug a well or close a site.  The only published averages are for 2012 to 2017.",
+  "No official time series of total financial assurance held, or of assurance against estimated liability, was found.",
+  "Wells plugged with federal money, as distinct from the program total, aren’t published.",
+  "ECMC’s two board presentations give different fee collections for FY23 and FY25, and neither explains the difference.  The enterprise fund balance on June 30, 2026 wasn’t found.",
+  "ECMC’s fee page and news release give 1,035 tasks completed at 807 sites for FY26.  The annual report’s Table 1 lists 1,184 tasks at 813 sites, 121 of them marked Completed, and the two can’t be reconciled from the published documents.",
+  "Wells plugged before FY19 weren’t found as annual totals.",
+  "No Colorado State Auditor report on the orphaned well program or on financial assurance was found.",
+  "IOGCC’s 2026 state-by-state orphan counts weren’t available, so cross-state inventory figures are as of December 2023.",
+  "No published comparison explains why Colorado’s spending per well differs from other states’.",
+  "Interior doesn’t publish wells plugged on federal land by state.",
+  "ECMC’s site refuses scripted downloads, so its board presentations, rules, and news pages were read in a browser and not from saved copies."
+ ]
+}

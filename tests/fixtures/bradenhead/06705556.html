@@ -1,0 +1,233 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Bradenhead Scout
+</title><link id="Stylesheet" rel="stylesheet" type="text/css" href="../Styles.css" />
+       <style>
+        .skip-main {
+        position: absolute;
+        left: -9999px;
+        z-index: 999;
+        padding: 1em;
+        background-color: white;
+        color: white;
+        opacity: 0;
+        }
+
+        .skip-main:focus {
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: 1;
+        }
+
+        .sr-only{
+           position:absolute;
+           left:-10000px;
+           top:auto;
+           width:1px;
+           height:1px;
+           overflow:hidden;
+        }
+
+        .grdContent
+        {
+            width: 80%;
+            border: solid 1px black;
+            min-width: 80%;
+        }
+        .header
+        {
+            background-color: #006633;
+            font-family:  Helvetica Neue, Helvetica, Arial, sans-serif;
+            color: White;
+            border: none 0px transparent;
+            height: 25px;
+            text-align: center;
+            font-size: 12px;
+        }
+        .rows {
+            background-color: #ffffff;
+            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+            font-size: 11px;
+            color: #000000;
+            min-height: 16px;
+            text-align: left;
+            border: solid 1px black;
+        }
+            .rows:hover {
+                background-color: #FFD700;
+                font-family: Arial;
+                color: #006633;
+                text-align: left;
+            }
+        .selectedrow {
+            background-color: #006633;
+            font-family: Arial;
+            color: #ffffff;
+            font-weight: bold;
+            text-align: left;
+        }
+
+         .mygrdContent a:link
+        {
+            background-color: transparent;
+            color: blue;
+        }
+
+        .mygrdContent a:visited
+        {
+            background-color: transparent;
+            color: purple;
+        }
+
+        .mygrdContent a:hover
+        {
+            background-color: #ffffff;
+            color: #006633;
+        }
+
+        .mydatagrid a /** PAGING ICONS  **/ {
+            background-color: Transparent;
+            padding: 4px 4px 4px 4px;
+            color: #FFD700;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .mygrdContent span /** CURRENT PAGE INDICATOR ICON **/ {
+            background-color: #000066;
+            color: #FFD700;
+            padding: 5px 5px 5px 5px;
+        }
+        .pager {
+            background-color: #000066;
+            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+            color:#FFD700;
+            height: 18px;
+            text-align: left;
+        }
+        .mygrdContent td {
+            padding: 4px;
+        }
+        .mygrdContent th {
+            padding: 4px;
+        }
+    </style> 
+</head>
+<body>
+    <a href="#main" class="skip-main">Skip to Main Content</a>
+    <main id="main">
+    <form method="post" action="./bradenheadScout?api=06705556" id="formBradenheadScout">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6F004332" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="3I8pJ2ooka225i/CxYKSDNDx08rv/i2hQL+galy3z1g0QLKkXziLE1eeB11k9VZP1NNNM8eCSGyhK3JSWjBuKevqkg6NXxWB89pF0T8COCPaAtLjQ1iLINNIJ+5X/VDume0IBehRc6L29SKUTxpGswzuJ5KnXTn3nFt95F2lUko=" />
+    <div class="pageContentOneCol">
+    <table style="width:100%;">
+        <tr>
+            <td>
+                <h1 class="sr-only">Incident Search</h1>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr> 
+        <tr>
+            <td>
+                
+            </td>
+        </tr>      
+        <tr>
+            <td>
+                <table style="width: 75%;" cellspacing="0" cellpadding="3"><tr><td colspan="2" bgcolor="#FFD700"><span class="labelMedBold">Bradenhead</span></td><td align ="right" colspan="3" bgcolor="#FFD700"><span class="labelSmall"><a title="Click here to view related facilities." target="_blank" href="../Facility/FacilityRelated.aspx?facid=214226"><img src="../images/related.gif" border="0" width="37" height="16" alt="View Related">&nbsp;Related</a>&nbsp;<a title="Click here to view documents." target="_blank" href="../Resources/Docs.aspx?classid=08&id=06705556"><img border="0" src="../images/imaging.gif" hspace="4" width="16" height="15" alt="View Docs">Doc</a></td></tr></table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                     <tr>
+                        <td>
+                            <div>
+	<table class="mygrdContent" cellspacing="0" rules="all" border="1" id="GridViewHeader">
+		<tr class="header">
+			<th align="center" scope="col">Facility Type</th><th align="center" scope="col">Facility ID/<br>API</th><th align="center" scope="col">Facility Name/<br>Number</th><th align="center" scope="col">Operator Name/<br>Number</th><th align="center" scope="col">Status</th><th align="center" scope="col">Field Name/<br>Number</th><th align="center" scope="col">Location</th><th align="center" scope="col">Location ID</th>
+		</tr><tr class="rows" valign="bottom" bgcolor="Gold">
+			<td align="center" valign="middle"><a title="Click to view scout card." target="_blank" href="../Facility/FacilityDetail.aspx?api=06705556">WELL</a></td><td align="center" valign="middle">05-067-05556</td><td align="center">CARSON<br>1 (OWP)        </td><td align="center">ANDERSON* MAC T.                                  <br>2989</td><td align="center">PA<br>3/10/1993</td><td align="center">WILDCAT                       <br>99999</td><td align="center">LA PLATA                           &nbsp;067<br>NWSW&nbsp;36&nbsp;35N8W&nbsp;N</td><td align="center" valign="middle">385414</td>
+		</tr>
+	</table>
+</div>
+                        </td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>
+                            <table colspan="4" style="width:100%; background-color:lightgray;">
+                                <tr>
+                                    <td colspan="3">
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="3">
+                                        <span id="lblSearchAPI" class="labelSmall" aria-label="Search for Different Bradenhead"><b>Search for Different Bradenhead:</b></span>
+                                    </td>                              
+                                </tr>
+                                <tr>
+                                    <td colspan="1" style="vertical-align: top; text-align:center;">
+                                        <span id="lblSearchCountyCode" class="labelSmall" aria-label="Different County Code Search">County Code: </span>
+                                    </td>
+                                    <td colspan="1" style="vertical-align: top; text-align:center;">
+                                        <span id="lblSearchSequenceCode" class="labelSmall" aria-label="Different Sequence Code Search">Sequence Code: </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" style="text-align:center;">
+                                        <input name="txtCountyCode" type="text" maxlength="3" id="txtCountyCode" title="Enter county code" aria-label="Different County Code Textbox" />
+                                    </td>
+                                    <td colspan="1" style="text-align:center;">
+                                        <input name="txtSequenceCode" type="text" maxlength="5" id="txtSequenceCode" title="Enter sequence number" aria-label="Different Sequence Code Textbox" />
+                                    </td>
+                                    <td>
+                                        <input type="submit" name="btnSubmit" value="Submit" id="btnSubmit" title="Click button to submit" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>        
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <span id="lblSurfCasingDepth" class="labelSmall" aria-label="Surfact Casing Depth"></span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span id="lblReportDetailHeader" class="label">No reports associated with this API number.</span>
+            </td>
+        </tr>     
+         <tr>
+            <td>
+                <div>
+
+</div>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+    </div>
+    </form>
+    </main>
+</body>
+</html>

@@ -1,0 +1,1363 @@
+ProjName,WellName,SiteID,TypeID,APInumber,TankBattery,Surface,Minerals,Latitude,Longitude,Loc_Source
+Omimex Petroleum Bond Claim,Fiddler Peak Ranch 4-3-5-45 (OWP),439163,Location ID,125-12124,Same as Well (on-site),Fee,Fee,40.43846,-102.37594,Well
+Painted Pegasus Bond Claim,JAN 1 (OWP),319645,Location ID,001-06072,Same as Well (on-site),Fee,Fee,39.9443,-104.12469,Well
+Painted Pegasus Bond Claim,DOUBLE BAR O 2-18 (OWP),319646,Location ID,001-06084,Site ID 470931 (off-site),Fee,Fee,39.96221,-104.13462,Well
+Painted Pegasus Bond Claim,UPRR-SANDEN-EHN 1-17 (OWP),319648,Location ID,001-06094,None,Fee,Fee,39.95881,-104.13055,Well
+Painted Pegasus Bond Claim,UPRR-LINNEBUR 2-19 (OWP),319649,Location ID,001-06115,None,Fee,Fee,39.95548,-104.13478,Well
+Painted Pegasus Bond Claim,UPRR-EHN 12-17 (OWP),319650,Location ID,001-06133,None,Fee,Fee,39.96611,-104.12992,Well
+Painted Pegasus Bond Claim,UPRR-SANDEN-EHN 2-17 (OWP),319652,Location ID,001-06142,None,Fee,Fee,39.96216,-104.12561,Well
+Painted Pegasus Bond Claim,KUNCE 1-20 (OWP),319653,Location ID,001-06146,None,Fee,Fee,39.95523,-104.1256,Well
+Painted Pegasus Bond Claim,BAUGHMAN FARMS 2-31 (OWP),319654,Location ID,001-06148,Same as Well (on-site),Fee,Fee,39.918982,-104.134138,Well
+Painted Pegasus Bond Claim,UPRR-EHN 34-17 (OWP),319656,Location ID,001-06156,Site ID 470931 (off-site),Fee,Fee,39.95877,-104.1204,Well
+Painted Pegasus Bond Claim,FRED JR. 41-22 (OWP),319657,Location ID,001-06160,Same as Well (on-site),Fee,Fee,39.95383,-104.41668,Well
+Painted Pegasus Bond Claim,EHN 3-20 (OWP),319660,Location ID,001-06170,Site ID 470931 (off-site),Fee,Fee,39.95545,-104.11606,Well
+Painted Pegasus Bond Claim,EHN 4-20 (OWP),319661,Location ID,001-06171,Same as Well (on-site),Fee,Fee,39.952,-104.1202,Well
+Painted Pegasus Bond Claim,RANDALL 41-10 (OWP),319664,Location ID,001-06177,Same as Well (on-site),Fee,Fee,39.98357,-104.5302,Well
+Painted Pegasus Bond Claim,UPRR-USX AM 19-16 (OWP),319668,Location ID,001-06194,Same as Well (on-site),Fee,Fee,39.769026,-104.360653,Well
+Painted Pegasus Bond Claim,HOSMER 14-34 (OWP),319683,Location ID,001-06273,Same as Well (on-site),Fee,Fee,39.91486,-104.54342,Well
+Painted Pegasus Bond Claim,UPRR-EHN 43-17 (OWP),319685,Location ID,001-06276,None,Fee,Fee,39.96216,-104.11608,Well
+Painted Pegasus Bond Claim,VETTER 1-22 (OWP),319700,Location ID,001-06408,Same as Well (on-site),Fee,Fee,39.856529,-104.308066,Well
+Painted Pegasus Bond Claim,DOUBLE-USX ZM 17-11 (OWP),319701,Location ID,001-06415,Same as Well (on-site),Fee,Fee,39.786903,-104.463609,Well
+Painted Pegasus Bond Claim,FERGUSON 42-25 1 (OWP),319708,Location ID,001-06453,Site ID xyz (off-site),Fee,Fee,39.849926,-104.265991,Well
+Painted Pegasus Bond Claim,FERGUSON 2 (OWP),319710,Location ID,001-06456,Same as Well (on-site),Fee,Fee,39.853032,-104.269874,Well
+Painted Pegasus Bond Claim,HANSON 1 (OWP),319763,Location ID,001-06693,Same as Well (on-site),Fee,Fee,39.84387,-104.5991,Well
+Painted Pegasus Bond Claim,MORAN 1 (OWP),319771,Location ID,001-06717,Same as Well (on-site),Fee,Fee,39.85096,-104.58926,Well
+Painted Pegasus Bond Claim,STATE 2-30 (OWP),319775,Location ID,001-06724,Same as Well (on-site),State,State,39.84888,-104.36948,Well
+Painted Pegasus Bond Claim,CHAMPLIN-DANFORD 1 (OWP),319785,Location ID,001-06773,Same as Well (on-site),Fee,Fee,39.83808,-104.56814,Well
+Painted Pegasus Bond Claim,PUTNAM 41-18 (OWP),319787,Location ID,001-06783,Same as Well (on-site),Fee,Fee,39.969427,-104.701078,Well
+Painted Pegasus Bond Claim,PILAND 3 (OWP),319831,Location ID,001-06912,Same as Well (on-site),Fee,Fee,39.81928,-104.48694,Well
+Painted Pegasus Bond Claim,PILAND 1 (OWP),319832,Location ID,001-06913,Same as Well (on-site),Fee,Fee,39.816,-104.48228,Well
+Painted Pegasus Bond Claim,UPRR 23 PAN AM G 1 (OWP),319843,Location ID,001-06951,Same as Well (on-site),Fee,Fee,39.873509,-104.578612,Well
+Painted Pegasus Bond Claim,UPRR 23 PAN AM H 1 (OWP),319891,Location ID,001-07198,Same as Well (on-site),Fee,Fee,39.880754,-104.569242,Well
+Painted Pegasus Bond Claim,STATE 3-30 (OWP),319901,Location ID,001-07220,Site ID 319775 (off-site),State,State,39.84548,-104.36935,Well
+Painted Pegasus Bond Claim,CHAMPLIN 75 AMOCO H 1 (OWP),319903,Location ID,001-07224,Same as Well (on-site),Fee,Fee,39.845507,-104.579827,Well
+Painted Pegasus Bond Claim,CHAMPLIN 459 AMOCO 1 (OWP),319907,Location ID,001-07235,Same as Well (on-site),Fee,Fee,39.89136,-104.1805,Well
+Painted Pegasus Bond Claim,CHAMPLIN 67 AMOCO G 1 (OWP),319913,Location ID,001-07277,Same as Well (on-site),Fee,Fee,39.85043,-104.46558,Well
+Painted Pegasus Bond Claim,UPRR 24 PAN AM B 1 (OWP),319918,Location ID,001-07292,Same as Well (on-site),Fee,Fee,39.872147,-104.541942,Well
+Painted Pegasus Bond Claim,UPRR 23 PAN AM 2 (OWP),319919,Location ID,001-07295,Same as Well (on-site),Fee,Fee,39.887952,-104.559803,Well
+Painted Pegasus Bond Claim,HABEL 7 (OWP),319924,Location ID,001-07305,Site ID 491981 (off-site),Fee,Fee,39.8521,-104.29733,Well
+Painted Pegasus Bond Claim,BOWEN USX AL 29-8 (OWP),319927,Location ID,001-07316,Site ID xyz (off-site),Fee,Fee,39.84993,-104.342454,Well
+Painted Pegasus Bond Claim,TRIPLE SIX RANCH 1-22 (OWP),319941,Location ID,001-07360,Same as Well (on-site),Fee,Fee,39.86114,-104.07789,Well
+Painted Pegasus Bond Claim,PRAIRIE-VETTER 1-22 (OWP),319942,Location ID,001-07362,None,Fee,Fee,39.86581,-104.42931,Well
+Painted Pegasus Bond Claim,HIRSCH 1-20 (OWP),319944,Location ID,001-07371,Same as Well (on-site),Fee,Fee,39.94426,-104.58154,Well
+Painted Pegasus Bond Claim,CHAMPLIN 73 AMOCO 'B' 1 (OWP),319946,Location ID,001-07373,Site ID 491981 (off-site),Fee,Fee,39.86325,-104.28463,Well
+Painted Pegasus Bond Claim,HOSMER 32-29 1 (OWP),319954,Location ID,001-07395,Same as Well (on-site),Fee,Fee,39.93701,-104.57215,Well
+Fahey Bond Claim,BULLARD 2 (OWP),319955,Location ID,001-07396,Same as Well (on-site),Fee,Fee,39.85582,-104.49141,Well
+Painted Pegasus Bond Claim,UPRR 24 PAN AM E 1 (OWP),319958,Location ID,001-07401,Same as Well (on-site),Fee,Fee,39.878426,-104.533748,Well
+Painted Pegasus Bond Claim,KIOWA-FRICK 1-12 (OWP),319962,Location ID,001-07417,Same as Well (on-site),Fee,Fee,39.79838,-104.2664,Well
+Painted Pegasus Bond Claim,PILAND 4 (OWP),319963,Location ID,001-07421,Site ID xyz (off-site),Fee,Fee,39.82267,-104.48231,Well
+Painted Pegasus Bond Claim,PILAND 1-12 (OWP),319967,Location ID,001-07444,Same as Well (on-site),Fee,Fee,39.80161,-104.49636,Well
+Painted Pegasus Bond Claim,HAZLET B 1 (OWP),319970,Location ID,001-07457,Same as Well (non-contiguous site),Fee,Fee,39.95132,-104.57198,Well
+Painted Pegasus Bond Claim,CHAMPLIN 1-31 (OWP),319971,Location ID,001-07462,Same as Well (on-site),Fee,Fee,39.8344,-104.47287,Well
+Painted Pegasus Bond Claim,TRUPP 1-32 (OWP),319975,Location ID,001-07477,Site ID 481867 (off-site),Fee,Fee,39.83776,-104.46806,Well
+Painted Pegasus Bond Claim,HAZLET B 2 (OWP),319979,Location ID,001-07491,Site ID 319970 (off-site),Fee,Fee,39.95472,-104.57682,Well
+Painted Pegasus Bond Claim,TRUPP 2-32 (OWP),319988,Location ID,001-07538,Site ID 481867 (off-site),Fee,Fee,39.83778,-104.46003,Well
+Painted Pegasus Bond Claim,DANFORD-CHAMPLIN 1-24 (OWP),319989,Location ID,001-07552,Same as Well (on-site),Fee,Fee,39.77981,-104.49625,Well
+Painted Pegasus Bond Claim,CHAMPLIN 459 AMOCO 2 (OWP),319997,Location ID,001-07588,Site ID xyz (off-site),Fee,Fee,39.88985,-104.17113,Well
+Painted Pegasus Bond Claim,MEYER 2-14 (OWP),320000,Location ID,001-07608,Same as Well (on-site),Fee,Fee,39.87399,-104.39881,Well
+Painted Pegasus Bond Claim,WAILES 41-33 1-X (OWP),320006,Location ID,001-07626,Same as Well (on-site),Fee,Fee,39.92589,-104.54792,Well
+Painted Pegasus Bond Claim,FOREMAN 2 (OWP),320007,Location ID,001-07634,Same as Well (on-site),Fee,Fee,39.94763,-104.56732,Well
+Poncho Bond Claim,PERKINS-THORNBURG 1 (OWP),320023,Location ID,001-07698,Same as Well (on-site),Fee,Fee,39.768966,-104.39371,Well
+Painted Pegasus Bond Claim,RANDALL 32-10 (OWP),320024,Location ID,001-07703,Site ID xyz (off-site),Fee,Fee,39.97989,-104.53457,Well
+Goodwin Energy Bond Claim,SMITH 21-14 (OWP),320026,Location ID,001-07713,Site ID xyz (off-site),Fee,Fee,39.881329,-104.406884,Well
+Painted Pegasus Bond Claim,HARTMAN 21-14 (OWP),320028,Location ID,001-07718,Site ID xyz (off-site),Fee,Fee,39.7945,-104.40739,Well
+Painted Pegasus Bond Claim,BECKER 42-32 (OWP),320032,Location ID,001-07727,None,Fee,Fee,39.834175,-104.4541,Well
+Painted Pegasus Bond Claim,ABBOTT 12-14 (OWP),320033,Location ID,001-07731,Same as Well (on-site),Fee,Fee,39.965201,-104.525084,Well
+Painted Pegasus Bond Claim,SANDIE 43-12 (OWP),320037,Location ID,001-07735,Site ID 481857 (off-site),Fee,Fee,39.97563,-104.492322,Well
+Goodwin Energy Bond Claim,BULLARD 26-13 (OWP),320038,Location ID,001-07740,Same as Well (on-site),Fee,Fee,39.84895,-104.51037,Well
+Painted Pegasus Bond Claim,GEORGE SAUTER 1 (OWP),320048,Location ID,001-07785,Same as Well (on-site),Fee,Fee,39.968613,-104.511063,Well
+Painted Pegasus Bond Claim,PILAND 22-31 1 (OWP),320056,Location ID,001-07825,Site ID xyz (off-site),Fee,Fee,39.834084,-104.48218,Well
+Painted Pegasus Bond Claim,ABBOTT LANDS 32-7 4 (OWP),320060,Location ID,001-07859,Same as Well (on-site),Fee,Fee,39.979231,-104.478241,Well
+Goodwin Energy Bond Claim,BOWEN-AMOCO 44-08 (OWP),320061,Location ID,001-07869,Site ID xyz (off-site),Fee,Fee,39.798085,-104.342065,Well
+Painted Pegasus Bond Claim,ELEANOR ARNOLD  B 1 (OWP),320084,Location ID,001-07977,Same as Well (on-site),Fee,Fee,39.97629,-104.539437,Well
+Painted Pegasus Bond Claim,CARLSON 41-33 4 (OWP),320090,Location ID,001-07985,Site ID xyz (off-site),Fee,Fee,39.838756,-104.548035,Well
+Painted Pegasus Bond Claim,TERRI 14-4 (OWP),320096,Location ID,001-07997,Same as Well (on-site),Fee,Fee,39.987411,-104.563459,Well
+Painted Pegasus Bond Claim,KUGEL 1 (OWP),320097,Location ID,001-08000,Same as Well (on-site),Fee,Fee,39.935724,-104.48259,Well
+Painted Pegasus Bond Claim,UPRR 60 PAN AM I 1 (OWP),320099,Location ID,001-08021,Same as Well (on-site),Fee,Fee,39.976105,-104.515873,Well
+Painted Pegasus Bond Claim,LARSON 2-10 (OWP),320108,Location ID,001-08058,Site ID 319731 (off-site),Fee,Fee,39.80953,-104.53403,Well
+Painted Pegasus Bond Claim,ATWATER 4 24-1 (OWP),320110,Location ID,001-08061,Same as Well (on-site),Fee,Fee,39.812607,-104.500997,Well
+Painted Pegasus Bond Claim,HORTH 32-15 2 (OWP),320111,Location ID,001-08062,Site ID xyz (off-site),Fee,Fee,39.965328,-104.534584,Well
+Painted Pegasus Bond Claim,ABBOTT 11-14 (OWP),320119,Location ID,001-08135,Site ID xyz (off-site),Fee,Fee,39.968946,-104.5252,Well
+Petroshare Bond Claim,RMPCO-UPRR-BRADBURY 1 (OWP),320120,Location ID,001-08138,Site ID 483030 (off-site),Fee,Fee,39.88291,-104.05387,Well
+Natural Resource Group Bond Claim,RMPCO-UPRR-NICHOLS 1 (OWP),320127,Location ID,001-08159,Same as Well (non-contiguous site),Fee,Fee,39.918172,-104.322114,Well
+Smith Oil Properties Bond Claim,COAN 1 (OWP),320132,Location ID,001-08182,Site ID xyz (off-site),Fee,Fee,39.99889,-104.54442,Well
+Painted Pegasus Bond Claim,EIFFEL 1 (OWP),320145,Location ID,001-08219,Same as Well (on-site),Fee,Fee,39.946622,-104.48723,Well
+Painted Pegasus Bond Claim,HELZER FARMS 1 (OWP),320148,Location ID,001-08227,Same as Well (on-site),Fee,Fee,39.9395,-104.501385,Well
+Painted Pegasus Bond Claim,VETTER 12-2 1 (OWP),320155,Location ID,001-08252,Same as Well (non-contiguous site),Fee,Fee,39.90663,-104.41162,Well
+Painted Pegasus Bond Claim,BANTER-MORRIS 23-4 (OWP),320161,Location ID,001-08267,Site ID 376480 (off-site),Fee,Fee,39.991109,-104.558365,Well
+Painted Pegasus Bond Claim,JOHNSON 28-11 (OWP),320162,Location ID,001-08268,Same as Well (on-site),Fee,Fee,39.852408,-104.560823,Well
+Painted Pegasus Bond Claim,WARREN 11-10 (OWP),320163,Location ID,001-08271,Site ID xyz (off-site),Fee,Fee,39.983483,-104.543668,Well
+Painted Pegasus Bond Claim,CRYSTAL-HUBBS 1 (OWP),320166,Location ID,001-08281,Same as Well (on-site),Fee,Fee,39.9502,-104.421307,Well
+Painted Pegasus Bond Claim,BASS LINNEBUR 12-21 (OWP),320180,Location ID,001-08329,Same as Well (on-site),Fee,Fee,39.80318,-104.61919,Well
+Painted Pegasus Bond Claim,HIRSCH 2 (OWP),320194,Location ID,001-08375,Site ID 319944 (off-site),Fee,Fee,39.94776,-104.57693,Well
+Argonex Bond Claim,CHAMPLIN (HER) 1-1 (OWP),320211,Location ID,001-08472,Same as Well (on-site),Fee,Fee,39.99887,-104.34249,Well
+Painted Pegasus Bond Claim,DOWNING 44-25 2 (OWP),320243,Location ID,001-08718,Same as Well (on-site),Fee,Fee,39.756557,-103.928078,Well
+Argonex Bond Claim,CHAMPLIN (HER) 2-8 (OWP),320245,Location ID,001-08723,Same as Well (on-site),Fee,Fee,39.99528,-104.34231,Well
+Painted Pegasus Bond Claim,PORTER-UPRR 3 (OWP),320249,Location ID,001-08735,Same as Well (on-site),Fee,Fee,39.855994,-104.411651,Well
+Natural Resource Group Bond Claim,LEWTON COMPANY F UNIT 1 (OWP),320303,Location ID,001-08920,Same as Well (on-site),Fee,Fee,39.922912,-104.373495,Well
+Schreider & Company Bond Claim,HOWELL 1-11 (OWP),320320,Location ID,001-09003,Same as Well (on-site),Fee,Fee,39.88536,-104.28906,Well
+Schreider & Company Bond Claim,COMANCHE CREEK 1-14 (OWP),320324,Location ID,001-09010,Same as Well (non-contiguous site),Fee,Fee,39.88186,-104.29364,Well
+Painted Pegasus Bond Claim,STATE 14-32 (OWP),320325,Location ID,001-09012,Same as Well (on-site),State,State,39.880877,-104.28923,Well
+Painted Pegasus Bond Claim,MARTHA 1 (OWP),320329,Location ID,001-09022,Site ID xyz (off-site),Fee,Fee,39.889509,-104.538809,Well
+Schreider & Company Bond Claim,CHER SKOUBO 14-43 (OWP),320343,Location ID,001-09067,Same as Well (on-site),Fee,Fee,39.87469,-104.29875,Well
+Goodwin Energy Bond Claim,MOORE 1 (OWP),320344,Location ID,001-09069,Site ID 486621 (off-site),Fee,Fee,39.89608,-104.55842,Well
+Goodwin Energy Bond Claim,MOORE 2 (OWP),320348,Location ID,001-09076,Site ID 486621 (off-site),Fee,Fee,39.89214,-104.55731,Well
+Painted Pegasus Bond Claim,KALLSEN 15-01 (OWP),320358,Location ID,001-09099,Site ID xyz (off-site),Fee,Fee,39.88187,-104.30313,Well
+Schreider & Company Bond Claim,IVOL FERGUSON 14-33 (OWP),320370,Location ID,001-09121,Same as Well (on-site),Fee,Fee,39.87475,-104.29381,Well
+Painted Pegasus Bond Claim,KELTON 'A' 31-8 (OWP),320381,Location ID,001-09153,Site ID 486611 (off-site),Fee,Fee,39.89709,-104.57142,Well
+Painted Pegasus Bond Claim,JACKIE 1 (OWP),320384,Location ID,001-09165,Site ID xyz (off-site),Fee,Fee,39.843689,-104.589217,Well
+Painted Pegasus Bond Claim,KELTON A-2 (OWP),320386,Location ID,001-09173,Site ID 494548 (off-site),Fee,Fee,39.900759,-104.5811,Well
+Painted Pegasus Bond Claim,KELTON A-3 (OWP),320387,Location ID,001-09185,Site ID 494548 (off-site),Fee,Fee,39.900589,-104.576338,Well
+Painted Pegasus Bond Claim,UPV 7-15N3 (OWP),320400,Location ID,001-09201,Site ID xyz (off-site),Fee,Fee,39.88486,-104.47733,Well
+Painted Pegasus Bond Claim,UPV 25-8N3 (OWP),320401,Location ID,001-09210,Same as Well (on-site),Fee,Fee,39.84882,-104.37883,Well
+Painted Pegasus Bond Claim,WAGNER 18-12M4 (OWP),320416,Location ID,001-09265,Site ID xyz (off-site),Fee,Fee,39.96153,-104.59927,Well
+Painted Pegasus Bond Claim,HSR-BARCLAY 13-29 (OWP),320432,Location ID,001-09305,Site ID xyz (off-site),Fee,Fee,39.929527,-104.353731,Well
+Painted Pegasus Bond Claim,HSR-LONNIE 11-8 (OWP),320449,Location ID,001-09345,Site ID 320448 (off-site),Fee,Fee,39.88942,-104.23721,Well
+Painted Pegasus Bond Claim,HSR-BOWEN FARMS 3-9 (OWP),320450,Location ID,001-09349,Site ID xyz (off-site),Fee,Fee,39.80843,-104.33247,Well
+Painted Pegasus Bond Claim,VERNON GRADY 12-20 (OWP),320461,Location ID,001-09381,Site ID xyz (off-site),Fee,Fee,39.86409,-104.2423,Well
+Painted Pegasus Bond Claim,ABBOTT 12-21 (OWP),320477,Location ID,001-09416,Same as Well (on-site),Fee,Fee,39.94666,-104.449714,Well
+Painted Pegasus Bond Claim,HER 43-5 (OWP),320498,Location ID,001-09477,Site ID xyz (off-site),Fee,Fee,39.989793,-104.341531,Well
+Schreider & Company Bond Claim,COMANCHE CREEK 3-14 (OWP),320502,Location ID,001-09487,Site ID 320324 (off-site),Fee,Fee,39.87825,-104.2985,Well
+Painted Pegasus Bond Claim,DOUBLE A 32-17 (OWP),320525,Location ID,001-09538,Site ID xyz (off-site),Fee,Fee,39.79001,-104.459666,Well
+Painted Pegasus Bond Claim,MCKINNEY 1-9 (OWP),320529,Location ID,001-09542,Same as Well (on-site),Fee,Fee,39.981531,-104.551879,Well
+Smith Oil Properties Bond Claim,VICKI 1 (OWP),320538,Location ID,001-09552,Site ID xyz (off-site),Fee,Fee,39.80239,-104.23861,Well
+Painted Pegasus Bond Claim,MORAN 31-30 (OWP),320551,Location ID,001-09572,Site ID 319771 (off-site),Fee,Fee,39.853408,-104.590499,Well
+Painted Pegasus Bond Claim,ROSE 13-14 (OWP),320554,Location ID,001-09576,Site ID xyz (off-site),Fee,Fee,39.961546,-104.524869,Well
+Painted Pegasus Bond Claim,BOX ELDER G 42-24 (OWP),320565,Location ID,001-09608,Site ID xyz (off-site),Fee,Fee,39.864719,-104.605085,Well
+Painted Pegasus Bond Claim,SAM KOCH 34-24 (OWP),320566,Location ID,001-09609,Site ID xyz (off-site),Fee,Fee,39.85751,-104.60972,Well
+Painted Pegasus Bond Claim,SAM KOCH 44-24 (OWP),320567,Location ID,001-09610,Site ID xyz (off-site),Fee,Fee,39.85725,-104.604784,Well
+Painted Pegasus Bond Claim,BOX ELDER G 24-24 (OWP),320577,Location ID,001-09623,Site ID xyz (off-site),Fee,Fee,39.857572,-104.614424,Well
+Painted Pegasus Bond Claim,MINIS-USX YM 3-14 (OWP),320586,Location ID,001-09633,Same as Well (on-site),Fee,Fee,39.813503,-104.539196,Well
+Painted Pegasus Bond Claim,MANSFIELD-USX DK 31-19 (OWP),320587,Location ID,001-09634,Site ID xyz (off-site),Fee,Fee,39.924642,-104.033032,Well
+Painted Pegasus Bond Claim,HANSON 23-30 (OWP),320588,Location ID,001-09635,Site ID xyz (off-site),Fee,Fee,39.846509,-104.595291,Well
+Painted Pegasus Bond Claim,FRIHAUF - USX CK 25-23 (OWP),320589,Location ID,001-09636,Site ID xyz (off-site),Fee,Fee,39.931898,-104.042555,Well
+Painted Pegasus Bond Claim,CHAMPLIN DANFORD 32-32 (OWP),320594,Location ID,001-09643,Site ID xyz (off-site),Fee,Fee,39.834889,-104.571604,Well
+Painted Pegasus Bond Claim,Champlin Danford 43-32 (OWP),320607,Location ID,001-09656,Site ID xyz (off-site),Fee,Fee,39.83212,-104.56626,Well
+Painted Pegasus Bond Claim,CHAMPLIN DANFORD 44-32 (OWP),320609,Location ID,001-09658,Same as Well (on-site),Fee,Fee,39.828,-104.566922,Well
+Poncho Bond Claim,DTA-POEORIA 24 (OWP),320629,Location ID,005-06158,Same as Well (on-site),Fee,Fee,39.668665,-104.095513,Well
+Becca Oil Bond Claim,BILLINGS 1-6 (OWP),320660,Location ID,005-06421,Same as Well (non-contiguous site),Fee,Fee,39.72941,-104.3708,Well
+Becca Oil Bond Claim,KALCEVIC 2 (OWP),320667,Location ID,005-06449,Site ID 486301 (off-site),Fee,Fee,39.71836,-104.39407,Well
+Becca Oil Bond Claim,KALCEVIC 3 (OWP),320739,Location ID,005-06805,Site ID 486301 (off-site),Fee,Fee,39.72186,-104.39401,Well
+Behrens Bond Claim,LINNEBUR 1-20 (OWP),320749,Location ID,005-06867,Site ID 483025 (off-site),Fee,Fee,39.59518,-104.34465,Well
+Behrens Bond Claim,LINNEBUR 2-20 (OWP),320758,Location ID,005-06916,Site ID xyz (off-site),Fee,Fee,39.59515,-104.35422,Well
+Shahan & Sons Bond Claim,P C CROWLEY HEIRS 1 (OWP),320829,Location ID,007-05016,None,Fee,Fee,37.02559,-106.772547,Well
+Shahan & Sons Bond Claim,SHAHAN 1 (OWP),320846,Location ID,007-06091,None,Fee,Fee,37.026295,-106.767445,Well
+Alamosa Drilling Bond Claim,NIELSEN 3 (OWP),320851,Location ID,007-06116,Same as Well (on-site),Fee,Fee,37.016317,-106.882283,Well
+Alamosa Drilling Bond Claim,NIELSEN 4 (OWP),320852,Location ID,007-06117,Same as Well (on-site),Fee,Fee,37.01845,-106.87705,Well
+Alamosa Drilling Bond Claim,CHAVEZ 1 (OWP),320854,Location ID,007-06120,Same as Well (on-site),Fee,Fee,37.018267,-106.875067,Well
+Alamosa Drilling Bond Claim,CHAVEZ 2 (OWP),320860,Location ID,007-06136,Site ID 320854 (off-site),Fee,Fee,37.017433,-106.87505,Well
+Alamosa Drilling Bond Claim,NIELSEN 5 (OWP),320864,Location ID,007-06141,Site ID 320852 (off-site),Fee,Fee,37.0176,-106.877333,Well
+Alamosa Drilling Bond Claim,ALBERT MARTINEZ 1 (OWP),320912,Location ID,007-06253,Site ID 320852 (off-site),Fee,Fee,37.017933,-106.878183,Well
+Shahan & Sons Bond Claim,YEAKLEY-CROWLEY HEIRS 2 (OWP),320923,Location ID,007-40029,None,Fee,Fee,37.027409,-106.770861,Well
+Poncho Bond Claim,PRENTICE 1-35 (OWP),320956,Location ID,009-05127,Same as Well (on-site),Fee,Fee,37.213374,-102.124053,Well
+Poncho Bond Claim,"HAMILTON, EMMA 1-3 (OWP)",320979,Location ID,009-06077,None,Fee,Fee,37.023791,-102.047656,Well
+Schreider & Company Bond Claim,STATE 1-17 (OWP),321069,Location ID,009-06366,Same as Well (on-site),Fee,State,37.34349,-102.06569,Well
+Schreider & Company Bond Claim,HETRICK 1-29 (OWP),321070,Location ID,009-06368,Same as Well (on-site),Fee,Fee,37.32081,-102.07331,Well
+Schreider & Company Bond Claim,BRYAN 1-7X (OWP),321091,Location ID,009-06438,Same as Well (on-site),Fee,Fee,37.35832,-102.0844,Well
+Phoenix Resources Bond Claim,STATE OF COLORADO 1-36 (OWP),423326,Location ID,009-06670,Same as Well (on-site),State,State,37.03635,-102.2181,Well
+Phoenix Resources Bond Claim,STATE OF COLORADO 2-36 (OWP),429918,Location ID,009-06674,Same as Well (on-site),State,State,37.03913,-102.218335,Well
+Phoenix Resources Bond Claim,Holt 1 (OWP),433758,Location ID,009-06676,Same as Well (on-site),Fee,Fee,37.0338,-102.21583,Well
+Prowers Ent Bond Claim,BROYLES C-1 (OWP),321222,Location ID,011-06089,Same as Well (on-site),Fee,Fee,38.072016,-102.826354,Well
+High Plains Bond Claim,BROWN 28-24-49 1 (OWP),430234,Location ID,011-06200,None,Fee,Fee,37.9379,-102.9077,Well
+Williford Energy Bond Claim,RHOADES UNIT TRACT 3 1 (OWP),321605,Location ID,017-06410,Site ID 476137 (off-site),State,Fee,38.874406,-102.831472,Well
+Williford Energy Bond Claim,RHOADES UNIT 4-2 (OWP),321625,Location ID,017-06502,Site ID 476137 (off-site),Fee,Fee,38.870851,-102.826716,Well
+Williford Energy Bond Claim,RHOADES UNIT TRACT 5 3 (OWP),321636,Location ID,017-06531,Site ID 476137 (off-site),Fee,Fee,38.871063,-102.812851,Well
+Williford Energy Bond Claim,RHOADES UNIT 5-4 (OWP),321653,Location ID,017-06622,Site ID 476137 (off-site),Fee,Fee,38.87852,-102.79836,Well
+Williford Energy Bond Claim,RHOADES UNIT 5-5 (OWP),321654,Location ID,017-06625,Site ID 476137 (off-site),Fee,Fee,38.878475,-102.802985,Well
+Williford Energy Bond Claim,RHOADES UNIT 5-6 (OWP),321656,Location ID,017-06629,Site ID 476137 (off-site),Fee,Fee,38.87836,-102.812849,Well
+Williford Energy Bond Claim,RHOADES UNIT TRACT 4 3 (OWP),321657,Location ID,017-06630,Site ID 476137 (off-site),Fee,Fee,38.870957,-102.8215,Well
+Williford Energy Bond Claim,RHOADES UNIT 5-7 (OWP),321658,Location ID,017-06632,Site ID 476137 (off-site),Fee,Fee,38.874763,-102.808857,Well
+Williford Energy Bond Claim,RHOADES UNIT 4-5 (OWP),321659,Location ID,017-06636,Site ID 476137 (off-site),Fee,Fee,38.86798,-102.817334,Well
+Behrens Bond Claim,CLARK 13-18 (OWP),322143,Location ID,039-06147,Site ID xyz (off-site),Fee,Fee,39.52605,-104.38279,Well
+Behrens Bond Claim,WHITEHEAD 31-20A (OWP),322144,Location ID,039-06150,Same as Well (on-site),Fee,Fee,39.51909,-104.35563,Well
+Behrens Bond Claim,WHITEHEAD 1 (OWP),322145,Location ID,039-06158,Site ID xyz (off-site),Fee,Fee,39.55096,-104.29328,Well
+Goodwin Energy Bond Claim,HOERY 24-02 (OWP),322171,Location ID,039-06382,Site ID xyz (off-site),Fee,Fee,39.551172,-104.303279,Well
+Eastco Bond Claim,Payne 23-41,442784,Location ID,039-06681,None,Fee,Fee,38.89871,-103.97882,Well
+Stoddard - State #1,STATE 1 (OWP),382305,Location ID,041-05022,None,State,State,38.732089,-104.350275,Well
+Eastco Bond Claim,Graham 1-13,434005,Location ID,041-06082,None,Fee,Fee,38.94607,-104.06848,Well
+Don H Peaker-State #1,DON H PEAKER-STATE 1 (OWP),382395,Location ID,043-05070,None,State,State,38.305242,-105.120965,Well
+Hassler #1,HASSLER 1 (OWP),382448,Location ID,043-06002,None,Fee,Fee,38.287888,-105.110987,Well
+Harwood Bond Claim,PRIDE OF WEST 1 (OWP),322222,Location ID,043-06108,,Fee,Fee,38.38998,-105.114336,Well
+Florence-Canon City Field 2011 to 2012,HW-2919S69W 1 (OWP),426287,Location ID,043-40082,None,Fee,Fee,38.371514,-105.134856,Well
+Florence-Canon City Field 2011 to 2012,HW-2820S69W 1 (OWP),426281,Location ID,043-40088,None,Fee,Fee,38.275914,-105.111793,Well
+Florence-Canon City Field - HW-2019S69W Wells,HW-2019S69W 1 (OWP),426289,Location ID,043-40090,Site ID xyz (off-site),Fee,Fee,38.384625,-105.142177,Well
+Florence-Canon City Field - HW-2019S69W Wells,HW-2019S69W 2 (OWP),426288,Location ID,043-40093,None,Fee,Fee,38.374372,-105.13114,Well
+Denver Fed #3A,DENVER FED 3A (OWP),382645,Location ID,045-05033,None,Federal,Federal,39.398585,-108.828917,Well
+Locin Oil Bond Claim,PRAIRIE CANYON B  (GOV'T) 2 B (OWP),322288,Location ID,045-05043,Same as Well (on-site),Fee,Federal,39.40885,-109.03298,Well
+Locin Oil Bond Claim,PRAIRIE CANYON(NW-GOV'T) A-1 (OWP),322289,Location ID,045-05045,Same as Well (on-site),Federal,Federal,39.41236,-108.99838,Well
+Petro Mex Federal Bond Claim,COAL GULCH 15-9 (OWP),334470,Location ID,045-06017,Same as Well (on-site),Federal,Federal,39.37025,-108.66791,Well
+Locin Oil Bond Claim,PRAIRIE CANYON FEDERAL 1-17 (OWP),322319,Location ID,045-06026,None,Federal,Federal,39.453874,-109.017324,Well
+Locin Oil Bond Claim,GOVERNMENT 1 (OWP),322320,Location ID,045-06027,Same as Well (on-site),Fee,Federal,39.491911,-108.962774,Well
+Locin Oil Bond Claim,WEST SALT CREEK-FEDERAL 2-18 (OWP),322321,Location ID,045-06028,Same as Well (on-site),Federal,Federal,39.457279,-108.920511,Well
+Locin Oil Bond Claim,WEST SALT CREEK-FEDERAL 3-32 (OWP),322322,Location ID,045-06029,Same as Well (on-site),Federal,Federal,39.4896,-108.89865,Well
+Locin Oil Bond Claim,SPRING CANYON-FEDERAL 1-31 (OWP),322324,Location ID,045-06031,Same as Well (on-site),Federal,Federal,39.4906,-108.91652,Well
+Locin Oil Bond Claim,PRAIRIE CANYON-FEDERAL 2-29 (OWP),322328,Location ID,045-06037,Site ID 322339 (off-site),Federal,Federal,39.5169,-109.0056,Well
+Locin Oil Bond Claim,CARBONERA-FEDERAL 1-20 (OWP),322330,Location ID,045-06040,Site ID 322328 (off-site),Federal,Federal,39.52315,-109.00826,Well
+Locin Oil Bond Claim,GOVERNMENT 2 (OWP),322339,Location ID,045-06070,Site ID 322339 (off-site),Federal,Federal,39.49948,-108.96759,Well
+Locin Oil Bond Claim,FEDERAL 7-8-104 (OWP),322344,Location ID,045-06086,Same as Well (on-site),Federal,Federal,39.383408,-109.037901,Well
+Locin Oil Bond Claim,FEDERAL 1-9 (OWP),322345,Location ID,045-06087,Same as Well (on-site),Federal,Federal,39.381118,-108.986325,Well
+Locin Oil Bond Claim,FEDERAL 2-9 (OWP),322347,Location ID,045-06091,Same as Well (on-site),Fee,Federal,39.387729,-108.990568,Well
+Locin Oil Bond Claim,FEDERAL 2-23 (OWP),322350,Location ID,045-06101,Same as Well (on-site),Fee,Federal,39.44255,-108.95438,Well
+Locin Oil Bond Claim,FEDERAL 32-1X (OWP),322351,Location ID,045-06102,Same as Well (on-site),Federal,Federal,39.417335,-109.004955,Well
+Locin Oil Bond Claim,FEDERAL 28-7 (OWP),322358,Location ID,045-06110,Same as Well (on-site),Federal,Federal,39.425421,-108.993184,Well
+Locin Oil Bond Claim,FEDERAL 26-13 (OWP),322360,Location ID,045-06112,Site ID 481428 (off-site),Federal,Federal,39.41939,-108.9624,Well
+Locin Oil Bond Claim,FEDERAL 21-11 (OWP),322366,Location ID,045-06121,Same as Well (on-site),Federal,Federal,39.434412,-108.993885,Well
+Locin Oil Bond Claim,FEDERAL 43-3 (OWP),322370,Location ID,045-06129,Same as Well (on-site),Federal,Federal,39.39416,-108.970462,Well
+Locin Oil Bond Claim,FEDERAL 43-4 (OWP),322371,Location ID,045-06130,Same as Well (on-site),Fee,Federal,39.394371,-108.986981,Well
+Locin Oil Bond Claim,FEDERAL 22-9 (OWP),322372,Location ID,045-06136,Same as Well (on-site),Federal,Federal,39.384055,-108.996365,Well
+Locin Oil Bond Claim,FEDERAL 22-8 (OWP),322373,Location ID,045-06137,Same as Well (on-site),Federal,Federal,39.439779,-108.967247,Well
+Locin Oil Bond Claim,FEDERAL 32-9 (OWP),322374,Location ID,045-06138,Site ID 322374 (off-site),Federal,Federal,39.405881,-109.004762,Well
+Locin Oil Bond Claim,FEDERAL 30-11 (OWP),322375,Location ID,045-06139,Same as Well (on-site),Federal,Federal,39.421549,-109.031835,Well
+Locin Oil Bond Claim,FEDERAL 30-3 (OWP),322376,Location ID,045-06140,Same as Well (on-site),Federal,Federal,39.429043,-109.032115,Well
+Locin Oil Bond Claim,YOUNG 15-2 (OWP),322377,Location ID,045-06141,Same as Well (on-site),Federal,Federal,39.456485,-108.971211,Well
+Locin Oil Bond Claim,FEDERAL 20-6 (OWP),322378,Location ID,045-06142,Same as Well (on-site),Federal,Federal,39.439111,-109.01663,Well
+Locin Oil Bond Claim,FEDERAL 15-15 (OWP),322379,Location ID,045-06143,Same as Well (on-site),Federal,Federal,39.447085,-108.97262,Well
+Locin Oil Bond Claim,FEDERAL 29-16 (OWP),322380,Location ID,045-06144,Same as Well (on-site),Federal,Federal,39.4195,-109.007365,Well
+Locin Oil Bond Claim,FEDERAL 13-7 (OWP),322381,Location ID,045-06145,Same as Well (on-site),Federal,Federal,39.369134,-109.045456,Well
+Locin Oil Bond Claim,FEDERAL 16-4 (OWP),322382,Location ID,045-06146,Same as Well (on-site),Federal,Federal,39.456863,-109.00061,Well
+Locin Oil Bond Claim,FEDERAL 20-7 (OWP),322383,Location ID,045-06147,Same as Well (on-site),Federal,Federal,39.441929,-109.009711,Well
+Locin Oil Bond Claim,FEDERAL 16-2 (OWP),322384,Location ID,045-06148,Same as Well (on-site),Federal,Federal,39.457567,-108.991817,Well
+Locin Oil Bond Claim,FEDERAL 5-3 (OWP),322386,Location ID,045-06150,Same as Well (on-site),Federal,Federal,39.40137,-109.01506,Well
+Locin Oil Bond Claim,FEDERAL 6-3 (OWP),322387,Location ID,045-06151,Same as Well (on-site),Federal,Federal,39.400051,-109.035653,Well
+Locin Oil Bond Claim,FEDERAL 1-15 (OWP),322388,Location ID,045-06153,Same as Well (on-site),Federal,Federal,39.391916,-109.047135,Well
+Locin Oil Bond Claim,PUNCH-FEDERAL 21-3 (OWP),322389,Location ID,045-06154,Same as Well (on-site),Federal,Federal,39.44308,-108.99605,Well
+Locin Oil Bond Claim,FEDERAL 33-15 (OWP),322390,Location ID,045-06155,Same as Well (on-site),Fee,Federal,39.40501,-108.99098,Well
+Locin Oil Bond Claim,LEWIS USA 25-15 (OWP),322391,Location ID,045-06156,Same as Well (on-site),Federal,Federal,39.419182,-109.048579,Well
+Locin Oil Bond Claim,FEDERAL 6-13 (OWP),322392,Location ID,045-06159,Same as Well (on-site),Fee,Federal,39.391359,-109.03873,Well
+Locin Oil Bond Claim,FEDERAL 31-3 (OWP),322393,Location ID,045-06161,Same as Well (on-site),Fee,Federal,39.41505,-109.03418,Well
+Northstar Gas Bond Claim,COHIBA-FEDERAL 6-8 (OWP),322394,Location ID,045-06162,Same as Well (on-site),Federal,Federal,39.57024,-108.80238,Well
+Locin Oil Bond Claim,FERGUSON 3-9 (OWP),322395,Location ID,045-06163,Same as Well (on-site),Federal,Federal,39.380458,-108.995705,Well
+Locin Oil Bond Claim,LEWIS USA 36-1 (OWP),322396,Location ID,045-06164,Same as Well (on-site),Federal,Federal,39.416884,-109.042203,Well
+Locin Oil Bond Claim,FEDERAL 2-3-8-104 (OWP),322397,Location ID,045-06165,Same as Well (on-site),Federal,Federal,39.394283,-108.977667,Well
+Locin Oil Bond Claim,FEDERAL 29-5 (OWP),322398,Location ID,045-06166,Same as Well (on-site),Federal,Federal,39.425805,-109.021519,Well
+Locin Oil Bond Claim,FEDERAL 1-35 (OWP),322402,Location ID,045-06171,Same as Well (on-site),Federal,Federal,39.409089,-108.964145,Well
+Locin Oil Bond Claim,FEDERAL 1-34 (OWP),322403,Location ID,045-06172,Same as Well (on-site),Federal,Federal,39.415409,-108.974009,Well
+Locin Oil Bond Claim,FEDERAL 17-10 (OWP),322407,Location ID,045-06187,Same as Well (on-site),Federal,Federal,39.451493,-109.005921,Well
+Locin Oil Bond Claim,GOVERNMENT 1-8 (OWP),322408,Location ID,045-06188,Same as Well (on-site),Federal,Federal,39.38429,-109.005056,Well
+Locin Oil Bond Claim,FEDERAL 1-5 (OWP),322409,Location ID,045-06189,Same as Well (on-site),Fee,Federal,39.391091,-109.005447,Well
+Locin Oil Bond Claim,FEDERAL 1-4 (OWP),322410,Location ID,045-06190,Same as Well (on-site),Fee,Federal,39.400754,-108.98675,Well
+Locin Oil Bond Claim,FEDERAL 10-12 (OWP),322411,Location ID,045-06191,Same as Well (on-site),Federal,Federal,39.461837,-108.976932,Well
+Locin Oil Bond Claim,FEDERAL 31-16 (OWP),322412,Location ID,045-06197,Same as Well (on-site),Federal,Federal,39.373256,-108.991239,Well
+Locin Oil Bond Claim,FEDERAL 23-4 (OWP),322413,Location ID,045-06198,Same as Well (on-site),Fee,Federal,39.395729,-108.996117,Well
+Locin Oil Bond Claim,FEDERAL 12-3 (OWP),322414,Location ID,045-06200,Same as Well (on-site),Federal,Federal,39.399078,-108.980947,Well
+Locin Oil Bond Claim,FEDERAL 2-11 (OWP),322428,Location ID,045-06235,Same as Well (on-site),Federal,Federal,39.385042,-108.950941,Well
+Locin Oil Bond Claim,FEDERAL 3-11-8-104(OWP),322429,Location ID,045-06237,Same as Well (on-site),Federal,Federal,39.381648,-108.963865,Well
+Locin Oil Bond Claim,FEDERAL 2-34-7-104(OWP),322447,Location ID,045-06282,Same as Well (on-site),Federal,Federal,39.40678,-108.978458,Well
+Locin Oil Bond Claim,FEDERAL 1-3-8-104 (OWP),322449,Location ID,045-06287,Same as Well (on-site),Federal,Federal,39.400073,-108.971161,Well
+Locin Oil Bond Claim,ARCO FED 11-4-5-103(OWP),322455,Location ID,045-06297,Same as Well (on-site),Federal,Federal,39.65526,-108.96674,Well
+Locin Oil Bond Claim,HUGHES USA 24-1 (OWP),322461,Location ID,045-06313,Same as Well (on-site),Federal,Federal,39.445522,-109.041635,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 15-9-5-103(OWP),311540,Location ID,045-06323,Same as Well (on-site),Federal,Federal,39.64446,-108.96043,Well
+Lasso Bond Claim,YOUNG 11-14 (OWP),322475,Location ID,045-06338,Same as Well (on-site),Fee,Fee,39.46054,-108.96017,Well
+Northstar Gas Bond Claim,ATCHEE-FEDERAL 6-24 (OWP),322478,Location ID,045-06345,Same as Well (on-site),Federal,Federal,39.51928,-108.83541,Well
+Lasso Bond Claim,FEDERAL M-20-6-103-S (OWP),322492,Location ID,045-06380,Same as Well (on-site),Federal,Federal,39.52063,-108.90775,Well
+Locin Oil Bond Claim,FEDERAL 3-10-84 (OWP),322496,Location ID,045-06391,None,Federal,Federal,39.380899,-108.969166,Well
+Locin Oil Bond Claim,FULLER USA 18-12 (OWP),322507,Location ID,045-06411,Same as Well (on-site),Federal,Federal,39.453042,-109.038907,Well
+Locin Oil Bond Claim,FULLER USA 13-16 (OWP),322508,Location ID,045-06414,Same as Well (on-site),Federal,Federal,39.448966,-109.046041,Well
+Northstar Gas Bond Claim,FEDERAL 1-1 (OWP),322516,Location ID,045-06436,Same as Well (on-site),Federal,Federal,39.57355,-108.82074,Well
+Locin Oil Bond Claim,FEDERAL-BUTTERMILK CANYON 13-1 (OWP),322521,Location ID,045-06463,Same as Well (on-site),Federal,Federal,39.45712,-108.93001,Well
+Locin Oil Bond Claim,FEDERAL 24-7 (OWP),323786,Location ID,045-06562,Site ID 481424 (off-site),Federal,Federal,39.43925,-109.04677,Well
+Locin Oil Bond Claim,FEDERAL 36-7 (OWP),323794,Location ID,045-06577,Same as Well (on-site),Federal,Federal,39.4128,-109.04963,Well
+Locin Oil Bond Claim,FEDERAL 29-14 (OWP),323795,Location ID,045-06579,Site ID 322375 (off-site),Federal,Federal,39.419331,-109.020161,Well
+Locin Oil Bond Claim,FEDERAL 27-16 (OWP),323804,Location ID,045-06599,Site ID 481428 (off-site),Federal,Federal,39.41977,-108.9692,Well
+Locin Oil Bond Claim,FEDERAL 18-12 (OWP),323820,Location ID,045-06636,None,Federal,Federal,39.45123,-108.92822,Well
+Locin Oil Bond Claim,FEDERAL 25-8 (OWP),323826,Location ID,045-06659,None,Federal,Federal,39.42729,-109.04196,Well
+Locin Oil Bond Claim,FEDERAL 23-6 (OWP),323827,Location ID,045-06660,Same as Well (on-site),Federal,Federal,39.439339,-108.959263,Well
+Locin Oil Bond Claim,FEDERAL 30-12 (OWP),323828,Location ID,045-06661,Same as Well (on-site),Federal,Federal,39.42146,-109.03983,Well
+Locin Oil Bond Claim,FEDERAL 32-11 (OWP),323829,Location ID,045-06662,Site ID 322374 (off-site),Federal,Federal,39.40951,-109.01352,Well
+Locin Oil Bond Claim,FEDERAL 26-4 (OWP),323854,Location ID,045-06753,None,Federal,Federal,39.4295,-108.96409,Well
+Locin Oil Bond Claim,FEDERAL 33-8 (OWP),323855,Location ID,045-06754,Same as Well (on-site),Federal,Federal,39.41168,-108.98584,Well
+Petro Mex Federal Bond Claim,GOVERNMENT 5 (OWP),323858,Location ID,045-06771,Same as Well (on-site),Federal,Federal,39.372297,-108.67567,Well
+Petro Mex Federal Bond Claim,GOVERNMENT 6 (OWP),323860,Location ID,045-06779,Same as Well (on-site),Federal,Federal,39.373207,-108.680273,Well
+Locin Oil Bond Claim,GOVT. 14-2 (OWP),323895,Location ID,045-06874,Same as Well (on-site),Federal,Federal,39.392551,-108.96228,Well
+Locin Oil Bond Claim,FEDERAL 4-10 (OWP),323896,Location ID,045-06875,Same as Well (on-site),Federal,Federal,39.388124,-108.982655,Well
+Locin Oil Bond Claim,FEDERAL 21-4X (OWP),323898,Location ID,045-06879,Same as Well (on-site),Fee,Federal,39.401734,-108.994678,Well
+Locin Oil Bond Claim,FEDERAL 42-26 (OWP),334806,Location ID,045-06946,Same as Well (on-site),Federal,Federal,39.423513,-108.951313,Well
+Locin Oil Bond Claim,BRIDLE FEDERAL 44-2 (OWP),323939,Location ID,045-07070,Same as Well (on-site),Federal,Federal,39.392227,-108.954183,Well
+Locin Oil Bond Claim,FEDERAL 28-10 (OWP),324034,Location ID,045-07301,Same as Well (on-site),Federal,Federal,39.421703,-108.989613,Well
+Locin Oil Bond Claim,FEDERAL 31-4 (OWP),324036,Location ID,045-07305,Site ID 481109 (off-site),Fee,Federal,39.4117,-109.03445,Well
+Locin Oil Bond Claim,FEDERAL 9-9 (OWP),324049,Location ID,045-07334,Same as Well (on-site),Federal,Federal,39.461826,-108.99726,Well
+Locin Oil Bond Claim,FEDERAL 27-12 (OWP),324056,Location ID,045-07358,Same as Well (on-site),Federal,Federal,39.421984,-108.97915,Well
+Locin Oil Bond Claim,FEDERAL 2-17 (OWP),324109,Location ID,045-07556,Same as Well (on-site),Federal,Federal,39.449562,-109.019011,Well
+Locin Oil Bond Claim,FEDERAL 20-8 (OWP),324151,Location ID,045-07737,Same as Well (on-site),Federal,Federal,39.438234,-109.017005,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 22-8-5-103(OWP),324282,Location ID,045-10251,None,Fee,Fee,39.6406,-108.98494,Well
+Walter Fees Federal Bond Claim,FEDERAL 1-12-8-101(OWP),324359,Location ID,045-11916,Same as Well (on-site),Federal,Federal,39.370311,-108.616179,Well
+Locin Oil Bond Claim,COLUMBINE SP FED #12-10-5-103(OWP),324365,Location ID,045-12194,Same as Well (on-site),Fee,Fee,39.639097,-108.952233,Well
+Locin Oil Bond Claim,FEDERAL 31-15 (OWP),324384,Location ID,045-12595,Site ID 481109 (off-site),Fee,Federal,39.405167,-109.033917,Well
+Walter Fees Federal Bond Claim,FEDERAL 1-11-8-101(OWP),324385,Location ID,045-12647,Same as Well (on-site),Federal,Federal,39.37189,-108.63974,Well
+Petro Mex Federal Bond Claim,FEDERAL 6-9-8-101 (OWP),324392,Location ID,045-13342,Same as Well (on-site),Federal,Federal,39.37,-108.6725,Well
+Walter Fees Federal Bond Claim,FEDERAL 2-11-8-101(OWP),324438,Location ID,045-15975,Same as Well (on-site),Federal,Federal,39.36916,-108.63226,Well
+Tompkins & Sons Pad,OJO 5 (OWP),424448,Location ID,055-05014,None,Fee,Fee,37.547687,-105.09148,Well
+Pressey Wells,OJO 4 (OWP),383675,Location ID,055-05016,None,Fee,Fee,37.546593,-105.086874,Well
+Pressey Wells,CAMPBELL 3 (OWP),383676,Location ID,055-60010,None,Fee,Fee,37.547394,-105.087259,Well
+Park Energy Bond Claim,KUIPERS 1 (OWP),324629,Location ID,057-06090,,Fee,Fee,40.67745,-106.48365,Well
+Park Energy Bond Claim,DOWDELL 1 (OWP),324668,Location ID,057-06252,,Fee,Fee,40.696772,-106.536896,Well
+Park Energy Bond Claim,DOWDELL 6 (OWP),324696,Location ID,057-06359,Site ID xyz (off-site),Fee,Fee,40.697802,-106.53747,Well
+Woodbury Bond Claim,Fuqua 19-02-10-1H(OWP),324766,Location ID,057-06483,Same as Well (on-site),Fee,Fee,40.48465,-106.18471,Well
+Inspire Oil & Gas Bond Claim,Silver Spur Minerals 35-2H (OWP),414031,Location ID,057-06490,Same as Well (on-site),Fee,Fee,40.618044,-106.105967,Well
+Chemco Bond Claim,STUBBS 1 (OWP),324788,Location ID,061-05055,Same as Well (on-site),Fee,Fee,38.409687,-102.452516,Well
+Chemco Bond Claim,LINCOLN 1 (OWP),324793,Location ID,061-06005,Site ID 428334 (off-site),Fee,Fee,38.413637,-102.443583,Well
+Chemco Bond Claim,LINCOLN 2 (OWP),324794,Location ID,061-06008,Site ID 428334 (off-site),Fee,Fee,38.417051,-102.439426,Well
+Chemco Bond Claim,H.C. WEAR #3 1 (OWP),324802,Location ID,061-06088,Same as Well (on-site),Fee,Fee,38.457213,-102.425389,Well
+Chemco Bond Claim,"WEAR, H C #3 2 (OWP)",324803,Location ID,061-06093,Same as Well (on-site),Fee,Fee,38.460674,-102.42107,Well
+Chemco Bond Claim,T-WEAR 1 (OWP),324805,Location ID,061-06136,Same as Well (on-site),Fee,Fee,38.489709,-102.416802,Well
+Chemco Bond Claim,MUIR 1-A (OWP),334272,Location ID,061-06287,Same as Well (on-site),Fee,Fee,38.449596,-102.425912,Well
+Chemco Bond Claim,MUIR E J 2 (OWP),324821,Location ID,061-06293,Same as Well (on-site),Fee,Fee,38.453596,-102.420889,Well
+Chemco Bond Claim,W E TALLMAN 1-28 (OWP),324824,Location ID,061-06300,Same as Well (on-site),Fee,Fee,38.373571,-102.466054,Well
+Chemco Bond Claim,BAUGHMAN 1 (OWP),324828,Location ID,061-06355,Same as Well (on-site),Fee,Fee,38.438938,-102.425239,Well
+Chemco Bond Claim,WEAR 2 (OWP),324834,Location ID,061-06378,None,Fee,Fee,38.431616,-102.439071,Well
+Chemco Bond Claim,BAUGHMAN 7 (OWP),324836,Location ID,061-06392,Same as Well (on-site),Fee,Fee,38.427828,-102.434366,Well
+Berry Walter Bond Claim,FRAZEE B-10 (OWP),384593,Location ID,061-06421,,Fee,Fee,38.420449,-103.008972,Well
+Chemco Bond Claim,BAUGHMAN 6 (OWP),324843,Location ID,061-06452,Same as Well (on-site),Fee,Fee,38.431672,-102.429744,Well
+Chemco Bond Claim,WEAR 3 (OWP),324847,Location ID,061-06485,Same as Well (on-site),Fee,Fee,38.427852,-102.438838,Well
+Chemco Bond Claim,BAUGHMAN 8 (OWP),324848,Location ID,061-06488,Same as Well (non-contiguous site),Fee,Fee,38.428056,-102.429799,Well
+Chemco Bond Claim,MUNDHENKE-KNOW HEIRS 1 (OWP),324865,Location ID,061-06676,Same as Well (non-contiguous site),Fee,Fee,38.46785,-102.42492,Well
+Chemco Bond Claim,BAUGHMAN 5A-2 (OWP),324900,Location ID,061-06782,Same as Well (non-contiguous site),Fee,Fee,38.430731,-102.433249,Well
+Chemco Bond Claim,MUIR UNIT 1A-35 (OWP),324902,Location ID,061-06790,Same as Well (non-contiguous site),Fee,Fee,38.446868,-102.430714,Well
+High Plains Bond Claim,WEIMER STATE 16-19-47 1-H (OWP),430830,Location ID,061-06881,None,State,State,38.40969,-102.67711,Well
+Chemco Bond Claim,DONOHOE 4A-2 (OWP),384662,Location ID,061-06889,Same as Well (non-contiguous site),Fee,Fee,38.43482,-102.43005,Well
+MELVIN GROSS Bond Claim,MELVIN GROSS 1 (OWP),324934,Location ID,063-06088,None,Fee,Fee,39.328329,-102.252884,Well
+Fritz & Digman Bond Claim,"GRIFFITH, DELLA 1 (OWP)",325092,Location ID,067-05264,Same as Well (on-site),Fee,Fee,37.070027,-108.144256,Well
+Carson - State #1,CARSON 1 (OWP),385414,Location ID,067-05556,None,Fee,Fee,37.256826,-107.703124,Well
+Mowrer Bond Claim,NW SAN JUAN 1 (OWP),325285,Location ID,067-06076,None,Fee,Fee,37.145296,-108.089835,Well
+Hubbs Bond Claim,TED & HAZEL 11-1 (OWP),325918,Location ID,067-07171,Same as Well (on-site),Fee,Fee,37.1205,-108.11686,Well
+Prospect Energy Bond Claim,WHITAKER BLUNK (MUDDY UNIT) 1 (OWP),307055,Location ID,069-05108,Site ID xyz (off-site),Fee,Fee,40.637543,-105.050122,Well
+Prospect Energy Bond Claim,MEYER 1 (OWP),333077,Location ID,069-05113,Site ID xyz (off-site),Fee,Fee,40.641195,-105.050554,Well
+Prospect Energy Bond Claim,MEYER 3 (OWP),311271,Location ID,069-05114,Site ID xyz (off-site),Fee,Fee,40.640706,-105.050865,Well
+Prospect Energy Bond Claim,WORTH (MUDDY UNIT) 1 (OWP),307056,Location ID,069-05115,Site ID xyz (off-site),Fee,Fee,40.641233,-105.05483,Well
+Prospect Energy Bond Claim,KRAUSE  (MUDDY UNIT) 1 (OWP),307057,Location ID,069-05121,Site ID xyz (off-site),Fee,Fee,40.648415,-105.050488,Well
+Prospect Energy Bond Claim,K.W.B. (MUDDY UNIT) 1 (OWP),307058,Location ID,069-05124,None,Fee,Fee,40.652396,-105.047511,Well
+Prospect Energy Bond Claim,COMMUNITY 5 (OWP),307059,Location ID,069-05125,Same as Well (on-site),Fee,Fee,40.656239,-105.041435,Well
+Prospect Energy Bond Claim,COMMUNITY  (MUDDY UNIT) 1 (OWP),307060,Location ID,069-05129,Site ID xyz (off-site),Fee,Fee,40.662839,-105.041144,Well
+Prospect Energy Bond Claim,COMMUNITY 3 (OWP),307061,Location ID,069-05132,Site ID xyz (off-site),Fee,Fee,40.665545,-105.039576,Well
+Prospect Energy Bond Claim,COMMUNITY 2 (OWP),307062,Location ID,069-05133,Site ID xyz (off-site),Fee,Fee,40.665538,-105.039942,Well
+Prospect Energy Bond Claim,MARTINEZ  (MUDDY UNIT) 1 (OWP),307063,Location ID,069-05134,,Fee,Fee,40.669438,-105.037145,Well
+Prospect Energy Bond Claim,SABIN (MUDDY UNIT) 1 (OWP),307064,Location ID,069-05135,Site ID xyz (off-site),Fee,Fee,40.670977,-105.039498,Well
+Prospect Energy Bond Claim,"MARTINEZ, F G 2 (OWP)",307065,Location ID,069-05136,Site ID xyz (off-site),Fee,Fee,40.674502,-105.037053,Well
+Prospect Energy Bond Claim,MUDDY SANDSTONE UNIT 30-2 (OWP),333089,Location ID,069-06076,Site ID xyz (off-site),Fee,Fee,40.632129,-105.053409,Well
+Prospect Energy Bond Claim,PETERSON 14-20 (OWP),307114,Location ID,069-06083,Site ID xyz (off-site),Fee,Fee,40.641114,-105.036184,Well
+Prospect Energy Bond Claim,MUDDY SANDSTONE UNIT 30-6 (OWP),307119,Location ID,069-06094,Site ID xyz (off-site),Fee,Fee,40.635886,-105.045891,Well
+Prospect Energy Bond Claim,MSSU 30-7 (OWP),307120,Location ID,069-06095,Site ID xyz (off-site),Fee,Fee,40.636165,-105.04107,Well
+Deines Mazza Partnership Bond Claim,FAGGAN FARMS 1 (OWP),307125,Location ID,069-06105,None,Fee,Fee,40.309394,-105.132582,Well
+Prospect Energy Bond Claim,COMMUNITY 6 (OWP),307138,Location ID,069-06137,Site ID xyz (off-site),Fee,Fee,40.666564,-105.036872,Well
+Prospect Energy Bond Claim,MUDDY SANDSTONE UNIT 19-1 (OWP),311272,Location ID,069-06250,Site ID xyz (off-site),Fee,Fee,40.64076,-105.049846,Well
+Prospect Energy Bond Claim,MSSU 30-8 (OWP),333083,Location ID,069-06253,,Fee,Fee,40.638245,-105.053375,Well
+Prospect Energy Bond Claim,MSSU 30-10 (OWP),307176,Location ID,069-06255,Site ID xyz (off-site),Fee,Fee,40.63841,-105.047605,Well
+Prospect Energy Bond Claim,MSSU 30-11 (OWP),333086,Location ID,069-06256,Site ID xyz (off-site),Fee,Fee,40.63575,-105.050368,Well
+Prospect Energy Bond Claim,MSSU 30-17 (OWP),307184,Location ID,069-06284,Site ID xyz (off-site),Fee,Fee,40.637094,-105.040656,Well
+Prospect Energy Bond Claim,MSSU 19-8 (OWP),333078,Location ID,069-06285,Site ID xyz (off-site),Fee,Fee,40.644148,-105.043098,Well
+Prospect Energy Bond Claim,MSSU 19-4 (OWP),307186,Location ID,069-06287,,Fee,Fee,40.64896,-105.051087,Well
+Prospect Energy Bond Claim,MSSU 19-5 (OWP),307193,Location ID,069-06301,Site ID xyz (off-site),Fee,Fee,40.64901,-105.042973,Well
+Prospect Energy Bond Claim,MSSU 19-6 (OWP),307194,Location ID,069-06302,Site ID xyz (off-site),Fee,Fee,40.648778,-105.044091,Well
+Prospect Energy Bond Claim,MSSU 19-7 (OWP),307195,Location ID,069-06303,Site ID xyz (off-site),Fee,Fee,40.64049,-105.043248,Well
+Prospect Energy Bond Claim,MSSU 17-2 (OWP),307196,Location ID,069-06306,Site ID xyz (off-site),Fee,Fee,40.658484,-105.036623,Well
+Prospect Energy Bond Claim,MSSU 20-2 (OWP),307197,Location ID,069-06307,Site ID xyz (off-site),Fee,Fee,40.650946,-105.03447,Well
+Prospect Energy Bond Claim,MSSU 20-1 (OWP),307199,Location ID,069-06309,Site ID xyz (off-site),Fee,Fee,40.64724,-105.03548,Well
+Prospect Energy Bond Claim,CHEYENNE RIDGE 7-1 (OWP),307200,Location ID,069-06310,,Fee,Fee,40.669728,-105.044624,Well
+Prospect Energy Bond Claim,MSSU 30-18 (OWP),333087,Location ID,069-06311,Site ID xyz (off-site),Fee,Fee,40.625521,-105.047777,Well
+Prospect Energy Bond Claim,MSSU 17-1 (OWP),307201,Location ID,069-06312,Site ID xyz (off-site),Fee,Fee,40.654403,-105.034364,Well
+Prospect Energy Bond Claim,MSSU 19-10 (OWP),307202,Location ID,069-06313,Site ID xyz (off-site),Fee,Fee,40.644829,-105.053457,Well
+Prospect Energy Bond Claim,KIIX 1 (OWP),307210,Location ID,069-06332,Site ID xyz (off-site),Fee,Fee,40.649459,-105.050185,Well
+Prospect Energy Bond Claim,MARTINEZ 3 (OWP),416983,Location ID,069-06399,Site ID xyz (off-site),Fee,Fee,40.67408,-105.0377,Well
+Prospect Energy Bond Claim,KRAUSE 2 (OWP),307251,Location ID,069-60032,Site ID xyz (off-site),Fee,Fee,40.652104,-105.050417,Well
+Prospect Energy Bond Claim,MEYER (MUDDY UNIT) 2 (OWP),307252,Location ID,069-60033,Site ID xyz (off-site),Fee,Fee,40.644778,-105.045761,Well
+Maxwell Grant #1,MAXWELL GRANT 1 (OWP),386316,Location ID,071-05000,None,Fee,Fee,37.017524,-104.498458,Well
+Carlos Sandoval #1,CARLOS SANDOVAL 1 (OWP),386334,Location ID,071-05050,None,Fee,Fee,37.138535,-104.325383,Well
+Dutto-Marchisio #1,DUTTO-MARCHISIO 1 (OWP),386336,Location ID,071-05052,None,Fee,Fee,37.145815,-104.329643,Well
+Sandoval Land & Cattle Bond Claim,SANDOVAL 5 (OWP),307258,Location ID,071-06054,None,Fee,Fee,37.105071,-104.338116,Well
+Natural Resource Group Bond Claim,GARCIA 34-14 (OWP),307903,Location ID,071-07232,None,Fee,Fee,37.119925,-104.335303,Well
+Natural Resource Group Bond Claim,GARCIA 3-5 (OWP),307904,Location ID,071-07234,None,Fee,Fee,37.112446,-104.337833,Well
+Natural Resource Group Bond Claim,GARCIA 4-12 (OWP),307905,Location ID,071-07235,None,Fee,Fee,37.10919,-104.3559,Well
+Natural Resource Group Bond Claim,MIRAH 1 (OWP),309370,Location ID,071-09451,Same as Well (on-site),Fee,Fee,37.109281,-104.339401,Well
+Natural Resource Group Bond Claim,WINDY POINT 1 (OWP),309522,Location ID,071-09644,None,Fee,Fee,37.115536,-104.338872,Well
+Phoenix Resources Bond Claim,NEWBY 6-12 (OWP),309596,Location ID,073-06121,None,Fee,Fee,39.029419,-103.272524,Well
+Phoenix Resources Bond Claim,SMOKER 22-11 #1 (OWP),309605,Location ID,073-06259,None,Fee,Fee,38.93033,-103.41655,Well
+Phoenix Resources Bond Claim,MOSHER 1-1H (OWP),414589,Location ID,073-06393,Same as Well (on-site),Fee,Fee,38.93837,-103.38834,Well
+Ryan - State #2,STATE 2 (OWP),387957,Location ID,075-05823,None,State,State,40.659388,-103.423501,Well
+H&M Petroleum Bond Claim,HIGHBALL 1 (OWP),312324,Location ID,075-09345,Same as Well (on-site),Fee,Fee,40.98068,-103.4657,Well
+High Plains Bond Claim,Dune Ridge State 32-1 (OWP),430158,Location ID,075-09413,Same as Well (on-site),Fee,State,40.53218,-103.20193,Well
+High Plains Bond Claim,Dune Ridge State 32-2 (OWP),430585,Location ID,075-09415,Site ID 430158 (off-site),Fee,State,40.5358,-103.202,Well
+High Plains Bond Claim,Dune Ridge State 32-3 (OWP),436349,Location ID,075-09424,Site ID 430158 (off-site),Fee,State,40.52942,-103.20288,Well
+H&M Petroleum Bond Claim,State BDB 1 (OWP),458288,Location ID,075-09430,Same as Well (on-site),State,State,40.977332,-103.464858,Well
+Locin Oil Bond Claim,CULVER-GOV'T 1 (OWP),312371,Location ID,077-05137,Same as Well (on-site),Federal,Federal,39.334072,-108.986508,Well
+Petro Mex Federal Bond Claim,COAL GULCH 2 (OWP),312378,Location ID,077-08012,Same as Well (on-site),Federal,Federal,39.36499,-108.65547,Well
+Walter Fees Federal Bond Claim,BAR-X 32-1 (OWP),312389,Location ID,077-08057,Same as Well (on-site),Federal,Federal,39.3267,-109.0049,Well
+Walter Fees Federal Bond Claim,BAR-X 28-3 (OWP),312392,Location ID,077-08071,Same as Well (on-site),Federal,Federal,39.334,-108.9976,Well
+Locin Oil Bond Claim,FEDERAL 18-13 (OWP),312423,Location ID,077-08170,Same as Well (on-site),Federal,Federal,39.363674,-109.037762,Well
+Dole & Associates Bond Claim,KUEHN 15-17 (OWP),312438,Location ID,077-08206,None,Fee,Fee,39.182232,-108.127074,Well
+Locin Oil Bond Claim,FEDERAL 14-24 (OWP),312447,Location ID,077-08234,None,Federal,Federal,39.349313,-109.048546,Well
+Locin Oil Bond Claim,FEDERAL 41-19 (OWP),312462,Location ID,077-08287,None,Federal,Federal,39.358733,-109.023257,Well
+Locin Oil Bond Claim,HUNTERS CANYON-FEDERAL 6 (OWP),334256,Location ID,077-08311,Same as Well (on-site),Federal,Federal,39.327039,-108.580452,Well
+Locin Oil Bond Claim,GOVERNMENT 1-19-84 (OWP),312487,Location ID,077-08366,Site ID 476933 (off-site),Federal,Federal,39.351238,-109.032681,Well
+Locin Oil Bond Claim,FEDERAL(C-13005) 33-19 (OWP),312492,Location ID,077-08372,Site ID 470414 (off-site),Federal,Federal,39.351585,-109.027729,Well
+Locin Oil Bond Claim,FEDERAL/SINCLAIR/IMMICH 1-24 (OWP),312505,Location ID,077-08405,Same as Well (on-site),Federal,Federal,39.356015,-109.048106,Well
+Locin Oil Bond Claim,GOVERNMENT 2-19-84 (OWP),312533,Location ID,077-08472,Same as Well (on-site),Federal,Federal,39.351702,-109.037401,Well
+Locin Oil Bond Claim,HUNTERS CANYON-FEDERAL 8 (OWP),312557,Location ID,077-08505,Same as Well (on-site),Federal,Federal,39.332732,-108.595292,Well
+Locin Oil Bond Claim,FEDERAL 25-1-81 (OWP),312583,Location ID,077-08565,Same as Well (on-site),Federal,Federal,39.333043,-108.597729,Well
+Locin Oil Bond Claim,FEDERAL 9 (OWP),312602,Location ID,077-08603,Same as Well (on-site),Federal,Federal,39.329451,-108.59156,Well
+Locin Oil Bond Claim,FEDERAL 10 (OWP),312603,Location ID,077-08604,Same as Well (on-site),Federal,Federal,39.327153,-108.585797,Well
+Locin Oil Bond Claim,GOV'T. 31-31 (OWP),312641,Location ID,077-08675,Same as Well (on-site),Federal,Federal,39.321361,-108.587201,Well
+Walter Fees Federal Bond Claim,FEDERAL 1-13-8-101(OWP),312651,Location ID,077-08688,,Federal,Federal,39.35764,-108.61561,Well
+Locin Oil Bond Claim,COAL GULCH FEDERAL 4-24 (OWP),312663,Location ID,077-08710,Same as Well (on-site),Federal,Federal,39.350912,-108.613737,Well
+Locin Oil Bond Claim,HUNTER CANYON 12 (OWP),312684,Location ID,077-08783,Same as Well (on-site),Federal,Federal,39.322,-108.576094,Well
+Locin Oil Bond Claim,HUNTER CANYON 11 (OWP),312685,Location ID,077-08784,Same as Well (on-site),Federal,Federal,39.327409,-108.575493,Well
+Walter Fees Federal Bond Claim,Federal 1-23-8-101MV(OWP),430923,Location ID,077-10206,None,Federal,Federal,39.34454,-108.6282,Well
+POC-I Bond Claim,#N/A,312749,Location ID,081-05086,,Fee,Federal,40.29629898,-107.7004395,Well
+POC-I Bond Claim,#N/A,312750,Location ID,081-05090,,Fee,Federal,40.2986908,-107.6977234,Well
+POC-I Bond Claim,#N/A,312751,Location ID,081-05093,,Fee,Federal,40.29832077,-107.7009125,Well
+POC-I Bond Claim,#N/A,312753,Location ID,081-05106,,Fee,Federal,40.30260849,-107.6958008,Well
+POC-I Bond Claim,#N/A,312755,Location ID,081-05108,,Fee,Fee,40.30265045,-107.6934204,Well
+POC-I Bond Claim,#N/A,312756,Location ID,081-05119,,Fee,Fee,40.30686188,-107.6865921,Well
+POC-I Bond Claim,#N/A,312848,Location ID,081-05656,,Fee,Fee,40.2999115,-107.6988678,Well
+Wolverine Bond Claim,BIGHOLE-FEDERAL 1 (OWP),312869,Location ID,081-06035,Same as Well (on-site),Fee,Federal,40.81732,-107.9276,Well
+Wolverine Bond Claim,BIGHOLE-FEDERAL 15-1 (OWP),312900,Location ID,081-06153,Same as Well (on-site),Fee,Federal,40.8269,-107.94066,Well
+Wolverine Bond Claim,BIGHOLE-FEDERAL-MOFFAT 21-1 (OWP),312920,Location ID,081-06197,Same as Well (on-site),Fee,Federal,40.81571,-107.94825,Well
+Wolverine Bond Claim,BIGHOLE-FEDERAL 14-2 (OWP),312921,Location ID,081-06199,Same as Well (on-site),Fee,Federal,40.82415,-107.90993,Well
+Wolverine Bond Claim,BIGHOLE-FED LAND BANK 13-1 (OWP),312931,Location ID,081-06242,Same as Well (on-site),Fee,Federal,40.83114,-107.9009,Well
+X Field Bond Claim,BLACK MOUNTAIN-FEDERAL A-1 (OWP),312966,Location ID,081-06423,Same as Well (on-site),Fee,Federal,40.79556,-107.47443,Well
+Stehle Oil Bond Claim,SPRING GULCH 1-22 (OWP),312986,Location ID,081-06547,Same as Well (on-site),Federal,Federal,40.37254,-107.480526,Well
+Entek GRB Bond Claim,FEDERAL 26-12-89 1 (OWP),313117,Location ID,081-06994,Same as Well (on-site),Federal,Federal,40.96976,-107.3441,Well
+Wolverine Bond Claim,GRUWELL FEDERAL 22-32 (OWP),313323,Location ID,081-07345,Same as Well (on-site),Fee,Federal,40.78505,-107.861291,Well
+Wolverine Bond Claim,GREAT DIVIDE FEDERAL 11-33 (OWP),313366,Location ID,081-07401,Same as Well (on-site),Federal,Federal,40.78711,-107.845652,Well
+GRMR Oil Bond Claim,DURHAM 4-31,413919,Location ID,081-07593,Site ID 421068 (off-site),Fee,Fee,40.34063,-107.52966,Well
+Entek GRB Bond Claim,SD Federal 24-9DL (OWP),419408,Location ID,081-07624,Same as Well (on-site),Federal,Federal,40.97935,-107.319228,Well
+Entek GRB Bond Claim,BATTLE MOUNTAIN FEDERAL 14-10L (OWP),421159,Location ID,081-07641,Same as Well (on-site),Fee,Federal,40.992305,-107.339849,Well
+GRMR Oil Bond Claim,HERRING DRAW 2-9,392134,Location ID,081-07667,Same as Well (on-site),Fee,Fee,40.328092,-107.507794,Well
+Shawnee Bond Claim,USA SHAW 19 (OWP),313419,Location ID,081-60020,,Fee,Federal,40.29631,-107.70364,Well
+Mesa Verde Drilling - State #1-X,STATE 1X (OWP),393011,Location ID,083-06208,None,State,State,37.294732,-108.295262,Well
+PCR Bond Claim,Adena J Sand Unit W-35 (OWP),313645,Location ID,087-05072,,Fee,Fee,40.102656,-103.774944,Well
+PCR Bond Claim,AJU W-40 (OWP),313650,Location ID,087-05120,,Fee,Fee,40.023602,-103.817094,Well
+PCR Bond Claim,"SCANLON, J L 5 (OWP)",313651,Location ID,087-05122,,Fee,Fee,40.023626,-103.826574,Well
+PCR Bond Claim,"SCANLON, J L 2 (OWP)",313652,Location ID,087-05124,,Fee,Fee,40.023612,-103.821812,Well
+PCR Bond Claim,"SCANLON,  J L 1 (OWP)",313657,Location ID,087-05144,,Fee,Fee,40.027232,-103.817155,Well
+PCR Bond Claim,"GOEDERT, MJ 2 (OWP)",313658,Location ID,087-05145,,Fee,Fee,40.027235,-103.821824,Well
+PCR Bond Claim,"GOEDERT,  M J 3 (OWP)",313659,Location ID,087-05147,,Fee,Fee,40.02724,-103.826471,Well
+PCR Bond Claim,ADENA J SAND UNIT W-39 (OWP),313660,Location ID,087-05148,,Fee,Fee,40.027214,-103.812388,Well
+PCR Bond Claim,NICHOLS 8 (OWP),313664,Location ID,087-05172,,Fee,Fee,40.03077,-103.817122,Well
+PCR Bond Claim,ADENA J SAND UNIT W-37 (OWP),313665,Location ID,087-05174,,Fee,Fee,40.030783,-103.807711,Well
+PCR Bond Claim,DELANEY 1 (OWP),313666,Location ID,087-05176,,Fee,Fee,40.030846,-103.821836,Well
+PCR Bond Claim,DEWEY 2 (OWP),313668,Location ID,087-05185,None,Fee,Fee,40.0344,-103.82183,Well
+PCR Bond Claim,NICHOLS 6 (OWP),313670,Location ID,087-05191,,Fee,Fee,40.034281,-103.812412,Well
+PCR Bond Claim,NICHOLS 3 (OWP),313671,Location ID,087-05206,,Fee,Fee,40.037933,-103.817162,Well
+PCR Bond Claim,ADENA J SAND UNIT W-26 (OWP),313673,Location ID,087-05208,,Fee,Fee,40.038004,-103.798366,Well
+PCR Bond Claim,DEWEY 6 (OWP),313674,Location ID,087-05211,,Fee,Fee,40.037936,-103.831297,Well
+PCR Bond Claim,DEWEY 3 (OWP),313677,Location ID,087-05218,Site ID 454195 (off-site),Fee,Fee,40.037926,-103.826558,Well
+PCR Bond Claim,NICHOLS 11 (OWP),313678,Location ID,087-05225,,Fee,Fee,40.03976,-103.817142,Well
+PCR Bond Claim,DEWEY 4 (OWP),313679,Location ID,087-05228,,Fee,Fee,40.041617,-103.831263,Well
+PCR Bond Claim,DEWEY 5 (OWP),313683,Location ID,087-05232,,Fee,Fee,40.041616,-103.835992,Well
+PCR Bond Claim,NICHOLS 4 (OWP),313684,Location ID,087-05234,Site ID 313906 (off-site),Fee,Fee,40.041572,-103.812422,Well
+PCR Bond Claim,"CLAR, L 1 (OWP)",313685,Location ID,087-05235,,Fee,Fee,40.041602,-103.821856,Well
+PCR Bond Claim,NICHOLS 2 (OWP),313686,Location ID,087-05248,,Fee,Fee,40.043388,-103.819501,Well
+PCR Bond Claim,ADENA J SAND UNIT W-24 (OWP),313688,Location ID,087-05250,,Fee,Fee,40.043397,-103.795955,Well
+PCR Bond Claim,"SCRITSMIER, A B 5 (OWP)",313689,Location ID,087-05257,Site ID 313694 (off-site),Fee,Fee,40.045194,-103.803101,Well
+PCR Bond Claim,CLAR 2 (OWP),313690,Location ID,087-05258,,Fee,Fee,40.045191,-103.812416,Well
+PCR Bond Claim,CLAR B-1 (OWP),313691,Location ID,087-05259,,Fee,Fee,40.045195,-103.819505,Well
+PCR Bond Claim,"Clar, L. 7 (OWP)",313692,Location ID,087-05260,Site ID 313679 (off-site),Fee,Fee,40.045192,-103.831098,Well
+PCR Bond Claim,ADENA J SAND UNIT W-43 (OWP),313694,Location ID,087-05264,,Fee,Fee,40.045194,-103.807719,Well
+PCR Bond Claim,"CLAR, L 5 (OWP)",313695,Location ID,087-05267,,Fee,Fee,40.045214,-103.826385,Well
+PCR Bond Claim,AJU JOHNSON-GLN 1 (OWP),313696,Location ID,087-05280,,Fee,Fee,40.04884,-103.77952,Well
+PCR Bond Claim,AJU HJ CLAR A1 (OWP),313697,Location ID,087-05282,,Fee,Fee,40.048748,-103.817158,Well
+PCR Bond Claim,FLB 2 (OWP),313698,Location ID,087-05284,,Fee,Fee,40.048879,-103.835986,Well
+PCR Bond Claim,"LAUGHLIN, R J 7 (OWP)",313699,Location ID,087-05285,Site ID 393623 (off-site),Fee,Fee,40.048802,-103.802759,Well
+PCR Bond Claim,L Clar 4 (OWP),313700,Location ID,087-05286,,Fee,Fee,40.04883,-103.826388,Well
+PCR Bond Claim,L CLAR 2 (OWP),313701,Location ID,087-05288,Site ID 454195 (off-site),Fee,Fee,40.04882,-103.821885,Well
+PCR Bond Claim,FLB 1 (OWP),313702,Location ID,087-05289,,Fee,Fee,40.048878,-103.831322,Well
+Rosener-Johnson #2,ROSENER-JOHNSON 2 (OWP),393625,Location ID,087-05290,None,Fee,Fee,40.048962,-103.965603,Well
+PCR Bond Claim,"CRONE, B F 2 (OWP)",313706,Location ID,087-05301,,Fee,Fee,40.052451,-103.82188,Well
+PCR Bond Claim,"LAUGHLIN, R J 8 (OWP)",313707,Location ID,087-05302,,Fee,Fee,40.052413,-103.803127,Well
+PCR Bond Claim,"LAUGHLIN, R J 6 (OWP)",313708,Location ID,087-05303,Site ID 313699 (off-site),Fee,Fee,40.052361,-103.807838,Well
+PCR Bond Claim,STATE OF COLORADO C-3 (OWP),313709,Location ID,087-05319,,Fee,State,40.056026,-103.798471,Well
+PCR Bond Claim,AJU HJ CLAR A2 (OWP),313710,Location ID,087-05320,,Fee,Fee,40.056052,-103.817128,Well
+PCR Bond Claim,"LAUGHLIN, R J 5 (OWP)",313711,Location ID,087-05322,,Fee,Fee,40.056036,-103.807929,Well
+PCR Bond Claim,CLAR A-5 (OWP),313712,Location ID,087-05323,,Fee,Fee,40.055941,-103.812435,Well
+PCR Bond Claim,"LAUGHLIN, R J 3 (OWP)",313713,Location ID,087-05324,,Fee,Fee,40.05601,-103.80313,Well
+PCR Bond Claim,"LAUGHLIN, R J 2 (OWP)",313714,Location ID,087-05336,,Fee,Fee,40.059638,-103.80318,Well
+PCR Bond Claim,"Coen, ME 8 (OWP)",313715,Location ID,087-05337,,Fee,Fee,40.059575,-103.812467,Well
+PCR Bond Claim,STATE OF COLORADO C-1 (OWP),313717,Location ID,087-05341,,Fee,State,40.059625,-103.798426,Well
+PCR Bond Claim,"Laughlin, RJ 4 (OWP)",313718,Location ID,087-05348,,Fee,Fee,40.05958,-103.807863,Well
+PCR Bond Claim,"HOUGH, R M B-5 (OWP)",313719,Location ID,087-05356,,Fee,Fee,40.063264,-103.798408,Well
+PCR Bond Claim,"HOUGH, R.M. A-3 (OWP)",313720,Location ID,087-05357,,Fee,Fee,40.063215,-103.803162,Well
+PCR Bond Claim,"COEN, M E 7 (OWP)",313721,Location ID,087-05360,,Fee,Fee,40.063108,-103.812457,Well
+PCR Bond Claim,"COEN, M E 1 (OWP)",313722,Location ID,087-05361,,Fee,Fee,40.063171,-103.817156,Well
+PCR Bond Claim,GLENN G-1 (OWP),313725,Location ID,087-05369,,Fee,Fee,40.06526,-103.76307,Well
+PCR Bond Claim,"COEN, M E 6 (OWP)",313726,Location ID,087-05375,,Fee,Fee,40.066719,-103.812459,Well
+PCR Bond Claim,"HOUGH, R M B-7 (OWP)",313727,Location ID,087-05376,,Fee,Fee,40.066896,-103.793774,Well
+PCR Bond Claim,"HOUGH, R.M. B-4 (OWP)",313728,Location ID,087-05377,,Fee,Fee,40.06686,-103.79847,Well
+PCR Bond Claim,"HOUGH, R.M. A-2 (OWP)",313729,Location ID,087-05378,,Fee,Fee,40.066815,-103.803164,Well
+PCR Bond Claim,HOUGH B-6 (OWP),313730,Location ID,087-05391,,Fee,Fee,40.070513,-103.793781,Well
+PCR Bond Claim,GLENN B-1 (OWP),313731,Location ID,087-05392,,Fee,Fee,40.070644,-103.770253,Well
+PCR Bond Claim,VERONICA 1 (OWP),313732,Location ID,087-05394,,Fee,Fee,40.070558,-103.789057,Well
+PCR Bond Claim,"HOUGH, R M B-1 (OWP)",313733,Location ID,087-05395,,Fee,Fee,40.070327,-103.807769,Well
+PCR Bond Claim,"HOUGH, R M B-2 (OWP)",313734,Location ID,087-05396,,Fee,Fee,40.070387,-103.803177,Well
+PCR Bond Claim,"COEN, M E 5 (OWP)",313735,Location ID,087-05399,,Fee,Fee,40.070335,-103.812461,Well
+PCR Bond Claim,Howard Glenn F-1 (OWP),313736,Location ID,087-05407,,Fee,Fee,40.07405,-103.798545,Well
+PCR Bond Claim,"GEYER, HARRY A-1 (OWP)",313737,Location ID,087-05408,,Fee,Fee,40.073988,-103.803371,Well
+PCR Bond Claim,"GEYER, HARRY A-2 (OWP)",313738,Location ID,087-05410,,Fee,Fee,40.073921,-103.807906,Well
+PCR Bond Claim,HARRY GEYER B 2 (OWP),313739,Location ID,087-05411,,Fee,Fee,40.074148,-103.789188,Well
+PCR Bond Claim,AJU Glenn F-2 (OWP),313740,Location ID,087-05412,,Fee,Fee,40.074122,-103.793769,Well
+PCR Bond Claim,"PEIF, R 2 (OWP)",313741,Location ID,087-05414,,Fee,Fee,40.07385,-103.812314,Well
+PCR Bond Claim,GLENN H-1 (OWP),313742,Location ID,087-05416,,Fee,Fee,40.074182,-103.763188,Well
+PCR Bond Claim,"GEYER, HARRY A-7 (OWP)",313743,Location ID,087-05426,,Fee,Fee,40.077544,-103.807934,Well
+PCR Bond Claim,"DAVIS, R Y 1 (OWP)",313744,Location ID,087-05429,,Fee,Fee,40.077681,-103.798591,Well
+PCR Bond Claim,"GEYER, HARRY A-3 (OWP)",313745,Location ID,087-05430,,Fee,Fee,40.07763,-103.803216,Well
+PCR Bond Claim,"PEIF, R 3 (OWP)",313746,Location ID,087-05432,,Fee,Fee,40.077506,-103.81248,Well
+PCR Bond Claim,"GEYER, HARRY B-1 (OWP)",313747,Location ID,087-05433,,Fee,Fee,40.078044,-103.789346,Well
+PCR Bond Claim,"GEYER, HARRY A-9 (OWP)",313748,Location ID,087-05440,,Fee,Fee,40.079361,-103.805482,Well
+PCR Bond Claim,R.Y. DAVIS 5 (OWP),313749,Location ID,087-05441,,Fee,Fee,40.081389,-103.793799,Well
+PCR Bond Claim,R.Y. Davis 6 (OWP),313750,Location ID,087-05442,,Fee,Fee,40.081317,-103.798526,Well
+PCR Bond Claim,PEIF* R 5 (OWP),336542,Location ID,087-05443,,Fee,Fee,40.08091,-103.81265,Well
+PCR Bond Claim,"GEYER, HARRY A-5 (OWP)",313752,Location ID,087-05445,,Fee,Fee,40.081214,-103.80328,Well
+PCR Bond Claim,C H O'Neill 2 (OWP),313753,Location ID,087-05446,,Fee,Fee,40.081336,-103.789115,Well
+PCR Bond Claim,GLENN-STEPHENSON 2 (OWP),313754,Location ID,087-05457,,Fee,Fee,40.083007,-103.782177,Well
+PCR Bond Claim,"DAVIS, R.Y. 2 (OWP)",313756,Location ID,087-05461,,Fee,Fee,40.08501,-103.79387,Well
+PCR Bond Claim,"GEYER, HARRY A-4 (OWP)",313757,Location ID,087-05462,,Fee,Fee,40.084865,-103.803277,Well
+PCR Bond Claim,"Davis, R.Y. 4 (OWP)",313758,Location ID,087-05464,,Fee,Fee,40.084929,-103.798548,Well
+PCR Bond Claim,AJU GEYER C1 (OWP),313759,Location ID,087-05466,,Fee,Fee,40.084746,-103.812491,Well
+PCR Bond Claim,C.H. O'Neill 1 (OWP),313760,Location ID,087-05468,,Fee,Fee,40.084642,-103.789097,Well
+PCR Bond Claim,"GEYER, HARRY A-6 (OWP)",313761,Location ID,087-05469,,Fee,Fee,40.084774,-103.807935,Well
+PCR Bond Claim,GLENN-STEPHENSON 1 (OWP),313762,Location ID,087-05474,,Fee,Fee,40.086485,-103.781986,Well
+PCR Bond Claim,C.H. O'Neill 3 (OWP),313763,Location ID,087-05475,,Fee,Fee,40.086478,-103.786741,Well
+PCR Bond Claim,GLENN-BIDDLE C-11 (OWP),313764,Location ID,087-05484,,Fee,Fee,40.08819,-103.808,Well
+Colorado E #5 - State,COLORADO E 5 (OWP),393756,Location ID,087-05485,None,State,State,40.088203,-103.826769,Well
+PCR Bond Claim,AJU GLN-BDL C09 (OWP),313765,Location ID,087-05486,,Fee,Fee,40.088218,-103.803284,Well
+PCR Bond Claim,STATE OF COLORADO B-2 (OWP),313766,Location ID,087-05487,,State,State,40.088179,-103.812483,Well
+PCR Bond Claim,STATE OF COLORADO A-2 (OWP),313767,Location ID,087-05489,,State,State,40.088215,-103.817218,Well
+PCR Bond Claim,GLENN-BIDDLE B-7 (OWP),313769,Location ID,087-05491,,Fee,Fee,40.088242,-103.798564,Well
+PCR Bond Claim,AJU GLN-BDL B-6 (OWP),313770,Location ID,087-05492,,Fee,Fee,40.088254,-103.79387,Well
+PCR Bond Claim,GLENN BIDDLE A-10 (OWP),313771,Location ID,087-05494,,Fee,Fee,40.08832,-103.7844,Well
+PCR Bond Claim,AJU GLN-BDL B13 (OWP),313772,Location ID,087-05502,,Fee,Fee,40.090056,-103.796214,Well
+PCR Bond Claim,GLENN E-1 (OWP),313773,Location ID,087-05505,,Fee,Fee,40.09021,-103.77725,Well
+PCR Bond Claim,GLENN-BIDDLE B-5 (OWP),313774,Location ID,087-05508,,Fee,Fee,40.091859,-103.79857,Well
+PCR Bond Claim,GLENN-BIDDLE C-12 (OWP),313775,Location ID,087-05509,,Fee,Fee,40.091803,-103.807989,Well
+PCR Bond Claim,GLENN-BIDDLE C-8 (OWP),313776,Location ID,087-05510,,Fee,Fee,40.091837,-103.803297,Well
+PCR Bond Claim,GLENN-BIDDLE B-3 (OWP),313777,Location ID,087-05511,,Fee,Fee,40.091864,-103.793853,Well
+PCR Bond Claim,STATE OF COLORADO A-1 (OWP),313778,Location ID,087-05512,,State,State,40.091804,-103.812509,Well
+PCR Bond Claim,GLENN-BIDDLE A-2 (OWP),313779,Location ID,087-05513,,Fee,Fee,40.091895,-103.789119,Well
+PCR Bond Claim,Howard Glenn E-3 (OWP),313780,Location ID,087-05516,,Fee,Fee,40.09007,-103.781982,Well
+PCR Bond Claim,GLENN E-4 (OWP),313781,Location ID,087-05527,,Fee,Fee,40.093633,-103.777257,Well
+PCR Bond Claim,GLENN E-2 (OWP),313782,Location ID,087-05528,,Fee,Fee,40.093621,-103.78204,Well
+PCR Bond Claim,ADENA J SAND UNIT W-1 (OWP),313783,Location ID,087-05529,,Fee,Fee,40.09362,-103.772521,Well
+PCR Bond Claim,ADENA J SAND UNIT W-53 (OWP),313785,Location ID,087-05542,,Fee,Fee,40.095499,-103.798571,Well
+PCR Bond Claim,AJU GLENN J2 (OWP),313786,Location ID,087-05543,,Fee,Fee,40.095456,-103.807982,Well
+PCR Bond Claim,ADENA J SAND UNIT W-33 (OWP),313787,Location ID,087-05544,,Fee,Fee,40.095399,-103.775325,Well
+PCR Bond Claim,AJU GLENN C1 (OWP),313788,Location ID,087-05545,,Fee,Fee,40.096154,-103.793659,Well
+PCR Bond Claim,GLENN-WALSH 2 (OWP),313790,Location ID,087-05547,,Fee,Fee,40.095394,-103.777249,Well
+PCR Bond Claim,ADENA J SAND UNIT W-31 (OWP),313792,Location ID,087-05553,,Fee,Fee,40.097239,-103.77255,Well
+PCR Bond Claim,GLENN J-4 (OWP),313793,Location ID,087-05559,,Fee,Fee,40.098923,-103.8078,Well
+PCR Bond Claim,GLENN J-3 (OWP),313794,Location ID,087-05560,,Fee,Fee,40.09902,-103.803063,Well
+PCR Bond Claim,ADENA J SAND UNIT W-52 (OWP),313795,Location ID,087-05562,,Fee,Fee,40.099079,-103.784818,Well
+PCR Bond Claim,GLENN C-3 (OWP),313796,Location ID,087-05563,,Fee,Fee,40.099119,-103.79383,Well
+PCR Bond Claim,GLENN C-4 (OWP),313797,Location ID,087-05566,,Fee,Fee,40.0991,-103.798626,Well
+PCR Bond Claim,ADENA J SAND UNIT W-34 (OWP),313798,Location ID,087-05568,Same as Well (on-site),Fee,Fee,40.099275,-103.775804,Well
+Cutlass Oil - State 1,STATE 1 1 (OWP),393804,Location ID,087-05570,None,State,State,40.100253,-103.714686,Well
+PCR Bond Claim,AJU GLN-BDL D01 (OWP),313800,Location ID,087-05583,,Fee,Fee,40.102657,-103.784427,Well
+PCR Bond Claim,GLENN I-1 (OWP),313801,Location ID,087-05584,,Fee,Fee,40.102673,-103.793814,Well
+PCR Bond Claim,GLENN #I-4 (OWP),313804,Location ID,087-05605,,Fee,Fee,40.10631,-103.798444,Well
+PCR Bond Claim,ADENA J SAND UNIT W-56 (OWP),313805,Location ID,087-05608,,Fee,Fee,40.106305,-103.779666,Well
+PCR Bond Claim,GLENN I-3 (OWP),313806,Location ID,087-05610,,Fee,Fee,40.10626,-103.793909,Well
+PCR Bond Claim,ADENA J SAND UNIT W-55 (OWP),313807,Location ID,087-05611,,Fee,Fee,40.106225,-103.789061,Well
+PCR Bond Claim,TIMPE 1 (OWP),313808,Location ID,087-05623,,Fee,Fee,40.109874,-103.793791,Well
+PCR Bond Claim,TIMPE 2 (OWP),313809,Location ID,087-05624,,Fee,Fee,40.109863,-103.798522,Well
+Hunt* HL - Huey Lease,MORRIS 1 (OWP),393896,Location ID,087-05679,None,Fee,Fee,40.124843,-103.664055,Well
+Pan American - State #A-1,STATE OF COLORADO A-1 (OWP),395310,Location ID,087-05975,None,State,State,40.21996,-103.983095,Well
+Poe #1,POE 1 (OWP),394202,Location ID,087-06009,None,Fee,Fee,40.2452,-103.945504,Well
+Dillavou #1,DILLAVOU 1 (OWP),394561,Location ID,087-06446,None,Fee,Fee,40.383888,-103.948896,Well
+McClarnan #43-24,MCCLARNAN 43-24 (OWP),395183,Location ID,087-07378,None,Fee,Fee,40.471737,-104.034909,Well
+Smith Energy Corp Bond Claim,MUSGRAVE 4 (OWP),313886,Location ID,087-07503,Same as Well (non-contiguous site),Fee,Fee,40.078756,-103.893433,Well
+Smith Energy Corp Bond Claim,WILDCAT RANCHES 1-B (OWP),313896,Location ID,087-07663,Same as Well (non-contiguous site),Fee,Fee,40.452898,-103.915114,Well
+PCR Bond Claim,AJU GLENN F3 (OWP),313897,Location ID,087-07688,,Fee,Fee,40.075843,-103.800889,Well
+PCR Bond Claim,NICHOLS 13-A24 (OWP),313906,Location ID,087-07827,Site ID 454195 (off-site),Fee,Fee,40.042788,-103.815133,Well
+PCR Bond Claim,ADENA J SAND UNIT 13-59 (OWP),313952,Location ID,087-08100,,Fee,Fee,40.044539,-103.820441,Well
+PCR Bond Claim,ADENA J SAND UNIT 31-78 (OWP),313953,Location ID,087-08102,,Fee,Fee,40.088236,-103.795992,Well
+PCR Bond Claim,ADENA J SAND UNIT 6-71 (OWP),313955,Location ID,087-08112,,Fee,Fee,40.086483,-103.796006,Well
+PCR Bond Claim,HOUGH 157-7-H1 (OWP),430989,Location ID,087-08168,,Fee,Fee,40.07261,-103.79589,Well
+PCR Bond Claim,CLAR 158-24-21 (OWP),454154,Location ID,087-08223,,Fee,Fee,40.041791,-103.821424,Well
+PCR Bond Claim,JESS 158-13-43 (OWP),454194,Location ID,087-08224,,Fee,Fee,40.048369,-103.812919,Well
+PCR Bond Claim,JESS 158-13-34 (OWP),454199,Location ID,087-08225,Site ID 454195 (off-site),Fee,Fee,40.045135,-103.817171,Well
+PCR Bond Claim,CLAR 158-13-32 (OWP),313703,Location ID,087-08226,,Fee,Fee,40.05202,-103.8172,Well
+PCR Bond Claim,ADENA J SAND UNIT W-5 (OWP),313968,Location ID,087-60001,,Fee,Fee,40.084715,-103.774902,Well
+PCR Bond Claim,ADENA J SAND UNIT W-6 (OWP),313969,Location ID,087-60002,,Fee,Fee,40.082998,-103.777234,Well
+PCR Bond Claim,ADENA J SAND UNIT W-7 (OWP),313970,Location ID,087-60003,,Fee,Fee,40.081281,-103.779569,Well
+PCR Bond Claim,ADENA J SAND UNIT W-18 (OWP),313971,Location ID,087-60007,,Fee,Fee,40.057219,-103.793698,Well
+PCR Bond Claim,ADENA J SAND UNIT W-21 (OWP),313972,Location ID,087-60008,,Fee,Fee,40.050306,-103.794826,Well
+PCR Bond Claim,ADENA J SAND UNIT W-23 (OWP),313973,Location ID,087-60009,,Fee,Fee,40.045697,-103.795579,Well
+PCR Bond Claim,ADENA J SAND UNIT W-29 (OWP),313974,Location ID,087-60011,,Fee,Fee,40.029841,-103.805009,Well
+PCR Bond Claim,ADENA J SAND UNIT W-3 (OWP),313975,Location ID,087-60012,,Fee,Fee,40.088831,-103.772564,Well
+PCR Bond Claim,ADENA J SAND UNIT W-10 (OWP),313976,Location ID,087-60016,,Fee,Fee,40.074906,-103.784134,Well
+PCR Bond Claim,ADENA J SAND UNIT W-11 (OWP),313977,Location ID,087-60017,,Fee,Fee,40.072646,-103.785288,Well
+PCR Bond Claim,ADENA J SAND UNIT W-12 (OWP),313978,Location ID,087-60018,,Fee,Fee,40.070367,-103.786397,Well
+PCR Bond Claim,ADENA J SAND UNIT W-13 (OWP),313979,Location ID,087-60019,,Fee,Fee,40.068095,-103.78753,Well
+PCR Bond Claim,ADENA J SAND UNIT W-14 (OWP),313980,Location ID,087-60020,,Fee,Fee,40.065821,-103.78867,Well
+PCR Bond Claim,ADENA J SAND UNIT W-20 (OWP),313982,Location ID,087-60023,,Fee,Fee,40.052607,-103.794459,Well
+PCR Bond Claim,ADENA J SAND UNIT W-22 (OWP),313983,Location ID,087-60024,,Fee,Fee,40.048007,-103.795201,Well
+PCR Bond Claim,ADENA J SAND UNIT W-27 (OWP),313984,Location ID,087-60025,,Fee,Fee,40.035183,-103.799511,Well
+PCR Bond Claim,ADENA J SAND UNIT W-28 (OWP),313985,Location ID,087-60026,,Fee,Fee,40.032534,-103.80224,Well
+PCR Bond Claim,NICHOLS 5 (OWP),313986,Location ID,087-60028,,Fee,Fee,40.037952,-103.812433,Well
+PCR Bond Claim,AJU GLENN D3 (OWP),313987,Location ID,087-60036,,Fee,Fee,40.099031,-103.789302,Well
+Yates Bond Claim,ORTNER 1 (OWP),313997,Location ID,095-06040,Same as Well (on-site),Fee,Fee,40.60396,-102.22328,Well
+Omimex Petroleum Bond Claim,KROPP 14-8 (OWP),313998,Location ID,095-06064,,Fee,Fee,40.58732,-102.40996,Well
+Omimex Petroleum Bond Claim,GERK 16-23 (OWP),313999,Location ID,095-06066,,Fee,Fee,40.55976,-102.34461,Well
+Yates Bond Claim,OLSON 4-27 (OWP),314000,Location ID,095-06069,Same as Well (on-site),Fee,Fee,40.73345,-102.12823,Well
+Yates Bond Claim,SCHLACHTER 13-22 (OWP),314001,Location ID,095-06070,Same as Well (on-site),Fee,Fee,40.73809,-102.1295,Well
+Yates Bond Claim,SCHLACHTER 10-22 (OWP),314003,Location ID,095-06073,Same as Well (on-site),Fee,Fee,40.73973,-102.12056,Well
+Yates Bond Claim,OZMAN TRUST 16-29 (OWP),314004,Location ID,095-06074,Same as Well (on-site),Fee,Fee,40.72341,-102.15537,Well
+Yates Bond Claim,HAROLD 4-21 (OWP),314005,Location ID,095-06075,Same as Well (on-site),Fee,Fee,40.7473,-102.1486,Well
+Yates Bond Claim,LEBSACK 7-21 (OWP),314006,Location ID,095-06076,Same as Well (on-site),Fee,Fee,40.74473,-102.13915,Well
+Yates Bond Claim,ENNINGA 12-21 (OWP),314007,Location ID,095-06077,Same as Well (on-site),Fee,Fee,40.74006,-102.14724,Well
+Omimex Petroleum Bond Claim,GERK 1-25 (OWP),314008,Location ID,095-06079,Same as Well (on-site),Fee,Fee,40.55496,-102.32342,Well
+Omimex Petroleum Bond Claim,DAVIS 7-13 (OWP),314010,Location ID,095-06081,,Fee,Fee,40.57922,-102.32622,Well
+Yates Bond Claim,DIRKS 5-22 (OWP),314011,Location ID,095-06083,Same as Well (on-site),Fee,Fee,40.74366,-102.12831,Well
+Yates Bond Claim,DIRK'S DISPOSAL 1-22 (OWP),314012,Location ID,095-06084,Same as Well (on-site),Fee,Fee,40.74218,-102.13088,Well
+Yates Bond Claim,BRINKEMA 3-3 (OWP),314013,Location ID,095-06087,Same as Well (on-site),Fee,Fee,40.70161,-102.13845,Well
+Yates Bond Claim,OLTJENBRUNS 3-6 (OWP),314014,Location ID,095-06088,Same as Well (on-site),Fee,Fee,40.69018,-102.19565,Well
+Yates Bond Claim,STR 3-1 (OWP),314016,Location ID,095-06090,Same as Well (on-site),Fee,Fee,40.70295,-102.21397,Well
+Yates Bond Claim,FRANSON 1-28 (OWP),314017,Location ID,095-06091,Same as Well (on-site),Fee,Fee,40.73291,-102.13553,Well
+Omimex Petroleum Bond Claim,LINDGREN 4-30 (OWP),314019,Location ID,095-06094,,Fee,Fee,40.55495,-102.31766,Well
+Omimex Petroleum Bond Claim,GARRETT 6-33-6-45 (OWP),314026,Location ID,095-06113,Same as Well (on-site),Fee,Fee,40.44869,-102.38927,Well
+Omimex Petroleum Bond Claim,WORLEY 13-19-7-44(OWP),314027,Location ID,095-06115,,Fee,Fee,40.55909,-102.31902,Well
+Omimex Petroleum Bond Claim,SCHOLL 15-13-7-45(OWP),314029,Location ID,095-06117,,Fee,Fee,40.57213,-102.32945,Well
+Omimex Petroleum Bond Claim,SEABOARD 16-33-6-45(OWP),314030,Location ID,095-06119,,Fee,Fee,40.44127,-102.38216,Well
+Omimex Petroleum Bond Claim,GARRETT 15-33-6-45(OWP),314031,Location ID,095-06120,,Fee,Fee,40.44203,-102.38459,Well
+Omimex Petroleum Bond Claim,GARRETT 7-33-6-45 (OWP),314032,Location ID,095-06121,,Fee,Fee,40.45035,-102.38536,Well
+Omimex Petroleum Bond Claim,GARRETT 8-33-6-45 (OWP),314033,Location ID,095-06122,,Fee,Fee,40.44981,-102.38034,Well
+Omimex Petroleum Bond Claim,HAYNES 16-25-6-45(OWP),314035,Location ID,095-06124,,Fee,Fee,40.45591,-102.32403,Well
+Omimex Petroleum Bond Claim,GARRETT 10-33-6-45(OWP),314036,Location ID,095-06125,,Fee,Fee,40.44537,-102.38492,Well
+Yates Bond Claim,LEBSACK 943-21-42 (OWP),314037,Location ID,095-06126,Same as Well (on-site),Fee,Fee,40.74407,-102.13481,Well
+Yates Bond Claim,ENNINGA 943-21-14 (OWP),314038,Location ID,095-06127,Same as Well (on-site),Fee,Fee,40.73662,-102.14916,Well
+Yates Bond Claim,HAROLD 943-21-22 (OWP),314039,Location ID,095-06128,Same as Well (on-site),Fee,Fee,40.74362,-102.143958,Well
+Yates Bond Claim,SCHLACTER 943-22-44 (OWP),314041,Location ID,095-06130,Same as Well (on-site),Fee,Fee,40.73664,-102.11774,Well
+Yates Bond Claim,SCHLACTER 943-22-23 (OWP),314042,Location ID,095-06131,Same as Well (on-site),Fee,Fee,40.74032,-102.12654,Well
+Yates Bond Claim,OZMAN TRUST 943-29-13 (OWP),314043,Location ID,095-06132,Same as Well (on-site),Fee,Fee,40.72435,-102.16827,Well
+Omimex Petroleum Bond Claim,HAYNES STATE 1-36-6-45 (OWP),314045,Location ID,095-06135,,Fee,State,40.45196,-102.32243,Well
+Omimex Petroleum Bond Claim,HAYNES STATE 13-36-6-45(OWP),314046,Location ID,095-06136,,Fee,State,40.44304,-102.33594,Well
+Yates Bond Claim,FULSCHER 943-29-31 (OWP),314047,Location ID,095-06137,Same as Well (on-site),Fee,Fee,40.73253,-102.15675,Well
+Yates Bond Claim,OLSON 943-27-12 (OWP),314048,Location ID,095-06138,Same as Well (on-site),Fee,Fee,40.7303,-102.12956,Well
+Yates Bond Claim,Dirks 943-28-24 (OWP),314049,Location ID,095-06139,Same as Well (on-site),Fee,Fee,40.72097,-102.14472,Well
+Omimex Petroleum Bond Claim,MAILANDER SWD 16B-34-6-45(OWP),314058,Location ID,095-06149,,Fee,Fee,40.44019,-102.35947,Well
+Omimex Petroleum Bond Claim,MAILANDER 10-34-6-45(OWP),314059,Location ID,095-06150,Same as Well (on-site),Fee,Fee,40.44603,-102.36704,Well
+Omimex Petroleum Bond Claim,MAILANDER 6-34-6-45 (OWP),314061,Location ID,095-06152,,Fee,Fee,40.45021,-102.37148,Well
+Omimex Petroleum Bond Claim,MAILANDER 5-34-6-45 (OWP),314062,Location ID,095-06153,,Fee,Fee,40.44928,-102.37682,Well
+Yates Bond Claim,Dirks 943-22-21 (OWP),314063,Location ID,095-06154,Same as Well (on-site),Fee,Fee,40.745943,-102.125068,Well
+Yates Bond Claim,ROSENBACH 943-27-44 (OWP),314064,Location ID,095-06155,Same as Well (on-site),Fee,Fee,40.72234,-102.11747,Well
+Yates Bond Claim,DIRKS 943-22-31 (OWP),314065,Location ID,095-06156,Same as Well (on-site),Fee,Fee,40.748095,-102.121006,Well
+Yates Bond Claim,BRINKEMA 943-32-41 (OWP),314067,Location ID,095-06158,Same as Well (on-site),Fee,Fee,40.716453,-102.15485,Well
+Yates Bond Claim,VIESELMEYER 943-33-11 (OWP),314068,Location ID,095-06159,Same as Well (on-site),Fee,Fee,40.718278,-102.148139,Well
+Yates Bond Claim,VIESELMEYER 843-5-41-L1 (OWP),314069,Location ID,095-06160,Same as Well (on-site),Fee,Fee,40.703416,-102.165797,Well
+Yates Bond Claim,BRINKEMA 943-31-44 (OWP),314071,Location ID,095-06162,Same as Well (on-site),Fee,Fee,40.70677,-102.17504,Well
+Yates Bond Claim,OLSON 943-31-14 (OWP),314072,Location ID,095-06163,Same as Well (on-site),Fee,Fee,40.706602,-102.187567,Well
+Yates Bond Claim,WOODMANCY STATE 944-36-22 (OWP),314073,Location ID,095-06164,Same as Well (on-site),Fee,State,40.71455,-102.20302,Well
+Yates Bond Claim,STONER 943-33-13 (OWP),314074,Location ID,095-06165,Same as Well (on-site),Fee,Fee,40.71051,-102.14713,Well
+Yates Bond Claim,Walters 943-32-43 (OWP),314075,Location ID,095-06166,Same as Well (on-site),Fee,Fee,40.71169,-102.15225,Well
+Yates Bond Claim,MURRAY 943-34-21 (OWP),314076,Location ID,095-06167,Same as Well (on-site),Fee,Fee,40.71844,-102.124056,Well
+Yates Bond Claim,MURRAY 943-34-22 (OWP),314077,Location ID,095-06168,Same as Well (on-site),Fee,Fee,40.715111,-102.123667,Well
+Omimex Petroleum Bond Claim,SOUTH HOLYOKE SWD 1B-25-7-45(OWP),314078,Location ID,095-06169,,Fee,Fee,40.55598,-102.32208,Well
+Yates Bond Claim,OLSON 943-27-21 (OWP),314079,Location ID,095-06170,Same as Well (on-site),Fee,Fee,40.73308,-102.12383,Well
+Omimex Petroleum Bond Claim,HAYNES STATE 10-36-6-45(OWP),314082,Location ID,095-06173,,Fee,State,40.44502,-102.32615,Well
+Omimex Petroleum Bond Claim,HAYNES STATE 11-36-6-45(OWP),314083,Location ID,095-06174,,Fee,State,40.44441,-102.33117,Well
+Omimex Petroleum Bond Claim,SCHOLL 16-13-7-45(OWP),314089,Location ID,095-06180,,Fee,Fee,40.57265,-102.32412,Well
+Yates Bond Claim,DIRKS 943-22-42 (OWP),314090,Location ID,095-06181,Same as Well (on-site),Fee,Fee,40.74214,-102.11773,Well
+Omimex Petroleum Bond Claim,DOUBLE W DAIRY 16-24-7-45(OWP),314091,Location ID,095-06182,,Fee,Fee,40.55744,-102.32361,Well
+Omimex Petroleum Bond Claim,HAYNES STATE 15-36-6-45(OWP),314092,Location ID,095-06183,,Fee,State,40.44039,-102.32689,Well
+Yates Bond Claim,OLTJENBRUNS STATE 944-36-34 (OWP),314093,Location ID,095-06184,Same as Well (on-site),Fee,State,40.706412,-102.19482,Well
+Omimex Petroleum Bond Claim,WORLEY 8-2-6-45 (OWP),314098,Location ID,095-06189,,Fee,Fee,40.52096,-102.34302,Well
+Omimex Petroleum Bond Claim,GODDARD 14-13-7-45(OWP),314102,Location ID,095-06193,,Fee,Fee,40.5729,-102.3327,Well
+Omimex Petroleum Bond Claim,GODDARD 13-13-7-45(OWP),314103,Location ID,095-06194,,Fee,Fee,40.57205,-102.33588,Well
+Yates Bond Claim,STR 844-1-31-L2 (OWP),314114,Location ID,095-06206,Same as Well (on-site),Fee,Fee,40.702075,-102.206858,Well
+Yates Bond Claim,MURRAY 943-34-11 (OWP),314115,Location ID,095-06207,Same as Well (on-site),Fee,Fee,40.718866,-102.130322,Well
+Yates Bond Claim,Murray 943-34-12 (OWP),425447,Location ID,095-06208,Same as Well (on-site),Fee,Fee,40.71528,-102.12831,Well
+Yates Bond Claim,SAND PARTNERS 844-12-41 (OWP),314117,Location ID,095-06209,Same as Well (on-site),Fee,Fee,40.684478,-102.206332,Well
+Omimex Petroleum Bond Claim,MAILANDER 8-34-6-45 (OWP),314122,Location ID,095-06214,,Fee,Fee,40.44912,-102.36239,Well
+Yates Bond Claim,DIRKS 843-3-12-L12 (OWP),314123,Location ID,095-06215,Same as Well (on-site),Fee,Fee,40.6948,-102.14002,Well
+Yates Bond Claim,PILLARD 844-12-12 (OWP),314124,Location ID,095-06216,Same as Well (on-site),Fee,Fee,40.680884,-102.220925,Well
+Yates Bond Claim,OLTJENBRUNS 843-6-41-L1 (OWP),314130,Location ID,095-06222,Same as Well (on-site),Fee,Fee,40.70309,-102.19442,Well
+Omimex Petroleum Bond Claim,HAYNES 13-35-6-45(OWP),314134,Location ID,095-06226,,Fee,Fee,40.44296,-102.35777,Well
+Omimex Petroleum Bond Claim,KENNEDY STATE 13-36-7-45(OWP),314135,Location ID,095-06227,,Fee,State,40.52819,-102.33814,Well
+Yates Bond Claim,WALTERS 943-32-34 (OWP),314137,Location ID,095-06229,Same as Well (on-site),Fee,Fee,40.7066,-102.1598,Well
+Yates Bond Claim,OLTJENBRUNS STATE 944-36-43 (OWP),314139,Location ID,095-06231,Same as Well (on-site),Fee,State,40.710282,-102.191392,Well
+Yates Bond Claim,OLTJENBRUNS STATE 944-36-23 (OWP),314140,Location ID,095-06232,Same as Well (on-site),Fee,State,40.709577,-102.201055,Well
+Yates Bond Claim,Flatland 944-35-44 (OWP),314141,Location ID,095-06233,Same as Well (on-site),Fee,Fee,40.707061,-102.212972,Well
+Yates Bond Claim,VIESELMEYER 943-33-34 (OWP),314143,Location ID,095-06235,Same as Well (on-site),Fee,Fee,40.707693,-102.138905,Well
+Yates Bond Claim,BRINKEMA 843-4-12-L12 (OWP),314144,Location ID,095-06236,Same as Well (on-site),Fee,Fee,40.69507,-102.15934,Well
+Yates Bond Claim,ROLL 843-18-23 (OWP),314145,Location ID,095-06237,Same as Well (on-site),Fee,Fee,40.664167,-102.197889,Well
+Yates Bond Claim,FLATLAND 844-10-31 (OWP),314146,Location ID,095-06238,Same as Well (on-site),Fee,Fee,40.683694,-102.246278,Well
+Yates Bond Claim,SAND PARTNERS 844-12-31 (OWP),314148,Location ID,095-06240,Same as Well (on-site),Fee,Fee,40.682577,-102.211241,Well
+Yates Bond Claim,EINSPAHR 944-35-14 (OWP),314149,Location ID,095-06241,Same as Well (on-site),Fee,Fee,40.705904,-102.224998,Well
+Yates Bond Claim,EINSPAHR 843-15-24 (OWP),314150,Location ID,095-06242,Same as Well (on-site),Fee,Fee,40.66024,-102.13545,Well
+Yates Bond Claim,CLAYMON 843-6-33 (OWP),314151,Location ID,095-06243,Same as Well (on-site),Fee,Fee,40.6946,-102.18412,Well
+Yates Bond Claim,FLATLAND 944-35-43 (OWP),314152,Location ID,095-06244,Same as Well (on-site),Fee,Fee,40.709954,-102.210404,Well
+Yates Bond Claim,VIESELMEYER 843-5-31-L2 (OWP),314154,Location ID,095-06246,Same as Well (on-site),Fee,Fee,40.70152,-102.17054,Well
+Yates Bond Claim,LININGER 843-18-41 (OWP),314157,Location ID,095-06249,Same as Well (on-site),Fee,Fee,40.67103,-102.18714,Well
+Yates Bond Claim,VIESELMEYER 843-5-41-L8 (OWP),314158,Location ID,095-06250,Same as Well (on-site),Fee,Fee,40.69762,-102.16816,Well
+Yates Bond Claim,BLOCHOWITZ 843-6-14-L14 (OWP),314160,Location ID,095-06252,Same as Well (on-site),Fee,Fee,40.68762,-102.2,Well
+Yates Bond Claim,FLATLAND 844-10-32 (OWP),314161,Location ID,095-06253,Same as Well (on-site),Fee,Fee,40.681167,-102.250222,Well
+Omimex Petroleum Bond Claim,Mickelson 11-34-6-45(OWP),413180,Location ID,095-06261,,Fee,Fee,40.44644,-102.37159,Well
+Yates Bond Claim,BRINKEMA 843-4-42-L9 (OWP),415191,Location ID,095-06264,Same as Well (on-site),Fee,Fee,40.69546,-102.146,Well
+Yates Bond Claim,FLATLAND 944-35-31 (OWP),415177,Location ID,095-06266,Same as Well (on-site),Fee,Fee,40.716444,-102.214611,Well
+Yates Bond Claim,BLOCHOWITZ 843-6-23 (OWP),415204,Location ID,095-06267,Same as Well (on-site),Fee,Fee,40.69272,-102.19007,Well
+Yates Bond Claim,VIESELMEYER 843-5-32-L10 (OWP),415253,Location ID,095-06270,Same as Well (on-site),Fee,Fee,40.69447,-102.170867,Well
+Yates Bond Claim,PILLARD 844-12-22 (OWP),415457,Location ID,095-06271,Same as Well (on-site),Fee,Fee,40.6804,-102.21489,Well
+Yates Bond Claim,DIRKS 843-18-43 (OWP),416083,Location ID,095-06273,Same as Well (on-site),Fee,Fee,40.66324,-102.18889,Well
+Yates Bond Claim,CLAYMON 843-6-11-L5 (OWP),416342,Location ID,095-06274,Same as Well (on-site),Fee,Fee,40.69971,-102.201458,Well
+Yates Bond Claim,Pillard 944-33-43 (OWP),416935,Location ID,095-06275,Same as Well (on-site),Fee,Fee,40.71065,-102.25164,Well
+Omimex Petroleum Bond Claim,Kenalo 1-24-7-45 (OWP),417180,Location ID,095-06277,,Fee,Fee,40.56928,-102.32559,Well
+Omimex Petroleum Bond Claim,Millage 7-26-7-45 (OWP),417199,Location ID,095-06278,,Fee,Fee,40.55022,-102.3485,Well
+Yates Bond Claim,CLAYMON 843-6-44 (OWP),417290,Location ID,095-06280,Same as Well (on-site),Fee,Fee,40.68779,-102.18545,Well
+Omimex Petroleum Bond Claim,Lindgren 6-30-7-44 (OWP),417988,Location ID,095-06283,,Fee,Fee,40.54997,-102.31446,Well
+Omimex Petroleum Bond Claim,Gueck 5-19-7-44 (OWP),418084,Location ID,095-06284,,Fee,Fee,40.56416,-102.31686,Well
+Omimex Petroleum Bond Claim,Martin 5-25-7-45 (OWP),418120,Location ID,095-06285,,Fee,Fee,40.5499,-102.33789,Well
+Omimex Petroleum Bond Claim,Lindgren 3-30-7-44 (OWP),418246,Location ID,095-06286,,Fee,Fee,40.55571,-102.31328,Well
+Yates Bond Claim,FLATLAND 844-11-22 (OWP),418347,Location ID,095-06287,Same as Well (on-site),Fee,Fee,40.679089,-102.234134,Well
+Omimex Petroleum Bond Claim,Worley 14-19-7-44(OWP),418468,Location ID,095-06288,,Fee,Fee,40.55994,-102.31171,Well
+Yates Bond Claim,CLAYMON 843-6-42-L9 (OWP),418919,Location ID,095-06290,Same as Well (on-site),Fee,Fee,40.70141,-102.18495,Well
+Yates Bond Claim,Dirks 844-1-11-L5 (OWP),420105,Location ID,095-06292,Same as Well (on-site),Fee,Fee,40.69747,-102.21921,Well
+Yates Bond Claim,State 844-1-34 (OWP),420481,Location ID,095-06293,Same as Well (on-site),State,State,40.687773,-102.209671,Well
+Yates Bond Claim,State 844-1-43 (OWP),420677,Location ID,095-06294,,State,State,40.69267,-102.20379,Well
+Yates Bond Claim,State 844-1-13 (OWP),420479,Location ID,095-06295,Same as Well (on-site),State,State,40.690814,-102.219736,Well
+Yates Bond Claim,OLTJENBRUNS STATE 944-36-14 (OWP),420799,Location ID,095-06296,Same as Well (on-site),Fee,State,40.705622,-102.205884,Well
+Yates Bond Claim,Lindstrom 944-35-12 (OWP),420857,Location ID,095-06298,Same as Well (on-site),Fee,Fee,40.713639,-102.223611,Well
+Yates Bond Claim,Olson 943-31-24 (OWP),420894,Location ID,095-06299,Same as Well (on-site),Fee,Fee,40.706147,-102.181984,Well
+Yates Bond Claim,Dirks 943-22-22 (OWP),421366,Location ID,095-06302,Same as Well (on-site),Fee,Fee,40.74436,-102.125942,Well
+Yates Bond Claim,Schlachter 943-22-13 (OWP),421342,Location ID,095-06303,Same as Well (on-site),Fee,Fee,40.740047,-102.129721,Well
+Yates Bond Claim,Blochowitz 843-6-24 (OWP),421358,Location ID,095-06304,Same as Well (on-site),Fee,Fee,40.68893,-102.1975,Well
+Yates Bond Claim,Vieselmeyer 843-5-42-L9 (OWP),421365,Location ID,095-06305,Same as Well (on-site),Fee,Fee,40.697626,-102.16817,Well
+Yates Bond Claim,Enninga 943-21-23 (OWP),421361,Location ID,095-06306,Same as Well (on-site),Fee,Fee,40.741234,-102.143057,Well
+Yates Bond Claim,Brinkema 943-31-34 (OWP),421437,Location ID,095-06307,Same as Well (on-site),Fee,Fee,40.705981,-102.177237,Well
+Yates Bond Claim,STR 844-1-41-L8 (OWP),421511,Location ID,095-06308,Same as Well (on-site),Fee,Fee,40.698015,-102.205151,Well
+Yates Bond Claim,Claymon 843-6-12-L12 (OWP),423140,Location ID,095-06309,Same as Well (on-site),Fee,Fee,40.694994,-102.20044,Well
+Yates Bond Claim,Roll SWD 843-18-21 (OWP),423162,Location ID,095-06310,Same as Well (on-site),Fee,Fee,40.6709,-102.1946,Well
+Yates Bond Claim,Claymon 843-6-41-L8 (OWP),423417,Location ID,095-06311,Same as Well (on-site),Fee,Fee,40.69761,-102.18367,Well
+Yates Bond Claim,Claymon 843-6-31-L7 (OWP),423431,Location ID,095-06312,Same as Well (on-site),Fee,Fee,40.697517,-102.190962,Well
+Yates Bond Claim,Claymon 843-6-22-L11 (OWP),423419,Location ID,095-06313,Same as Well (on-site),Fee,Fee,40.693946,-102.193613,Well
+Yates Bond Claim,Claymon 843-6-32-L10 (OWP),423517,Location ID,095-06314,Same as Well (on-site),Fee,Fee,40.694318,-102.191366,Well
+Yates Bond Claim,State 844-1-23 (OWP),423623,Location ID,095-06315,Same as Well (on-site),State,State,40.692672,-102.214706,Well
+Yates Bond Claim,Claymon 843-6-21-L6 (OWP),423760,Location ID,095-06316,Same as Well (on-site),Fee,Fee,40.699657,-102.195699,Well
+Yates Bond Claim,Roll 843-18-22 (OWP),424059,Location ID,095-06317,Same as Well (on-site),Fee,Fee,40.665497,-102.195079,Well
+Yates Bond Claim,Dirks 943-28-14 (OWP),424283,Location ID,095-06319,Same as Well (on-site),Fee,Fee,40.72047,-102.14864,Well
+Yates Bond Claim,Dirks 844-1-11-L4 (OWP),424280,Location ID,095-06320,Same as Well (on-site),Fee,Fee,40.701694,-102.217167,Well
+Yates Bond Claim,Rosenbach 943-27-34 (OWP),424293,Location ID,095-06321,Same as Well (on-site),Fee,Fee,40.722227,-102.121634,Well
+Yates Bond Claim,Rosenbach 943-27-33 (OWP),424296,Location ID,095-06322,Same as Well (on-site),Fee,Fee,40.725024,-102.121454,Well
+Yates Bond Claim,Dirks 943-22-32 (OWP),424520,Location ID,095-06323,Same as Well (on-site),Fee,Fee,40.745278,-102.119139,Well
+Yates Bond Claim,SCHLACHTER 843-31-24 (OWP),424582,Location ID,095-06325,Same as Well (on-site),Fee,Fee,40.61664,-102.19876,Well
+Yates Bond Claim,SCHLACHTER 843-31-13 (OWP),424631,Location ID,095-06326,Same as Well (on-site),Fee,Fee,40.625861,-102.190528,Well
+Yates Bond Claim,SCHLACHTER 743-6-11 (OWP),424683,Location ID,095-06328,Same as Well (on-site),Fee,Fee,40.61403,-102.20551,Well
+Yates Bond Claim,SCHLACHTER 743-6-21 (OWP),424686,Location ID,095-06329,,Fee,Fee,40.61406,-102.19929,Well
+Yates Bond Claim,SCHLACHTER 743-6-22 (OWP),424667,Location ID,095-06330,Same as Well (on-site),Fee,Fee,40.6104,-102.1973,Well
+Yates Bond Claim,SCHLACHTER 843-31-14 (OWP),424778,Location ID,095-06331,Same as Well (on-site),Fee,Fee,40.620556,-102.203556,Well
+Yates Bond Claim,SCHLACHTER 743-6-12 (OWP),424872,Location ID,095-06333,Same as Well (on-site),Fee,Fee,40.61013,-102.20241,Well
+Yates Bond Claim,LELAND TRUST 843-29-24 (OWP),424881,Location ID,095-06334,Same as Well (on-site),Fee,Fee,40.63155,-102.1767,Well
+Yates Bond Claim,LELAND TRUST 843-29-13 (OWP),424890,Location ID,095-06335,Same as Well (on-site),Fee,Fee,40.63453,-102.18415,Well
+Yates Bond Claim,LELAND TRUST 843-29-23 (OWP),424880,Location ID,095-06336,Same as Well (on-site),Fee,Fee,40.63375,-102.17743,Well
+Yates Bond Claim,LELAND TRUST 843-29-34 (OWP),424908,Location ID,095-06337,Same as Well (on-site),Fee,Fee,40.632,-102.1741,Well
+Yates Bond Claim,LELAND TRUST 843-29-44 (OWP),424925,Location ID,095-06338,Same as Well (on-site),Fee,Fee,40.63025,-102.16726,Well
+Yates Bond Claim,LELAND TRUST 843-29-33 (OWP),424927,Location ID,095-06340,Same as Well (on-site),Fee,Fee,40.635528,-102.170222,Well
+Yates Bond Claim,LEBEN 843-21-31 (OWP),424931,Location ID,095-06341,Same as Well (on-site),Fee,Fee,40.65593,-102.15199,Well
+Yates Bond Claim,LEBEN 843-21-32 (OWP),424937,Location ID,095-06342,Same as Well (on-site),Fee,Fee,40.65346,-102.15185,Well
+Yates Bond Claim,Vieselmeyer 943-33-44 (OWP),424963,Location ID,095-06343,Same as Well (on-site),Fee,Fee,40.705917,-102.134694,Well
+Yates Bond Claim,Olson 943-27-22 (OWP),425047,Location ID,095-06344,Same as Well (on-site),Fee,Fee,40.730389,-102.125972,Well
+Yates Bond Claim,RAFERT 843-29-42 (OWP),425125,Location ID,095-06345,Same as Well (on-site),Fee,Fee,40.63718,-102.16897,Well
+Yates Bond Claim,PILLARD 944-33-34 (OWP),425139,Location ID,095-06346,Same as Well (on-site),Fee,Fee,40.707361,-102.251889,Well
+Yates Bond Claim,Olson 943-31-13 (OWP),425160,Location ID,095-06347,Same as Well (on-site),Fee,Fee,40.71158,-102.184964,Well
+Yates Bond Claim,STOUT 844-25-24 (OWP),425158,Location ID,095-06348,Same as Well (on-site),Fee,Fee,40.631278,-102.218417,Well
+Yates Bond Claim,RAFERT 843-22-12 (OWP),425156,Location ID,095-06350,Same as Well (on-site),Fee,Fee,40.65295,-102.14236,Well
+Yates Bond Claim,RAFERT 843-22-22 (OWP),425238,Location ID,095-06351,Same as Well (on-site),Fee,Fee,40.65362,-102.1396,Well
+Yates Bond Claim,OLTJENBRUNS 843-6-31-L2 (OWP),425242,Location ID,095-06352,Same as Well (on-site),Fee,Fee,40.70392,-102.18889,Well
+Yates Bond Claim,RAFERT 843-32-11 (OWP),425207,Location ID,095-06354,Same as Well (on-site),Fee,Fee,40.62556,-102.184528,Well
+Yates Bond Claim,RAFERT 843-29-31 (OWP),425291,Location ID,095-06355,Same as Well (on-site),Fee,Fee,40.64163,-102.17344,Well
+Yates Bond Claim,LAHNERT 843-20-11 (OWP),425272,Location ID,095-06356,,Fee,Fee,40.65485,-102.18346,Well
+Yates Bond Claim,RAFERT 843-32-12 (OWP),425405,Location ID,095-06357,Same as Well (on-site),Fee,Fee,40.623056,-102.181528,Well
+Yates Bond Claim,SCHLACHTER 843-31-41 (OWP),425398,Location ID,095-06358,Same as Well (on-site),Fee,Fee,40.616083,-102.205361,Well
+Yates Bond Claim,RAFERT 843-32-21 (OWP),425412,Location ID,095-06359,Same as Well (on-site),Fee,Fee,40.628278,-102.17925,Well
+Yates Bond Claim,RAFERT 843-22-21 (OWP),425425,Location ID,095-06361,Same as Well (on-site),Fee,Fee,40.65628,-102.13918,Well
+Yates Bond Claim,Hubbard Federal 843-5-11-L5 (OWP),425445,Location ID,095-06362,Same as Well (on-site),Fee,Federal,40.699556,-102.180139,Well
+Yates Bond Claim,SAGEHORN 843-31-11 (OWP),425436,Location ID,095-06363,,Fee,Fee,40.627861,-102.203917,Well
+Yates Bond Claim,Hubbard Federal 843-5-11-L4 (OWP),425444,Location ID,095-06364,Same as Well (on-site),Fee,Federal,40.702278,-102.180611,Well
+Yates Bond Claim,Beal Federal 843-5-13 (OWP),425495,Location ID,095-06365,Same as Well (on-site),Fee,Federal,40.690389,-102.178611,Well
+Yates Bond Claim,Ozman Trust 943-29-34 (OWP),425589,Location ID,095-06367,Same as Well (on-site),Fee,Fee,40.72189,-102.15686,Well
+Yates Bond Claim,Siedenburg Federal 843-5-22-L11 (OWP),425591,Location ID,095-06368,Same as Well (on-site),Fee,Federal,40.696694,-102.175583,Well
+Yates Bond Claim,SCHLACHTER 843-31-42 (OWP),425648,Location ID,095-06369,Same as Well (on-site),Fee,Fee,40.62375,-102.187333,Well
+Yates Bond Claim,RAFERT 843-32-23 (OWP),426063,Location ID,095-06371,Same as Well (on-site),Fee,Fee,40.62012,-102.17892,Well
+Yates Bond Claim,RAFERT 843-32-14 (OWP),426223,Location ID,095-06373,Same as Well (on-site),Fee,Fee,40.61697,-102.18275,Well
+Yates Bond Claim,STATE 844-36-43 (OWP),426210,Location ID,095-06374,Site ID xyz (off-site),State,State,40.61908,-102.2104,Well
+Yates Bond Claim,State 844-36-42 (OWP),426219,Location ID,095-06375,,State,State,40.6234,-102.20943,Well
+Yates Bond Claim,ORTNER 744-1-33 (OWP),426329,Location ID,095-06377,Same as Well (on-site),Fee,Fee,40.60651,-102.21575,Well
+Yates Bond Claim,VIESELMEYER 943-33-41 (OWP),426333,Location ID,095-06378,Same as Well (on-site),Fee,Fee,40.719222,-102.133194,Well
+Yates Bond Claim,ORTNER 744-1-23 (OWP),426335,Location ID,095-06379,Same as Well (on-site),Fee,Fee,40.60511,-102.22056,Well
+Yates Bond Claim,SCHLACHTER 843-31-43 (OWP),426375,Location ID,095-06380,Same as Well (on-site),Fee,Fee,40.62644,-102.1876,Well
+Yates Bond Claim,SCHLACHTER 743-6-42 (OWP),426436,Location ID,095-06381,Same as Well (on-site),Fee,Fee,40.60825,-102.1895,Well
+Yates Bond Claim,STONER 843-20-33 (OWP),426710,Location ID,095-06385,Same as Well (on-site),Fee,Fee,40.64854,-102.17052,Well
+Yates Bond Claim,STOUT 844-25-23 (OWP),426803,Location ID,095-06386,Same as Well (on-site),Fee,Fee,40.63361,-102.21678,Well
+Yates Bond Claim,MURRAY 943-34-31 (OWP),426976,Location ID,095-06387,Same as Well (on-site),Fee,Fee,40.71664,-102.12231,Well
+Yates Bond Claim,On The Brink 843-3-24 (OWP),426974,Location ID,095-06388,Same as Well (on-site),Fee,Fee,40.688556,-102.135528,Well
+Yates Bond Claim,On The Brink 843-3-44 (OWP),426964,Location ID,095-06389,Same as Well (on-site),Fee,Fee,40.687972,-102.127083,Well
+Yates Bond Claim,Sagehorn 844-3-41-L8 (OWP),426968,Location ID,095-06390,Same as Well (on-site),Fee,Fee,40.69889,-102.24422,Well
+Yates Bond Claim,Sagehorn 844-3-12-L12 (OWP),426959,Location ID,095-06391,Same as Well (on-site),Fee,Fee,40.69697,-102.257167,Well
+Yates Bond Claim,Sagehorn 844-3-22-L11 (OWP),426966,Location ID,095-06392,Same as Well (on-site),Fee,Fee,40.69617,-102.250417,Well
+Yates Bond Claim,Sagehorn 844-3-21-L3 (OWP),426961,Location ID,095-06393,Same as Well (on-site),Fee,Fee,40.70219,-102.253056,Well
+Yates Bond Claim,On The Brink 843-3-14 (OWP),426969,Location ID,095-06394,Same as Well (on-site),Fee,Fee,40.687167,-102.143111,Well
+Yates Bond Claim,MURRAY 943-34-41 (OWP),426971,Location ID,095-06395,Same as Well (on-site),Fee,Fee,40.71917,-102.11669,Well
+Yates Bond Claim,Dirks 843-3-31-L7 (OWP),426992,Location ID,095-06396,Same as Well (on-site),Fee,Fee,40.69966,-102.13186,Well
+Yates Bond Claim,Dirks 843-3-32-L10 (OWP),427002,Location ID,095-06397,Same as Well (on-site),Fee,Fee,40.69494,-102.13347,Well
+Yates Bond Claim,Dirks 843-3-41-L1 (OWP),426989,Location ID,095-06398,Same as Well (on-site),Fee,Fee,40.703,-102.129306,Well
+Yates Bond Claim,VIESELMEYER 943-33-12 (OWP),426994,Location ID,095-06399,Same as Well (on-site),Fee,Fee,40.71325,-102.14914,Well
+Yates Bond Claim,Dirks 843-3-21-L6 (OWP),426991,Location ID,095-06400,Same as Well (on-site),Fee,Fee,40.69753,-102.13749,Well
+Yates Bond Claim,VIESELMEYER 943-33-33 (OWP),426987,Location ID,095-06401,Same as Well (on-site),Fee,Fee,40.70931,-102.13742,Well
+Yates Bond Claim,State 844-36-24 (OWP),427132,Location ID,095-06405,,State,State,40.61631,-102.218,Well
+Yates Bond Claim,State 844-36-22 (OWP),427127,Location ID,095-06406,Same as Well (on-site),State,State,40.62286,-102.21883,Well
+Yates Bond Claim,SAGEHORN 844-3-31-L2 (OWP),427200,Location ID,095-06407,Same as Well (on-site),Fee,Fee,40.704222,-102.245222,Well
+Yates Bond Claim,Sagehorn 844-3-11-L5 (OWP),427201,Location ID,095-06408,Same as Well (on-site),Fee,Fee,40.69883,-102.256611,Well
+Yates Bond Claim,State 844-36-12 (OWP),427216,Location ID,095-06409,Same as Well (on-site),State,State,40.62267,-102.22144,Well
+Yates Bond Claim,State 844-36-23 (OWP),427285,Location ID,095-06410,,State,State,40.6185,-102.220306,Well
+Yates Bond Claim,LEBEN 843-10-11 (OWP),427352,Location ID,095-06411,Same as Well (on-site),Fee,Fee,40.684556,-102.140611,Well
+Yates Bond Claim,RAFERT 843-9-44 (OWP),427339,Location ID,095-06412,Same as Well (on-site),Fee,Fee,40.672778,-102.145833,Well
+Yates Bond Claim,RAFERT 843-9-33 (OWP),427345,Location ID,095-06413,Same as Well (on-site),Fee,Fee,40.676694,-102.149778,Well
+Yates Bond Claim,STONER 843-4-24 (OWP),427344,Location ID,095-06415,Same as Well (on-site),Fee,Fee,40.689278,-102.1555,Well
+Yates Bond Claim,STR 844-1-41-L1 (OWP),427362,Location ID,095-06418,Same as Well (on-site),Fee,Fee,40.70111,-102.203667,Well
+Yates Bond Claim,SJR 844-1-31-L7 (OWP),427365,Location ID,095-06419,Same as Well (on-site),Fee,Fee,40.698778,-102.208806,Well
+Yates Bond Claim,Oltjenbruns 844-2-11-L5 (OWP),427361,Location ID,095-06420,Same as Well (on-site),Fee,Fee,40.699722,-102.236083,Well
+Yates Bond Claim,STATE 844-36-44 (OWP),427414,Location ID,095-06422,,State,State,40.61542,-102.21086,Well
+Yates Bond Claim,LEBEN 843-10-12 (OWP),427412,Location ID,095-06423,Same as Well (on-site),Fee,Fee,40.68225,-102.143778,Well
+Yates Bond Claim,STATE 844-36-33 (OWP),427411,Location ID,095-06425,,State,State,40.619389,-102.212722,Well
+Yates Bond Claim,SAGEHORN 843-31-22 (OWP),427474,Location ID,095-06426,,Fee,Fee,40.62506,-102.19636,Well
+Yates Bond Claim,STONER 843-4-43 (OWP),427548,Location ID,095-06427,Same as Well (on-site),Fee,Fee,40.69017,-102.146222,Well
+Yates Bond Claim,STONER 843-4-13 (OWP),427551,Location ID,095-06429,Same as Well (on-site),Fee,Fee,40.690667,-102.162778,Well
+Yates Bond Claim,LINDGREN 843-30-43 (OWP),427564,Location ID,095-06431,Same as Well (on-site),Fee,Fee,40.63458,-102.18575,Well
+Yates Bond Claim,LINDGREN 843-30-33 (OWP),427566,Location ID,095-06433,Same as Well (on-site),Fee,Fee,40.63269,-102.19317,Well
+Yates Bond Claim,STATE 844-36-32 (OWP),428008,Location ID,095-06435,,State,State,40.6245,-102.212361,Well
+Yates Bond Claim,LINDGREN 843-30-24 (OWP),428024,Location ID,095-06438,Same as Well (on-site),Fee,Fee,40.63181,-102.19678,Well
+Yates Bond Claim,ON THE BRINK 843-3-33 (OWP),428185,Location ID,095-06443,Same as Well (on-site),Fee,Fee,40.692306,-102.134472,Well
+Yates Bond Claim,ON THE BRINK 843-3-34 (OWP),428181,Location ID,095-06444,Same as Well (on-site),Fee,Fee,40.688111,-102.130028,Well
+Yates Bond Claim,KAUP 844-3-43 (OWP),428236,Location ID,095-06445,Same as Well (on-site),Fee,Fee,40.69275,-102.24222,Well
+Yates Bond Claim,KAUP 844-3-44 (OWP),428233,Location ID,095-06447,Same as Well (on-site),Fee,Fee,40.688,-102.24239,Well
+Yates Bond Claim,KAUP 844-3-33 (OWP),428234,Location ID,095-06448,Same as Well (on-site),Fee,Fee,40.691194,-102.247194,Well
+Yates Bond Claim,KAUP 844-3-14 (OWP),428228,Location ID,095-06449,Same as Well (on-site),Fee,Fee,40.687861,-102.25925,Well
+Yates Bond Claim,SAND PARTNERS 943-32-14 (OWP),428316,Location ID,095-06450,Same as Well (on-site),Fee,Fee,40.705673,-102.167478,Well
+Yates Bond Claim,SCHLACHTER 843-31-31 (OWP),428328,Location ID,095-06452,Same as Well (on-site),Fee,Fee,40.62068,-102.18852,Well
+Yates Bond Claim,FRANSON 943-28-42A(OWP),428343,Location ID,095-06456,Same as Well (on-site),Fee,Fee,40.730417,-102.134111,Well
+Omimex Petroleum Bond Claim,Moss 7-19-7-44 (OWP),439002,Location ID,095-06464,,Fee,Fee,40.56562,-102.30929,Well
+Omimex Petroleum Bond Claim,Mailander 4-34-6-45 (OWP),439065,Location ID,095-06465,Same as Well (on-site),Fee,Fee,40.45294,-102.3769,Well
+Omimex Petroleum Bond Claim,Gueck 10-19-7-44(OWP),439933,Location ID,095-06468,Same as Well (on-site),Fee,Fee,40.56207,-102.31014,Well
+Omimex Petroleum Bond Claim,Sagehorn 14-34-6-45(OWP),440198,Location ID,095-06469,Same as Well (on-site),Fee,Fee,40.44165,-102.37134,Well
+Omimex Petroleum Bond Claim,Sagehorn 12-34-6-45(OWP),440199,Location ID,095-06470,Same as Well (on-site),Fee,Fee,40.44558,-102.37607,Well
+Unknown Operators - Rangely Field,MORAN-DENVER-032682 7 (OWP),475034,Location ID,103-01169,None,State,Federal,40.07382,-108.809901,Well
+Lubauer Petroleum - Rangely Field,MORAN-LUBAUER 9 (OWP),399041,Location ID,103-01171,None,State,Federal,40.073346,-108.809864,Well
+Locin Oil Bond Claim,SLOAN-GOVERNMENT 1 (OWP),314283,Location ID,103-05005,Same as Well (on-site),Federal,Federal,39.68669,-108.9368,Well
+Locin Oil Bond Claim,BEARDMORE 32-5 (OWP),314302,Location ID,103-05105,Same as Well (on-site),Federal,Federal,39.832617,-108.869667,Well
+Shawnee Bond Claim,FEDERAL 1 (OWP),314304,Location ID,103-05108,,Federal,Federal,39.83401,-108.74422,Well
+Lasso Bond Claim,ARROWHEAD 9 (OWP),314339,Location ID,103-05301,Same as Well (on-site),Federal,Federal,40.06872,-108.79402,Well
+Lasso Bond Claim,LILLY 3A (OWP),314342,Location ID,103-05313,Same as Well (on-site),Federal,Federal,40.07067,-108.77631,Well
+Lasso Bond Claim,TRANCO 5A (OWP),314343,Location ID,103-05320,Same as Well (on-site),Federal,Federal,40.07195,-108.77123,Well
+Shawnee Bond Claim,CHURCH 2 (OWP),314345,Location ID,103-05331,,Fee,Fee,40.07282,-108.88159,Well
+Lasso Bond Claim,NEWTON 25-A (OWP),396860,Location ID,103-05337,Same as Well (on-site),Fee,Federal,40.07514,-108.7827,Well
+Shawnee Bond Claim,CHURCH ET AL 1 (OWP),314347,Location ID,103-05338,,Fee,Fee,40.07482,-108.87634,Well
+Lasso Bond Claim,M V SMITH 31 (OWP),314348,Location ID,103-05344,Same as Well (on-site),Federal,Federal,40.07566,-108.84626,Well
+Lasso Bond Claim,"SMITH, M V 35 (OWP)",314351,Location ID,103-05377,Same as Well (on-site),Fee,Federal,40.07819,-108.80537,Well
+Lasso Bond Claim,STINKING WATER 2W (OWP),314361,Location ID,103-05461,Same as Well (on-site),Federal,Federal,40.08423,-108.8553,Well
+Lasso Bond Claim,A C MCLAUGHLIN SR 61 (OWP),314364,Location ID,103-05467,Same as Well (on-site),Fee,Fee,40.09302,-108.84213,Well
+Lasso Bond Claim,MCLAUGHLIN SR 6 (OWP),311791,Location ID,103-05500,Site ID xyz (off-site),Fee,Fee,40.09783,-108.85564,Well
+Lasso Bond Claim,A C MCLAUGHLIN JR 11 (OWP),314385,Location ID,103-05577,Same as Well (on-site),Fee,Fee,40.10466,-108.85007,Well
+Unknown Operators - Rangely Field,ROOTH-CONTINENTAL-GOV 14 (OWP),397016,Location ID,103-05776,None,Federal,Federal,40.136765,-108.948738,Well
+Unknown Operators - Rangely Field,ROOTH-CONTINENTAL 17 (OWP),397023,Location ID,103-05789,None,Federal,Federal,40.138105,-108.947958,Well
+Stehle Oil Bond Claim,PINNACLE UNIT 12-30 (OWP),314522,Location ID,103-05906,Same as Well (on-site),Federal,Federal,40.201667,-107.09222,Well
+Lasso Bond Claim,GEBAUER 14 (OWP),314716,Location ID,103-07049,Same as Well (on-site),Federal,Federal,40.06809,-108.80275,Well
+Lasso Bond Claim,PHILLIPS LEVISON 5 (OWP),314758,Location ID,103-07149,Same as Well (on-site),Federal,Federal,40.10748,-108.80743,Well
+Locin Oil Bond Claim,MORRISON-GOVERNMENT 1 (OWP),314791,Location ID,103-07254,Same as Well (on-site),Federal,Federal,39.82185,-108.850517,Well
+Lasso Bond Claim,FEDERAL 2-34 (OWP),314822,Location ID,103-07322,Same as Well (on-site),Federal,Federal,39.82701,-108.72236,Well
+Locin Oil Bond Claim,FEDERAL 13-10 (OWP),314839,Location ID,103-07370,Same as Well (on-site),Federal,Federal,39.88455,-108.83625,Well
+Lasso Bond Claim,LITTLE GILLIAM 1 (OWP),311813,Location ID,103-07380,Same as Well (on-site),Federal,Federal,40.08333,-108.72355,Well
+Locin Oil Bond Claim,FEDERAL 13-2 (OWP),314844,Location ID,103-07389,Same as Well (on-site),Federal,Federal,39.869117,-108.798883,Well
+Northstar Gas Bond Claim,SW RANGELY-FEDERAL 1-9 (OWP),314858,Location ID,103-07431,Same as Well (on-site),Federal,Federal,39.98114,-108.96354,Well
+Northstar Gas Bond Claim,BANTA RIDGE UNIT 3 (OWP),314902,Location ID,103-07513,Same as Well (on-site),Federal,Federal,39.96621,-108.98264,Well
+Lasso Bond Claim,STANDIFIRD 1 (OWP),314989,Location ID,103-07703,Same as Well (on-site),Fee,Fee,39.89057,-108.93569,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 1,314990,Location ID,103-07704,,Federal,Federal,39.89956,-108.72474,Well
+Lasso Bond Claim,GOVERNMENT 9-1 (OWP),314999,Location ID,103-07728,Same as Well (on-site),Federal,Federal,39.88312,-108.95911,Well
+Locin Oil Bond Claim,NO. DOUGLAS CREEK-FEDERAL 3-7 (OWP),315021,Location ID,103-07775,Same as Well (on-site),Federal,Federal,39.8938,-108.7792,Well
+Locin Oil Bond Claim,NO. DOUGLAS CREEK-FEDERAL 9-11 (OWP),315023,Location ID,103-07778,Same as Well (on-site),Federal,Federal,39.887433,-108.80485,Well
+Locin Oil Bond Claim,NO. DOUGLAS CREEK-FEDERAL 4-12 (OWP),315024,Location ID,103-07780,Same as Well (on-site),Federal,Federal,39.893683,-108.799317,Well
+Locin Oil Bond Claim,NO. DOUGLAS CREEK-FEDERAL 2-14 (OWP),315026,Location ID,103-07782,Same as Well (on-site),Federal,Federal,39.87825,-108.806533,Well
+Locin Oil Bond Claim,NO. DOUGLAS CREEK-FEDERAL 9-14 (OWP),315027,Location ID,103-07783,Same as Well (on-site),Federal,Federal,39.871933,-108.804883,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 7,315047,Location ID,103-07823,,Federal,Federal,39.90656,-108.70646,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 9,315048,Location ID,103-07824,,Federal,Federal,39.90702,-108.72424,Well
+Lasso Bond Claim,FEDERAL 4-22 (OWP),315053,Location ID,103-07833,Same as Well (on-site),Federal,Federal,39.86395,-108.71748,Well
+Lasso Bond Claim,FEDERAL 3-34 (OWP),315054,Location ID,103-07834,Same as Well (on-site),Federal,Federal,39.83642,-108.71642,Well
+Lasso Bond Claim,FEDERAL 4-34 (OWP),315055,Location ID,103-07835,Same as Well (on-site),Federal,Federal,39.83722,-108.72233,Well
+Lasso Bond Claim,C & K 1-11 (OWP),315058,Location ID,103-07839,Same as Well (on-site),Federal,Federal,39.80023,-108.6985,Well
+Locin Oil Bond Claim,SLOAN-GOVERNMENT 2 (OWP),315071,Location ID,103-07871,Same as Well (on-site),Federal,Federal,39.67656,-108.94662,Well
+Lasso Bond Claim,C & K 1-6 (OWP),315079,Location ID,103-07880,Same as Well (on-site),Federal,Federal,39.81509,-108.66616,Well
+Lasso Bond Claim,C & K 1-12 (OWP),315080,Location ID,103-07882,Same as Well (on-site),Federal,Federal,39.80639,-108.67177,Well
+Lasso Bond Claim,FEDERAL 1-17 (OWP),315090,Location ID,103-07897,Same as Well (on-site),Federal,Federal,39.87283,-108.64179,Well
+Lasso Bond Claim,CONTINENTAL 1-8 (OWP),315097,Location ID,103-07908,Same as Well (on-site),Federal,Federal,39.80848,-108.64886,Well
+Lasso Bond Claim,UNIVERSAL 1-19 (OWP),315103,Location ID,103-07922,Same as Well (on-site),Federal,Federal,39.77084,-108.66672,Well
+Lasso Bond Claim,UNIVERSAL 2-19 (OWP),315104,Location ID,103-07923,Same as Well (on-site),Federal,Federal,39.76762,-108.65845,Well
+Lasso Bond Claim,DEPCO 1-5 (OWP),315106,Location ID,103-07926,Same as Well (on-site),Federal,Federal,39.81163,-108.64368,Well
+Locin Oil Bond Claim,DRAGON TRAIL-FEDERAL 6-7 (OWP),315112,Location ID,103-07933,Same as Well (on-site),Federal,Federal,39.890233,-108.88625,Well
+Locin Oil Bond Claim,DRAGON TRAIL-FEDERAL 8-7 (OWP),315113,Location ID,103-07934,Site ID 470475 (off-site),Federal,Federal,39.890517,-108.87675,Well
+Locin Oil Bond Claim,NO. DOUGLAS CREEK-FEDERAL 2-3 (OWP),315127,Location ID,103-07956,Site ID 469704 (off-site),Federal,Federal,39.908417,-108.82665,Well
+Lasso Bond Claim,CONTINENTAL 2-16 (OWP),315156,Location ID,103-08000,Same as Well (on-site),Federal,Federal,39.78801,-108.62823,Well
+Locin Oil Bond Claim,TAIGA FED 2F-20-4-102(OWP),315171,Location ID,103-08025,Same as Well (on-site),Federal,Federal,39.68964,-108.87109,Well
+Lasso Bond Claim,CONTINENTAL 1-16 (OWP),315181,Location ID,103-08037,Same as Well (on-site),Federal,Federal,39.79119,-108.61779,Well
+Lasso Bond Claim,CONTINENTAL 1-20 (OWP),315182,Location ID,103-08038,Same as Well (on-site),Federal,Federal,39.77158,-108.63639,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 10,315194,Location ID,103-08058,,Federal,Federal,39.89302,-108.70483,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 11,315195,Location ID,103-08059,,Federal,Federal,39.89459,-108.69532,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 13,315196,Location ID,103-08061,,Federal,Federal,39.89421,-108.67495,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 6-32 (OWP),315208,Location ID,103-08079,Same as Well (on-site),Federal,Federal,39.9219,-108.759933,Well
+Locin Oil Bond Claim,FORK UNIT 12-11 (OWP),315209,Location ID,103-08081,Same as Well (on-site),Federal,Federal,39.886017,-108.817167,Well
+Locin Oil Bond Claim,ELDSON ROBERTSON 8G-21-4-102 OWP,315213,Location ID,103-08087,Same as Well (on-site),Fee,Fee,39.68948,-108.84607,Well
+Locin Oil Bond Claim,TAIGA FED 9J-21-4-102(OWP),315214,Location ID,103-08088,Same as Well (on-site),Fee,Federal,39.68295,-108.84516,Well
+Lasso Bond Claim,CONTINENTAL 4-8 (OWP),315215,Location ID,103-08090,Same as Well (on-site),Federal,Federal,39.79967,-108.64312,Well
+Lasso Bond Claim,CONTINENTAL 4-17 (OWP),315218,Location ID,103-08093,None,Fee,Fee,39.78546,-108.6343,Well
+Lasso Bond Claim,FEE 2-7 (OWP),315219,Location ID,103-08094,Same as Well (on-site),Fee,Fee,39.80753,-108.65275,Well
+Locin Oil Bond Claim,KIRBY-EIDSON 3-33 (OWP),315222,Location ID,103-08099,None,Fee,Fee,39.661749,-108.854974,Well
+Lasso Bond Claim,CONTINENTAL 3-17 (OWP),315226,Location ID,103-08106,Same as Well (on-site),Federal,Federal,39.78329,-108.64421,Well
+Lasso Bond Claim,CONTINENTAL 2-17 (OWP),315227,Location ID,103-08107,Same as Well (on-site),Fee,Fee,39.78972,-108.64513,Well
+Lasso Bond Claim,C & K 1-7 (OWP),315228,Location ID,103-08108,Same as Well (on-site),Federal,Federal,39.79941,-108.65765,Well
+Lasso Bond Claim,CONTINENTAL 1-17 (OWP),315238,Location ID,103-08123,Same as Well (on-site),Federal,Federal,39.79402,-108.63418,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 1-31 (OWP),315243,Location ID,103-08133,Same as Well (on-site),Federal,Federal,39.925483,-108.769283,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 12-32 (OWP),315250,Location ID,103-08148,Same as Well (on-site),Federal,Federal,39.916867,-108.7619,Well
+Locin Oil Bond Claim,FORK UNIT 11-7 (OWP),315251,Location ID,103-08151,Same as Well (on-site),Federal,Federal,39.8882,-108.777183,Well
+Lasso Bond Claim,CONTINENTAL 2-28 (OWP),315263,Location ID,103-08186,Same as Well (on-site),Federal,Federal,39.75612,-108.63017,Well
+Lasso Bond Claim,CONTINENTAL 3-29 (OWP),315271,Location ID,103-08215,Same as Well (on-site),Federal,Federal,39.75331,-108.63513,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 6-11-1-2 (OWP),315277,Location ID,103-08223,Same as Well (on-site),Federal,Federal,39.97705,-108.81425,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 11-15-1-2 (OWP),315279,Location ID,103-08227,Same as Well (on-site),Federal,Federal,39.959783,-108.831433,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 2-15-1-2 (OWP),315280,Location ID,103-08228,Same as Well (on-site),Federal,Federal,39.964642,-108.826307,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 6-15-1-2 (OWP),315281,Location ID,103-08229,Same as Well (on-site),Federal,Federal,39.96395,-108.830367,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 7-11-1-2 (OWP),315282,Location ID,103-08231,Same as Well (on-site),Federal,Federal,39.978567,-108.805567,Well
+Lasso Bond Claim,CONTINENTAL 1-9 (OWP),315284,Location ID,103-08234,Same as Well (on-site),Federal,Federal,39.79639,-108.62765,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 1-22-1-2 (OWP),315307,Location ID,103-08274,Same as Well (on-site),Federal,Federal,39.9527,-108.82335,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 10-22-1-2 (OWP),315310,Location ID,103-08284,Same as Well (on-site),Federal,Federal,39.943967,-108.82535,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 14-22-1-2 (OWP),315311,Location ID,103-08285,Same as Well (on-site),Federal,Federal,39.94235,-108.830517,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 6-18-1-1 (OWP),315312,Location ID,103-08286,Same as Well (on-site),Federal,Federal,39.96585,-108.777683,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 11-18-1-1 (OWP),315314,Location ID,103-08288,Same as Well (on-site),Federal,Federal,39.959017,-108.7781,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 16-18-1-1 (OWP),315315,Location ID,103-08289,Same as Well (on-site),Federal,Federal,39.956967,-108.76755,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 11-12-1-2 (OWP),315340,Location ID,103-08326,Same as Well (on-site),Federal,Federal,39.973867,-108.7924,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 15-12-1-2 (OWP),315343,Location ID,103-08335,Same as Well (on-site),Federal,Federal,39.9711,-108.7875,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 7-12-1-2 (OWP),315344,Location ID,103-08336,Same as Well (on-site),Federal,Federal,39.978367,-108.788517,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 20,315357,Location ID,103-08361,,Federal,Federal,39.87202,-108.7176,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 21,315358,Location ID,103-08362,,Federal,Federal,39.87629,-108.71178,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 22,315359,Location ID,103-08363,,Federal,Federal,39.8789,-108.70293,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 25,315360,Location ID,103-08366,,Federal,Federal,39.87989,-108.72161,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 31,315366,Location ID,103-08377,,Federal,Federal,39.90262,-108.69448,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 35,315367,Location ID,103-08379,,Federal,Federal,39.90965,-108.68428,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 38,315368,Location ID,103-08380,,Federal,Federal,39.90757,-108.69636,Well
+Lasso Bond Claim,CONTINENTAL 2-21 (OWP),315373,Location ID,103-08399,Same as Well (on-site),Federal,Federal,39.76843,-108.61708,Well
+Lasso Bond Claim,CONTINENTAL 7-22 (OWP),315374,Location ID,103-08400,Same as Well (on-site),Federal,Federal,39.77088,-108.6102,Well
+Locin Oil Bond Claim,FORK UNIT 5-3-2-2 (OWP),315376,Location ID,103-08405,Site ID 469704 (off-site),Federal,Federal,39.903417,-108.834983,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 4-12-1-2 (OWP),315377,Location ID,103-08406,Same as Well (on-site),Federal,Federal,39.979633,-108.7986,Well
+Lasso Bond Claim,CONTINENTAL 3-28 (OWP),315378,Location ID,103-08407,Same as Well (on-site),Federal,Federal,39.7565,-108.62203,Well
+Lasso Bond Claim,CONTINENTAL 4-28 (OWP),315379,Location ID,103-08408,Same as Well (on-site),Federal,Federal,39.76343,-108.61896,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 12-7-1-1 (OWP),315389,Location ID,103-08425,Site ID 315343 (off-site),Federal,Federal,39.973633,-108.779883,Well
+Locin Oil Bond Claim,N. DOUGLAS CREEK 13-33-1-1 (OWP),315394,Location ID,103-08435,Same as Well (on-site),Federal,Federal,39.914983,-108.744383,Well
+Locin Oil Bond Claim,FORK UNIT FEDERAL 6-19-1-1W (OWP),315397,Location ID,103-08440,Same as Well (on-site),Federal,Federal,39.949867,-108.777717,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 11-31-1-1 (OWP),315403,Location ID,103-08447,Same as Well (on-site),Federal,Federal,39.918067,-108.7759,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK-FED 39,315411,Location ID,103-08457,,Federal,Federal,39.91806,-108.73568,Well
+Stehle Oil Bond Claim,PINNACLE UNIT 10-30 (OWP),315412,Location ID,103-08459,Same as Well (on-site),Federal,Federal,40.201765,-107.083912,Well
+Locin Oil Bond Claim,NO. DOUGLAS CREEK-FEDERAL 3-4-2-1 (OWP),315415,Location ID,103-08462,Same as Well (on-site),Federal,Federal,39.909433,-108.741567,Well
+Locin Oil Bond Claim,N. DOUGLAS CREEK 3-33-1-1 (OWP),315416,Location ID,103-08463,Same as Well (on-site),Federal,Federal,39.9247,-108.741033,Well
+Locin Oil Bond Claim,FORK UNIT FEDERAL 16-17-1 16-17-1 (OWP),315417,Location ID,103-08464,Site ID 315315 (off-site),Federal,Federal,39.958767,-108.7494,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 9-19-1-1 (OWP),315420,Location ID,103-08467,Site ID 315421 (off-site),Federal,Federal,39.945163,-108.769254,Well
+Locin Oil Bond Claim,FORK UNIT FEDERAL 8-19-1-1 (OWP),315421,Location ID,103-08468,Same as Well (on-site),Federal,Federal,39.950904,-108.768701,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 4-19-1-1 (OWP),315422,Location ID,103-08469,Site ID 315397 (off-site),Federal,Federal,39.953217,-108.779583,Well
+Locin Oil Bond Claim,FORK UNIT FEDERAL 5-17-1-1 (OWP),315428,Location ID,103-08483,,Federal,Federal,39.963817,-108.763117,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 6-14-1-2 (OWP),315429,Location ID,103-08485,,Federal,Federal,39.963283,-108.814183,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 7-14-1-2 (OWP),315430,Location ID,103-08486,,Federal,Federal,39.963617,-108.808117,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 2-29-1-1 (OWP),315432,Location ID,103-08488,,Federal,Federal,39.937367,-108.75523,Well
+Lasso Bond Claim,CONTINENTAL 2-20 (OWP),315433,Location ID,103-08489,Same as Well (on-site),Federal,Federal,39.77116,-108.64428,Well
+Lasso Bond Claim,CONTINENTAL 3-8 (OWP),315434,Location ID,103-08490,Same as Well (on-site),Federal,Federal,39.79705,-108.63706,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 4-7-1-1 (OWP),315440,Location ID,103-08499,,Federal,Federal,39.981667,-108.77945,Well
+RETAMCO Bond Claim,PHILADELPHIA CREEK 40,315451,Location ID,103-08514,,Federal,Federal,39.92975,-108.73419,Well
+Lasso Bond Claim,C & K 1-18 (OWP),315455,Location ID,103-08524,Same as Well (on-site),Federal,Federal,39.78928,-108.65704,Well
+Lasso Bond Claim,CONTINENTAL 6-22 (OWP),315465,Location ID,103-08540,Same as Well (on-site),Federal,Federal,39.77488,-108.6119,Well
+Locin Oil Bond Claim,TAIGA MTN FED 13-16-1-103(OWP),315468,Location ID,103-08549,,Federal,Federal,39.96686,-108.96847,Well
+Locin Oil Bond Claim,RANGLEY SOUTH FED 13-1-1-102(OWP),315473,Location ID,103-08557,,Federal,Federal,40.00338,-108.79685,Well
+Locin Oil Bond Claim,ROCK CANYON FED 9-34-4-101(OWP),315479,Location ID,103-08568,,Federal,Federal,39.65732,-108.70822,Well
+Lasso Bond Claim,CONTINENTAL 3-16 (OWP),315483,Location ID,103-08578,Same as Well (on-site),Federal,Federal,39.78089,-108.62843,Well
+Locin Oil Bond Claim,GENTRY 7-29-4-103(OWP),315484,Location ID,103-08579,None,Fee,Fee,39.67877,-108.97908,Well
+Locin Oil Bond Claim,GENTRY 15-29-4-103 OWP,315485,Location ID,103-08580,None,Fee,Fee,39.68869,-108.97849,Well
+Locin Oil Bond Claim,ARCO FED 4-22-4-103(OWP),315493,Location ID,103-08596,,Federal,Federal,39.69114,-108.94775,Well
+Lasso Bond Claim,COORS 4-15 (OWP),315495,Location ID,103-08599,Same as Well (on-site),Federal,Federal,39.78261,-108.59834,Well
+Locin Oil Bond Claim,FORK UNIT 6-8-2-1 (OWP),315498,Location ID,103-08602,,Federal,Federal,39.8926,-108.758817,Well
+Locin Oil Bond Claim,ROCK CANYON FED 2-34-4-101(OWP),315499,Location ID,103-08603,,Fee,Federal,39.65158,-108.71246,Well
+Lasso Bond Claim,C & K 2-24 (OWP),315509,Location ID,103-08625,Same as Well (on-site),Federal,Federal,39.77812,-108.68141,Well
+Locin Oil Bond Claim,FORK UNIT 2-1-2-2 (OWP),315525,Location ID,103-08653,,Federal,Federal,39.909517,-108.787867,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 4-27-1-2 (OWP),315526,Location ID,103-08656,,Federal,Federal,39.9364,-108.835633,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 1-23-1-2 (OWP),315528,Location ID,103-08659,,Federal,Federal,39.950633,-108.805167,Well
+Lasso Bond Claim,COORS 8-22 (OWP),315538,Location ID,103-08673,Same as Well (on-site),Federal,Federal,39.76884,-108.60319,Well
+Lasso Bond Claim,TERRA 1-27X (OWP),315543,Location ID,103-08682,Same as Well (on-site),Federal,Federal,39.76256,-108.60896,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 13-24-4-104(OWP),311820,Location ID,103-08715,Same as Well (on-site),Fee,Fee,39.70146,-109.02729,Well
+Lasso Bond Claim,SHENANDOAH 6-18 (OWP),315563,Location ID,103-08718,Same as Well (on-site),Federal,Federal,39.87685,-108.65883,Well
+Locin Oil Bond Claim,RANGELY SOUTH FED 4-1-1-102 (OWP),315564,Location ID,103-08719,,Federal,Federal,39.98572,-108.79704,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 12-13-1-2 (OWP),315574,Location ID,103-08743,,Federal,Federal,39.9581,-108.79795,Well
+Northstar Gas Bond Claim,FEDERAL 9-17-1-103(OWP),315578,Location ID,103-08749,Same as Well (on-site),Federal,Federal,39.96254,-108.9725,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 8-32-4-103(OWP),315588,Location ID,103-08768,,Federal,Federal,39.66518,-108.97328,Well
+Locin Oil Bond Claim,ARCO FED 3-28-4-103(OWP),315616,Location ID,103-08822,,Federal,Federal,39.67671,-108.96561,Well
+Locin Oil Bond Claim,COLUMBINE SPRINGS 8-11-4-104 WDW(OWP),315617,Location ID,103-08825,,Federal,Federal,39.72349,-109.0314,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 12-13-4-104(OWP),315619,Location ID,103-08839,,Federal,Federal,39.71298,-109.02674,Well
+Lasso Bond Claim,DIAMOND-SHAMROCK-FEDERAL 1-5 (OWP),315628,Location ID,103-08857,Same as Well (on-site),Federal,Federal,39.81891,-108.6374,Well
+Northstar Gas Bond Claim,FEDERAL 8-23 (OWP),315631,Location ID,103-08864,Same as Well (on-site),Federal,Federal,40.0393,-108.91616,Well
+Locin Oil Bond Claim,ARCO FED 4-33-4-103(OWP),315637,Location ID,103-08882,,Federal,Federal,39.66146,-108.96891,Well
+Locin Oil Bond Claim,FORK UNIT 16-5-2-1 (OWP),315641,Location ID,103-08887,,Federal,Federal,39.900967,-108.749533,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 8-13-1-2 (OWP),315643,Location ID,103-08898,,Federal,Federal,39.964433,-108.786733,Well
+Northstar Gas Bond Claim,FEDERAL 6-22 (OWP),315653,Location ID,103-08920,Same as Well (on-site),Federal,Federal,40.03942,-108.94495,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 9-14-1-2 (OWP),315654,Location ID,103-08921,,Federal,Federal,39.9574,-108.8029,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 4-14-1-2 (OWP),315655,Location ID,103-08922,,Federal,Federal,39.965117,-108.818033,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 12-11-1-2 (OWP),315659,Location ID,103-08930,,Federal,Federal,39.974101,-108.815959,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 9-25-4-104(OWP),315660,Location ID,103-08933,,Federal,Federal,39.68371,-109.01337,Well
+Locin Oil Bond Claim,RANGELY SOUTH FED 21-3-1-102(OWP),315668,Location ID,103-08968,,Federal,Federal,40.00243,-108.83481,Well
+Locin Oil Bond Claim,KIRBY-EIDSON 28-4 (OWP),315669,Location ID,103-08974,Same as Well (on-site),Fee,Fee,39.66996,-108.856674,Well
+Northstar Gas Bond Claim,FEDERAL 16-22 (OWP),315680,Location ID,103-08999,Same as Well (on-site),Federal,Federal,40.0462,-108.93611,Well
+Locin Oil Bond Claim,COLUMBINE SP 11-11-4-104 WDW(OWP),311823,Location ID,103-09000,,Federal,Federal,39.72736,-109.04148,Well
+Locin Oil Bond Claim,RANGELY SOUTH FED 18-3-1-102(OWP),315688,Location ID,103-09023,,Federal,Federal,39.99878,-108.82722,Well
+Locin Oil Bond Claim,RANGELY SOUTH FED 9-4-1-102 (OWP),315691,Location ID,103-09026,,Federal,Federal,39.99222,-108.83929,Well
+Locin Oil Bond Claim,TAIGA MTN 13-13-1-103(OWP),315697,Location ID,103-09040,,Federal,Federal,40.06125,-108.91097,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 12-14-1-2 (OWP),315724,Location ID,103-09128,,Federal,Federal,39.957617,-108.817133,Well
+Locin Oil Bond Claim,FEDERAL 33-1 (OWP),315779,Location ID,103-09219,,Federal,Federal,39.671001,-108.955188,Well
+Locin Oil Bond Claim,FORK UNIT-FEDERAL 14-14-1-2 (OWP),315782,Location ID,103-09224,,Federal,Federal,39.955567,-108.812633,Well
+Locin Oil Bond Claim,FORK UNIT 7-8-2-1 (OWP),315783,Location ID,103-09225,,Federal,Federal,39.891867,-108.754317,Well
+Locin Oil Bond Claim,W. DRAGON TRAIL FED 6-6-3-2 (OWP),315809,Location ID,103-09286,,Federal,Federal,39.818417,-108.88905,Well
+Locin Oil Bond Claim,FORK UNIT 7-22-1-2 (OWP),315887,Location ID,103-09380,,Federal,Federal,39.94845,-108.827217,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY FED 16-31-1N-2(OWP),315892,Location ID,103-09387,,Federal,Federal,40.0076,-108.860117,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY FED 3-9-1S-2 (OWP),315893,Location ID,103-09388,,Federal,Federal,39.980817,-108.8505,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 12-8-1S-2 (OWP),315896,Location ID,103-09397,,Federal,Federal,39.972933,-108.87405,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 1-8-1-2 (OWP),315899,Location ID,103-09407,,Federal,Federal,39.980817,-108.859383,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 10-8-1-2 (OWP),315900,Location ID,103-09408,,Federal,Federal,39.972683,-108.862967,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 9-5-1-2 (OWP),315901,Location ID,103-09411,,Federal,Federal,39.987867,-108.859783,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 5-9-1-2 (OWP),315902,Location ID,103-09413,,Federal,Federal,39.977751,-108.854201,Well
+Locin Oil Bond Claim,SW RANGELY 2-1-1-3 (OWP),315903,Location ID,103-09414,,Federal,Federal,39.994183,-108.901267,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 10-7-1-2 (OWP),315957,Location ID,103-09473,,Federal,Federal,39.973817,-108.883133,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 1-7-1-2 (OWP),315958,Location ID,103-09474,,Federal,Federal,39.9822,-108.8783,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 4-17-1-2 (OWP),315959,Location ID,103-09475,,Federal,Federal,39.96675,-108.8738,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 15-5-1-2 (OWP),315968,Location ID,103-09495,,Federal,Federal,39.984267,-108.863733,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 2-18-1-2 (OWP),315969,Location ID,103-09498,,Federal,Federal,39.96625,-108.883133,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 10-18-1-2 (OWP),315970,Location ID,103-09499,,Federal,Federal,39.959317,-108.88295,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY 12-18-1-2 (OWP),315971,Location ID,103-09500,,Federal,Federal,39.958833,-108.891817,Well
+31 Operating Bond Claim,FEDERAL B-13-2-97-N (OWP),315975,Location ID,103-09512,None,Federal,Federal,40.145763,-108.223394,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY FED 14-18-1-2 (OWP),315977,Location ID,103-09516,,Federal,Federal,39.95545,-108.888683,Well
+Locin Oil Bond Claim,S W RANGELY FED 6-8-1-2 (OWP),315992,Location ID,103-09543,,Federal,Federal,39.976433,-108.867333,Well
+Locin Oil Bond Claim,WEST DRAGON TRAIL 2-6-3-2 (OWP),315993,Location ID,103-09554,,Federal,Federal,39.82005,-108.885383,Well
+31 Operating Bond Claim,WILDLIFE 3-1 (OWP),315995,Location ID,103-09563,None,Fee,Fee,40.090227,-108.260718,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY FED 11-4-1-2 (OWP),316010,Location ID,103-09582,,Federal,Federal,39.9879,-108.85035,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY FED 9-4-1-2X (OWP),316011,Location ID,103-09583,,Federal,Federal,39.98915,-108.8421,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY FED 22L-4-1-2 (OWP),316024,Location ID,103-09609,,Federal,Federal,39.994567,-108.844967,Well
+Locin Oil Bond Claim,SOUTHWEST RANGELY FED 24L-3-1-2 (OWP),316025,Location ID,103-09610,,Federal,Federal,39.996317,-108.8374,Well
+Locin Oil Bond Claim,WEST DRAGON TRAIL 4-32-2-2 (OWP),316045,Location ID,103-09648,,Federal,Federal,39.836733,-108.874133,Well
+31 Operating Bond Claim,WRD FEDERAL 20-1 (OWP),316056,Location ID,103-09686,None,Federal,Federal,40.133556,-108.294384,Well
+Locin Oil Bond Claim,CATHEDRAL FEDERAL 13-11 (OWP),316066,Location ID,103-09702,,Federal,Federal,39.872383,-108.794783,Well
+Locin Oil Bond Claim,ROBERTS GOVERNMENT 1-4-3-2 (OWP),316091,Location ID,103-09765,,Federal,Federal,39.821267,-108.843133,Well
+31 Operating Bond Claim,WRD FEDERAL 22-13 (OWP),316104,Location ID,103-09792,Same as Well (on-site),Federal,Federal,40.123044,-108.268002,Well
+31 Operating Bond Claim,PARKER 4-35 (OWP),316192,Location ID,103-09976,None,Fee,Fee,40.093065,-108.247817,Well
+31 Operating Bond Claim,WRD FEDERAL 1-1 (OWP),316223,Location ID,103-10047,Same as Well (on-site),Federal,Federal,40.081371,-108.233165,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 3-9-1-103 (OWP),316230,Location ID,103-10064,,Federal,Federal,39.97117,-108.96412,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 5-17-1-103(OWP),316236,Location ID,103-10076,,Federal,Federal,39.95936,-108.98659,Well
+31 Operating Bond Claim,WRD FEDERAL 30-12 (OWP),316263,Location ID,103-10124,Same as Well (on-site),Federal,Federal,40.117182,-108.210002,Well
+Locin Oil Bond Claim,SW RANGELY FED 12-4-1-102(OWP),316264,Location ID,103-10125,,Federal,Federal,39.99283,-108.85473,Well
+Locin Oil Bond Claim,SW RANGELY FED 24-4-1-102(OWP),316265,Location ID,103-10126,,Federal,Federal,40.00406,-108.84075,Well
+Locin Oil Bond Claim,SW RANGELY FED 14-4-1-102(OWP),316266,Location ID,103-10127,,Federal,Federal,39.99567,-108.85024,Well
+Locin Oil Bond Claim,SW  RANGELY FED 17-4-1-102(OWP),316267,Location ID,103-10128,,Federal,Federal,40.00039,-108.84095,Well
+31 Operating Bond Claim,ANT HILL UNIT 30-23 (OWP),336445,Location ID,103-10137,Same as Well (on-site),Federal,Federal,40.114899,-108.209814,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 1-18-1-103(OWP),316288,Location ID,103-10155,,Federal,Federal,39.95576,-108.99318,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 5-9-1-103 (OWP),316289,Location ID,103-10156,,Federal,Federal,39.97332,-108.96808,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 15-17-1-103(OWP),316290,Location ID,103-10157,,Federal,Federal,39.96583,-108.97811,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 11-17-1-103(OWP),316291,Location ID,103-10158,,Federal,Federal,39.96248,-108.98224,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 8-14-4-104(OWP),316292,Location ID,103-10159,,Federal,Federal,39.70855,-109.03254,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 9C-14-4-104(OWP),316293,Location ID,103-10160,,Federal,Federal,39.71426,-109.03323,Well
+31 Operating Bond Claim,WRD FEDERAL 31-13W (OWP),336396,Location ID,103-10162,Same as Well (on-site),Federal,Federal,40.103952,-108.205508,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 8-9-1-103 (OWP),316305,Location ID,103-10203,,Federal,Federal,39.97481,-108.95528,Well
+31 Operating Bond Claim,ANT HILL UNIT DOW 18-44 (OWP),316306,Location ID,103-10209,Same as Well (on-site),Fee,Federal,40.13673,-108.200036,Well
+31 Operating Bond Claim,ANT HILL UNIT 19-24 (OWP),316311,Location ID,103-10219,Same as Well (on-site),Fee,Federal,40.128729,-108.200335,Well
+31 Operating Bond Claim,ANT HILL UNIT 28-44 (OWP),316312,Location ID,103-10221,Same as Well (on-site),Federal,Federal,40.107542,-108.164355,Well
+31 Operating Bond Claim,ANT HILL UNIT 12-33 (OWP),316318,Location ID,103-10234,None,Federal,Federal,40.154514,-108.224726,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 8-18-1-103(OWP),316322,Location ID,103-10239,,Federal,Federal,39.96109,-108.9928,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 4-18-1-103(OWP),311839,Location ID,103-10248,,Federal,Federal,39.95736,-109.00556,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 12-18-1-103(OWP),316324,Location ID,103-10249,,Federal,Federal,39.96471,-109.00426,Well
+31 Operating Bond Claim,Federal 7-29 (OWP),316325,Location ID,103-10253,None,Federal,Federal,40.114431,-108.299654,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 15-19D-1-103(OWP),316329,Location ID,103-10263,,Federal,Federal,39.95394,-108.99618,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 16-19-1-103(OWP),316342,Location ID,103-10311,,Federal,Federal,39.95125,-108.99231,Well
+Lasso Bond Claim,FEDERAL 12-18 (OWP),316346,Location ID,103-10321,Same as Well (on-site),Federal,Federal,39.7847,-108.66725,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 3-18-1-103(OWP),316368,Location ID,103-10379,,Federal,Federal,39.95461,-109.00024,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 7-18-1-103(OWP),316371,Location ID,103-10386,,Federal,Federal,39.96057,-108.99796,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 12A-18-1-103(OWP),316379,Location ID,103-10409,,Federal,Federal,39.96148,-109.00555,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 16-18-1-103(OWP),316380,Location ID,103-10410,,Federal,Federal,39.96519,-108.99176,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 10-19-1-103(OWP),316381,Location ID,103-10411,,Federal,Federal,39.94792,-108.99589,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 10-18-1-103(OWP),316382,Location ID,103-10412,,Federal,Federal,39.9643,-108.99693,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 2-7-1-103 (OWP),316383,Location ID,103-10418,,Federal,Federal,39.97039,-108.99499,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 4-7-1-103 (OWP),316384,Location ID,103-10420,,Federal,Federal,39.96938,-109.0048,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 13-17-1-103(OWP),316385,Location ID,103-10421,,Federal,Federal,39.96664,-108.98705,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 13-20-1-103(OWP),316386,Location ID,103-10422,,Federal,Federal,39.95326,-108.9866,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 14-18-1-103(OWP),316389,Location ID,103-10426,,Federal,Federal,39.96715,-109.00035,Well
+Locin Oil Bond Claim,COLUMBINE SP FED 2C-2-4-104(OWP),316404,Location ID,103-10450,,Federal,Federal,39.73471,-109.03679,Well
+Locin Oil Bond Claim,COLUMBINE SP FED #1C-23-4-104(OWP),316416,Location ID,103-10478,,Federal,Federal,39.69172,-109.03289,Well
+Locin Oil Bond Claim,BANTA RIDGE FED 3-17-1-103(OWP),316419,Location ID,103-10487,,Federal,Federal,39.95635,-108.98076,Well
+Locin Oil Bond Claim,CS FED NAV 13A-12-4-104 WD(OWP),316526,Location ID,103-10724,,Federal,Federal,39.72317,-109.02753,Well
+Locin Oil Bond Claim,COLUMBINE SP FEE #5C-24-4-104(OWP),316530,Location ID,103-10739,None,Fee,Fee,39.69441,-109.0257,Well
+Locin Oil Bond Claim,COLUMBINE SP FEE #13C-24-4-104(OWP),311851,Location ID,103-10740,None,Fee,Fee,39.70126,-109.02734,Well
+Locin Oil Bond Claim,COLUMBINE SP FED #43C-14-4-104(OWP),316537,Location ID,103-10749,,Federal,Federal,39.70915,-109.03298,Well
+31 Operating Bond Claim,LOVE FEDERAL 17-42 (OWP),316584,Location ID,103-10898,Same as Well (on-site),Fee,Federal,40.136842,-108.190553,Well
+31 Operating Bond Claim,LOVE FEDERAL 17-21 (OWP),316585,Location ID,103-10899,Same as Well (on-site),Fee,Federal,40.1441,-108.19576,Well
+31 Operating Bond Claim,STARLIGHT FEDERAL 18-23 (OWP),316588,Location ID,103-10902,Same as Well (on-site),Federal,Federal,40.144996,-108.203575,Well
+RETAMCO Bond Claim,N. BARCUS CREEK 2-12,316640,Location ID,103-11014,,Federal,Federal,40.07403,-108.44783,Well
+RETAMCO Bond Claim,N. BARCUS CREEK 1-12,316641,Location ID,103-11015,,Federal,Federal,40.07148,-108.45481,Well
+Unknown Operators - Rangely Field,RANGELY UNKNOWN 15 (OWP),399049,Location ID,103-12439,None,Fee,Federal,40.07112,-108.80064,Well
+Unknown Operators - Rangely Field,RANGELY UNKNOWN 20 (OWP),399041,Location ID,103-12445,None,State,Federal,40.07341,-108.80998,Well
+Unknown Operators - Rangely Field,RANGELY UNKNOWN 21 (OWP),397205,Location ID,103-12447,None,State,Federal,40.07302,-108.81455,Well
+Unknown Operators - Rangely Field,Rangely Unknown 31 (OWP),479216,Location ID,103-12492,None,Federal,Federal,40.091041,-108.85259,Well
+Unknown Operators - Rangely Field,United 8-S-6 (OWP),479217,Location ID,103-12493,None,Federal,Federal,40.08267,-108.87847,Well
+Rio Mesa Bond Claim,WOOSLEY 3 (OWP),316696,Location ID,103-40007,None,Federal,Federal,40.070831,-108.781519,Well
+Schumacher* John Federal Bond Claim,USA CO 06412 #6,398866,Location ID,103-40078,None,Federal,Federal,40.080796,-108.760332,Well
+Unknown Operators - Rangely Field,DENVER-GOVERNMENT 10 (OWP),399042,Location ID,103-40298,None,State,Federal,40.072426,-108.809753,Well
+Husky Oil Federal Bond Claim,HUSKY OIL CO 5 (OWP),399056,Location ID,103-40358,None,Federal,Federal,40.078126,-108.769622,Well
+Lasso Bond Claim,PHILLIPS S-10 (OWP),316725,Location ID,103-60008,Same as Well (on-site),Federal,Federal,40.09592,-108.91276,Well
+Lasso Bond Claim,TRANCO 3A (OWP),316726,Location ID,103-60014,Site ID 481293 (off-site),Federal,Federal,40.07175,-108.77228,Well
+Shawnee Bond Claim,DILL GULCH 1-17 (OWP),316744,Location ID,107-06019,Same as Well (on-site),Fee,Federal,40.38535,-107.40393,Well
+Ricker Farms Bond Claim,"RICKER, J C 1 (OWP)",316883,Location ID,115-05001,Same as Well (non-contiguous site),Fee,Fee,40.75831,-102.44145,Well
+PCR Bond Claim,PRICE 13-25 (OWP),316887,Location ID,115-06056,,Fee,Fee,40.81487,-102.55363,Well
+Yates Bond Claim,FULSCHER 943-16-12 (OWP),316895,Location ID,115-06068,Same as Well (on-site),Fee,State,40.75723,-102.14902,Well
+Yates Bond Claim,FULSCHER 943-16-42 (OWP),316896,Location ID,115-06069,Same as Well (on-site),Fee,State,40.7577,-102.13425,Well
+Yates Bond Claim,Fulscher State 943-16-34 (OWP),316897,Location ID,115-06070,Same as Well (on-site),Fee,State,40.750438,-102.138307,Well
+Yates Bond Claim,FULSCHER 943-15-23 (OWP),316899,Location ID,115-06072,Same as Well (on-site),Fee,Fee,40.75436,-102.12444,Well
+Yates Bond Claim,Fulscher 943-15-14 (OWP),420896,Location ID,115-06093,Same as Well (on-site),Fee,Fee,40.751701,-102.129906,Well
+Yates Bond Claim,Fulscher 943-15-34 (OWP),424619,Location ID,115-06094,Same as Well (on-site),Fee,Fee,40.752417,-102.1215,Well
+Yates Bond Claim,SKOLD RANCH 946-14-21 (OWP),426265,Location ID,115-06095,,Fee,Fee,40.76167,-102.452774,Well
+Yates Bond Claim,SKOLD FARMS 946-15-43 (OWP),426322,Location ID,115-06096,Same as Well (on-site),Fee,Fee,40.753105,-102.46068,Well
+Yates Bond Claim,POWELL-ROTEN 946-2-14 (OWP),426557,Location ID,115-06097,Same as Well (on-site),Fee,Fee,40.780222,-102.455611,Well
+Yates Bond Claim,SKOLD FARMS 946-11-23 (OWP),426561,Location ID,115-06098,Same as Well (on-site),Fee,Fee,40.768187,-102.449881,Well
+PCR Bond Claim,POWELL-ROTEN 946-2-13 (OWP),426560,Location ID,115-06100,,Fee,Fee,40.78244,-102.454616,Well
+Yates Bond Claim,Vieselmeyer State 943-16-24 (OWP),427091,Location ID,115-06103,Same as Well (on-site),Fee,State,40.750873,-102.14509,Well
+Yates Bond Claim,FULSCHER STATE 943-16-44 (OWP),427400,Location ID,115-06104,Same as Well (on-site),Fee,State,40.751889,-102.135667,Well
+Yates Bond Claim,FULSCHER 943-15-33 (OWP),427489,Location ID,115-06105,Same as Well (on-site),Fee,Fee,40.755889,-102.12225,Well
+Kugel #1-B,KUGEL 1-B (OWP),400833,Location ID,121-06298,None,Fee,Fee,39.927185,-103.704984,Well
+Hogsett #3,HOGSETT 3 (OWP),400864,Location ID,121-06330,None,Fee,Fee,39.932625,-103.704964,Well
+Koch* Delbert Bond Claim,SAMPSON 1 (OWP),401730,Location ID,121-07295,None,Fee,Fee,40.236784,-103.138719,Well
+High Plains Bond Claim,State Hone 16-1 (OWP),431098,Location ID,121-11019,Same as Well (on-site),State,State,39.87878,-103.55275,Well
+Carey Drilling - State #1,STATE 1 (OWP),405258,Location ID,123-05609,None,State,State,40.715556,-103.592037,Well
+Nebraska Drillers - Government 1,GOVERNMENT 1 (OWP),405604,Location ID,123-05993,None,State,Federal,40.986753,-103.638051,Well
+Tidal Wave Bond Claim,DOLAN RANCHES 13-27 (OWP),317614,Location ID,123-07364,Same as Well (on-site),Fee,Fee,40.89008,-103.968462,Well
+Churchill Bond Claim,KINSMAN UNIT 1-18 (OWP),317672,Location ID,123-07545,Same as Well (on-site),Fee,Fee,40.307543,-104.709291,Well
+Painted Pegasus Bond Claim,SIRIOS BROTHERS 2A (OWP),317965,Location ID,123-08053,Same as Well (on-site),Fee,Fee,40.100408,-104.232408,Well
+Smith Oil Properties Bond Claim,ANDREWS(LANYARD WATERFLOOD) 23-18 (OWP),317994,Location ID,123-08129,Site ID 477374 (off-site),Fee,Fee,40.13656,-104.36906,Well
+Smith Oil Properties Bond Claim,PRESTON (LANYARD WATERFLOOD) 33-18 (OWP),318011,Location ID,123-08176,Site ID 477374 (off-site),Fee,Fee,40.13672,-104.36467,Well
+Smith Oil Properties Bond Claim,PRESTON (LANYARD WATERFLOOD) 42-18 (OWP),318012,Location ID,123-08177,Site ID 477374 (off-site),Fee,Fee,40.14039,-104.35978,Well
+Painted Pegasus Bond Claim,SARGENT FARMS 2-B (OWP),318036,Location ID,123-08263,Site ID 474382 (off-site),Fee,Fee,40.11117,-104.37858,Well
+Fortitude Federal Bond Claim,U S A 21-6 (OWP),318871,Location ID,123-10141,Same as Well (non-contiguous site),Federal,Federal,40.9609,-103.68005,Well
+Woodland Bond Claim,ROCKWELL 1 (OWP),322587,Location ID,123-11690,Same as Well (on-site),Fee,Fee,40.28583,-105.03036,Well
+Barrett Resources Bond Claim,MOSSBERG 1 (OWP),322678,Location ID,123-11942,None,Fee,Fee,40.365014,-104.815353,Well
+Tigges Oil Bond Claim,TIGGES 3-31B (OWP),327053,Location ID,123-14072,Same as Well (non-contiguous site),Fee,Fee,40.44902,-104.82349,Well
+Smith Energy Corp Bond Claim,RICHMOND 22-1 (OWP),327731,Location ID,123-15082,Site ID 475628 (off-site),Fee,Fee,40.472168,-104.198274,Well
+Smith Energy Corp Bond Claim,EISENHAUR 1-3 (OWP),331352,Location ID,123-20548,Same as Well (on-site),Fee,Fee,40.601111,-103.631137,Well
+Goodwin Energy Bond Claim,BRNAK 21-10 (OWP),305640,Location ID,123-23292,Site ID xyz (off-site),Fee,Fee,40.07136,-104.53922,Well
+Phoenix Resources Bond Claim,Cass Farms 11-9H (OWP),420717,Location ID,123-32689,,Fee,Fee,40.59502,-104.33457,Well
+Phoenix Resources Bond Claim,Siefkin 11-30H (OWP),424135,Location ID,123-33901,,Fee,Fee,40.55146,-104.2582,Well
+Omimex Petroleum Bond Claim,BLEDSOE 11-6-3-43 (OWP),302960,Location ID,125-02377,,Fee,Fee,40.25587,-102.2194,Well
+Omimex Petroleum Bond Claim,BLEDSOE (OWP) 13-17-3-43,302961,Location ID,125-02378,,Fee,Fee,40.22354,-102.2073,Well
+Voges #1,VOGES 1 (OWP),410385,Location ID,125-05167,None,Fee,Fee,40.354027,-102.158449,Well
+Jim Hutton Bond Claim,HUTTON 1-1 (OWP),303165,Location ID,125-06459,Same as Well (on-site),Fee,Fee,39.649916,-102.132093,Well
+Jim Hutton Bond Claim,HUTTON 1-35 (OWP),303175,Location ID,125-06472,Same as Well (on-site),Fee,Fee,39.579036,-102.151223,Well
+Omimex Petroleum Bond Claim,BLEDSOE 5-20-3-43 (OWP),304672,Location ID,125-08845,,Fee,Fee,40.21539,-102.20421,Well
+Omimex Petroleum Bond Claim,BLEDSOE (OWP) 12-30-3-43,304673,Location ID,125-08846,,Fee,Fee,40.19691,-102.22331,Well
+Omimex Petroleum Bond Claim,BLEDSOE 6-8-3-43 (OWP),304674,Location ID,125-08847,,Fee,Fee,40.24541,-102.20286,Well
+Omimex Petroleum Bond Claim,FERGUSON (OWP) 12-10-5-45,304701,Location ID,125-08887,,Fee,Fee,40.41414,-102.37407,Well
+Omimex Petroleum Bond Claim,Doud 43-5 (OWP),304702,Location ID,125-08888,,Fee,Fee,40.419563,-102.379951,Well
+Omimex Petroleum Bond Claim,BLEDSOE (OWP) 15-18-3-43,304804,Location ID,125-09004,,Fee,Fee,40.22243,-102.21417,Well
+Omimex Petroleum Bond Claim,BLEDSOE (OWP) 12-20-3-43,304805,Location ID,125-09006,,Fee,Fee,40.21187,-102.20413,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-31-4-43 (OWP),304807,Location ID,125-09009,,Fee,Fee,40.27482,-102.21367,Well
+Omimex Petroleum Bond Claim,BLEDSOE 14-6-3-43 (OWP),304809,Location ID,125-09013,,Fee,Fee,40.2506,-102.21878,Well
+Omimex Petroleum Bond Claim,BLEDSOE 4-6-3-43 (OWP),304841,Location ID,125-09054,,Fee,Fee,40.26104,-102.22503,Well
+Omimex Petroleum Bond Claim,BLEDSOE 1-6 (OWP),304842,Location ID,125-09055,,Fee,Fee,40.26191,-102.20969,Well
+Omimex Petroleum Bond Claim,BLEDSOE 1-25-3-44 (OWP),304867,Location ID,125-09083,,Fee,Fee,40.2026,-102.22768,Well
+Omimex Petroleum Bond Claim,BLEDSOE 8-1-3-44 (OWP),304873,Location ID,125-09090,,Fee,Fee,40.25691,-102.23031,Well
+Omimex Petroleum Bond Claim,BLEDSOE 8-32-4-43 (OWP),304889,Location ID,125-09106,,Fee,Fee,40.2711,-102.19224,Well
+Omimex Petroleum Bond Claim,BLEDSOE 4-7-3-43 (OWP),304890,Location ID,125-09107,,Fee,Fee,40.24753,-102.22377,Well
+Omimex Petroleum Bond Claim,BLEDSOE 1-12-3-44 (OWP),304891,Location ID,125-09108,,Fee,Fee,40.24766,-102.22755,Well
+Omimex Petroleum Bond Claim,BLEDSOE 4-17-3-43 (OWP),304892,Location ID,125-09109,,Fee,Fee,40.23154,-102.20593,Well
+Omimex Petroleum Bond Claim,BLEDSOE 6-30-3-43 (OWP),304893,Location ID,125-09111,,Fee,Fee,40.19974,-102.21837,Well
+Omimex Petroleum Bond Claim,BLEDSOE 5-30-3-43 (OWP),304894,Location ID,125-09112,Same as Well (on-site),Fee,Fee,40.20111,-102.22319,Well
+Omimex Petroleum Bond Claim,BLEDSOE 10-5-3-43 (OWP),304897,Location ID,125-09115,Same as Well (on-site),Fee,Fee,40.25607,-102.19695,Well
+Omimex Petroleum Bond Claim,BLEDSOE 9-6-3-43 (OWP),304898,Location ID,125-09116,,Fee,Fee,40.255,-102.21187,Well
+Omimex Petroleum Bond Claim,BLEDSOE 15-7-3-43 (OWP),304899,Location ID,125-09117,Same as Well (on-site),Fee,Fee,40.23637,-102.21399,Well
+Omimex Petroleum Bond Claim,BLEDSOE 14-32-4-43(OWP),304901,Location ID,125-09120,,Fee,Fee,40.26461,-102.20115,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-32-4-43(OWP),304903,Location ID,125-09122,,Fee,Fee,40.26584,-102.19045,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-6-3-43 (OWP),304935,Location ID,125-09169,,Fee,Fee,40.2581,-102.21361,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-5-3-43 (OWP),304936,Location ID,125-09170,,Fee,Fee,40.25772,-102.19469,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-5-3-43 (OWP),304937,Location ID,125-09171,,Fee,Fee,40.26226,-102.19515,Well
+Omimex Petroleum Bond Claim,BLEDSOE 8-18-3-43 (OWP),304938,Location ID,125-09172,,Fee,Fee,40.22895,-102.21028,Well
+Omimex Petroleum Bond Claim,BLEDSOE 13-30-3-43(OWP),304943,Location ID,125-09178,,Fee,Fee,40.19285,-102.22345,Well
+Omimex Petroleum Bond Claim,BLEDSOE 5-17-3-43 (OWP),304945,Location ID,125-09180,Same as Well (on-site),Fee,Fee,40.22937,-102.20683,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-18-3-43(OWP),304948,Location ID,125-09183,,Fee,Fee,40.22149,-102.21138,Well
+Omimex Petroleum Bond Claim,BLEDSOE 4-5-3-43 (OWP),304950,Location ID,125-09185,,Fee,Fee,40.26173,-102.2054,Well
+Omimex Petroleum Bond Claim,BLEDSOE 13-6-3-43 (OWP),305066,Location ID,125-09319,,Fee,Fee,40.25069,-102.22225,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-1-3-44 (OWP),305067,Location ID,125-09320,,Fee,Fee,40.24967,-102.22951,Well
+Omimex Petroleum Bond Claim,BLEDSOE 9-1-3-44 (OWP),305068,Location ID,125-09321,,Fee,Fee,40.2542,-102.22869,Well
+Omimex Petroleum Bond Claim,BLEDSOE 15-6-3-43 (OWP),305069,Location ID,125-09322,,Fee,Fee,40.25197,-102.2141,Well
+Omimex Petroleum Bond Claim,FERGUSON 3-10-5-45 (OWP),336726,Location ID,125-09340,,Fee,Fee,40.42313,-102.37047,Well
+Omimex Petroleum Bond Claim,FERGUSON 4-10-5-45 (OWP),336727,Location ID,125-09341,,Fee,Fee,40.42333,-102.37483,Well
+Omimex Petroleum Bond Claim,FERGUSON 6-10-5-45 (OWP),336728,Location ID,125-09342,,Fee,Fee,40.41953,-102.37036,Well
+Omimex Petroleum Bond Claim,BLEDSOE SWD 1-18-3-43 (OWP),336736,Location ID,125-09352,Same as Well (on-site),Fee,Fee,40.23354,-102.21216,Well
+Omimex Petroleum Bond Claim,FERGUSON 5-10-5-45 (OWP),336745,Location ID,125-09363,,Fee,Fee,40.41972,-102.37449,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-3-5-45 (OWP),336747,Location ID,125-09365,,Fee,Fee,40.43461,-102.36626,Well
+Omimex Petroleum Bond Claim,BLEDSOE 9-19-5-44 (OWP),336815,Location ID,125-09454,,Fee,Fee,40.38657,-102.30268,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-18-5-44 (OWP),336832,Location ID,125-09472,Same as Well (on-site),Fee,Fee,40.40403,-102.30874,Well
+Omimex Petroleum Bond Claim,BLEDSOE 11-18-5-44(OWP),336833,Location ID,125-09473,Same as Well (on-site),Fee,Fee,40.4023,-102.31191,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-6-5-44 (OWP),336842,Location ID,125-09485,,Fee,Fee,40.42672,-102.30447,Well
+Omimex Petroleum Bond Claim,FERGUSON-FEDERAL 16-9-5-45 (OWP),336846,Location ID,125-09489,,Fee,Federal,40.41155,-102.37909,Well
+Omimex Petroleum Bond Claim,BRINKEMA 14-14-5-44(OWP),336850,Location ID,125-09493,,Fee,Fee,40.39878,-102.23407,Well
+Omimex Petroleum Bond Claim,BOWMAN 13-22-5-44(OWP),336853,Location ID,125-09496,,Fee,Fee,40.38409,-102.25866,Well
+Omimex Petroleum Bond Claim,BLEDSOE 8-30-5-44 (OWP),336854,Location ID,125-09497,,Fee,Fee,40.37559,-102.30144,Well
+Omimex Petroleum Bond Claim,FCB WICHITA 16-5-5-44 (OWP),336855,Location ID,125-09498,,Fee,Fee,40.42709,-102.28537,Well
+Omimex Petroleum Bond Claim,BLEDSOE 1-3-5-45 (OWP),336857,Location ID,125-09500,,Fee,Fee,40.43806,-102.36346,Well
+Omimex Petroleum Bond Claim,MYERS 10-30-5-44(OWP),336863,Location ID,125-09509,,Fee,Fee,40.37282,-102.3073,Well
+Omimex Petroleum Bond Claim,BOWMAN 9-21-5-44 (OWP),336866,Location ID,125-09513,Same as Well (on-site),Fee,Fee,40.38657,-102.26544,Well
+Omimex Petroleum Bond Claim,BOWMAN 8-21-5-44 (OWP),336868,Location ID,125-09515,Same as Well (on-site),Fee,Fee,40.38961,-102.26292,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-23-5-45(OWP),336869,Location ID,125-09516,,Fee,Fee,40.38277,-102.34223,Well
+Omimex Petroleum Bond Claim,BOWMAN 14-21-5-44(OWP),336871,Location ID,125-09518,,Fee,Fee,40.38224,-102.27318,Well
+Omimex Petroleum Bond Claim,BLEDSOE 6-6-5-44 (OWP),336881,Location ID,125-09534,,Fee,Fee,40.43421,-102.31352,Well
+Omimex Petroleum Bond Claim,BOWMAN 7-28-5-44 (OWP),336894,Location ID,125-09547,,Fee,Fee,40.37699,-102.27035,Well
+Omimex Petroleum Bond Claim,BOWMAN 2-28-5-44 (OWP),336896,Location ID,125-09550,,Fee,Fee,40.37885,-102.26777,Well
+Omimex Petroleum Bond Claim,BLEDSOE 3-29-5-44 (OWP),336897,Location ID,125-09551,,Fee,Fee,40.37956,-102.29442,Well
+Omimex Petroleum Bond Claim,BLEDSOE 13-6-5-44 (OWP),336898,Location ID,125-09552,,Fee,Fee,40.42729,-102.32009,Well
+Omimex Petroleum Bond Claim,BLEDSOE 5-6-5-44 (OWP),336899,Location ID,125-09553,,Fee,Fee,40.43393,-102.31784,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-15-5-45 (OWP),336901,Location ID,125-09555,,Fee,Fee,40.40876,-102.36606,Well
+Omimex Petroleum Bond Claim,BLEDSOE 9-11-5-45 (OWP),336902,Location ID,125-09556,,Fee,Fee,40.41502,-102.34102,Well
+Omimex Petroleum Bond Claim,BLEDSOE TOWNSEND 13-12-5-45(OWP),336909,Location ID,125-09563,,Fee,Fee,40.41246,-102.33674,Well
+Omimex Petroleum Bond Claim,FERGUSON 13-10-5-45(OWP),336912,Location ID,125-09567,,Fee,Fee,40.41244,-102.37565,Well
+Omimex Petroleum Bond Claim,BLEDSOE 4-12-5-45 (OWP),336913,Location ID,125-09568,,Fee,Fee,40.42312,-102.33533,Well
+Omimex Petroleum Bond Claim,SCHNELLER 11-23-5-45(OWP),336953,Location ID,125-09608,,Fee,Fee,40.38608,-102.35106,Well
+Omimex Petroleum Bond Claim,SCHNELLER 9-22-5-45 (OWP),336954,Location ID,125-09609,,Fee,Fee,40.386359,-102.360932,Well
+Omimex Petroleum Bond Claim,SCHNELLER 10-22-5-45(OWP),336955,Location ID,125-09610,,Fee,Fee,40.386401,-102.365083,Well
+Omimex Petroleum Bond Claim,BLEDSOE 4-26-5-45 (OWP),336956,Location ID,125-09611,,Fee,Fee,40.379713,-102.353954,Well
+Omimex Petroleum Bond Claim,SCHNELLER 14-23-5-45(OWP),336957,Location ID,125-09612,,Fee,Fee,40.38341,-102.35125,Well
+Omimex Petroleum Bond Claim,BOWMAN 3-27-5-44 (OWP),336960,Location ID,125-09615,,Fee,Fee,40.38049,-102.25487,Well
+Omimex Petroleum Bond Claim,BOWMAN 6-27-5-44 (OWP),336961,Location ID,125-09616,,Fee,Fee,40.3762,-102.25611,Well
+Omimex Petroleum Bond Claim,BOWMAN 16-27-5-44(OWP),336962,Location ID,125-09617,,Fee,Fee,40.36896,-102.2444,Well
+Omimex Petroleum Bond Claim,BOWMAN 10-27-5-44(OWP),336964,Location ID,125-09619,,Fee,Fee,40.37338,-102.25014,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-26-5-45 (OWP),336969,Location ID,125-09633,,Fee,Fee,40.379429,-102.345944,Well
+Omimex Petroleum Bond Claim,BLEDSOE 3-26-5-45 (OWP),336974,Location ID,125-09642,,Fee,Fee,40.37968,-102.35035,Well
+Omimex Petroleum Bond Claim,BRINKEMA 11-23-5-44(OWP),336980,Location ID,125-09650,,Fee,Fee,40.38802,-102.233772,Well
+Omimex Petroleum Bond Claim,LAND 3-26-5-44 (OWP),336986,Location ID,125-09662,,Fee,Fee,40.379423,-102.23393,Well
+Omimex Petroleum Bond Claim,LAND 2-26-5-44 (OWP),336987,Location ID,125-09663,,Fee,Fee,40.3792,-102.22973,Well
+Omimex Petroleum Bond Claim,STROH 7-26-5-44 (OWP),336988,Location ID,125-09664,,Fee,Fee,40.377221,-102.22894,Well
+Omimex Petroleum Bond Claim,BOWMAN 15-35-5-44(OWP),336990,Location ID,125-09666,,Fee,Fee,40.35333,-102.22879,Well
+Omimex Petroleum Bond Claim,OESTMAN 15-5-4-44 (OWP),336991,Location ID,125-09667,Same as Well (on-site),Fee,Fee,40.33725,-102.31096,Well
+Omimex Petroleum Bond Claim,POPE 1-3-4-44 (OWP),336994,Location ID,125-09670,Same as Well (on-site),Fee,Fee,40.34872,-102.26646,Well
+Omimex Petroleum Bond Claim,POPE 6-3-4-44 (OWP),336995,Location ID,125-09671,Same as Well (on-site),Fee,Fee,40.34766,-102.2755,Well
+Omimex Petroleum Bond Claim,COB PARTNERSHIP 14-34-5-44(OWP),337007,Location ID,125-09685,Same as Well (on-site),Fee,Fee,40.353876,-102.25295,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-34-5-44(OWP),337008,Location ID,125-09686,Same as Well (on-site),Fee,Fee,40.353043,-102.245372,Well
+Omimex Petroleum Bond Claim,COB PARTNERSHIP 10-34-5-44(OWP),337009,Location ID,125-09687,,Fee,Fee,40.35728,-102.25115,Well
+Omimex Petroleum Bond Claim,COB PARTNERSHIP 6-34-5-44 (OWP),337010,Location ID,125-09688,,Fee,Fee,40.36239,-102.25303,Well
+Omimex Petroleum Bond Claim,BOWMAN 16-35-5-44(OWP),337017,Location ID,125-09696,,Fee,Fee,40.35531,-102.22516,Well
+Omimex Petroleum Bond Claim,BLEDSOE 12-26-5-45(OWP),337033,Location ID,125-09717,Same as Well (on-site),Fee,Fee,40.372304,-102.355748,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-30-4-43(OWP),337052,Location ID,125-09752,,Fee,Fee,40.2799,-102.210136,Well
+Omimex Petroleum Bond Claim,BLEDSOE 10-30-4-43(OWP),337053,Location ID,125-09753,,Fee,Fee,40.28444,-102.21359,Well
+Omimex Petroleum Bond Claim,HENDRIX 12-28-4-43(OWP),337063,Location ID,125-09763,,Fee,Fee,40.28445,-102.18609,Well
+Omimex Petroleum Bond Claim,BLEDSOE 9-24-5-45 (OWP),337086,Location ID,125-09789,Same as Well (on-site),Fee,Fee,40.38705,-102.32176,Well
+Omimex Petroleum Bond Claim,BLEDSOE 10-15-5-45(OWP),337120,Location ID,125-09823,,Fee,Fee,40.40095,-102.36584,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 13-20-5-44(OWP),337126,Location ID,125-09830,Same as Well (on-site),Fee,Federal,40.38209,-102.29936,Well
+Omimex Petroleum Bond Claim,BLEDSOE-FEDERAL 10-18-5-44(OWP),337127,Location ID,125-09831,Same as Well (on-site),Fee,Federal,40.39994,-102.30908,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 14-18-5-44(OWP),337128,Location ID,125-09832,,Fee,Federal,40.39749,-102.31341,Well
+Omimex Petroleum Bond Claim,COB PARTNERSHIP 2-34-5-44 (OWP),337129,Location ID,125-09833,,Fee,Fee,40.36559,-102.25146,Well
+Omimex Petroleum Bond Claim,BLEDSOE 13-20-4-43(OWP),337131,Location ID,125-09835,Same as Well (on-site),Fee,Fee,40.29547,-102.20721,Well
+Omimex Petroleum Bond Claim,HENDRIX 8-28-4-43 (OWP),337132,Location ID,125-09836,,Fee,Fee,40.28781,-102.17208,Well
+Omimex Petroleum Bond Claim,BLEDSOE 1-32-4-43 (OWP),337134,Location ID,125-09839,,Fee,Fee,40.27721,-102.18995,Well
+Omimex Petroleum Bond Claim,STROH 2-35-5-44 (OWP),337136,Location ID,125-09841,,Fee,Fee,40.36425,-102.22896,Well
+Omimex Petroleum Bond Claim,COB PARTNERSHIP 11-34-5-44(OWP),337156,Location ID,125-09862,,Fee,Fee,40.35633,-102.25608,Well
+Omimex Petroleum Bond Claim,LENZ 4-2-4-44 (OWP),337161,Location ID,125-09867,,Fee,Fee,40.34867,-102.26161,Well
+Omimex Petroleum Bond Claim,LENZ 2-2-4-44 (OWP),337162,Location ID,125-09868,,Fee,Fee,40.34862,-102.25237,Well
+Omimex Petroleum Bond Claim,LENZ 6-2-4-44 (OWP),337163,Location ID,125-09869,,Fee,Fee,40.34615,-102.25859,Well
+Omimex Petroleum Bond Claim,BRINKEMA FEDERAL 6-22-5-44 (OWP),337167,Location ID,125-09874,Same as Well (on-site),Fee,Federal,40.38991,-102.25476,Well
+Omimex Petroleum Bond Claim,MYERS STATE 13-31-5-44(OWP),337168,Location ID,125-09875,Same as Well (on-site),Fee,State,40.35446,-102.31758,Well
+Omimex Petroleum Bond Claim,MYERS 16-30-5-44(OWP),337169,Location ID,125-09876,Same as Well (on-site),Fee,Fee,40.36843,-102.30384,Well
+Omimex Petroleum Bond Claim,BRINKEMA FEDERAL 7-22-5-44 (OWP),337172,Location ID,125-09879,Same as Well (on-site),Fee,Federal,40.39118,-102.25054,Well
+Omimex Petroleum Bond Claim,BOWMAN SWD 3B-28-5-44(OWP),337202,Location ID,125-09914,,Fee,Fee,40.381154,-102.274502,Well
+Omimex Petroleum Bond Claim,COMPANY B PARTNERSHIP 4-26-5-44 (OWP),337220,Location ID,125-09933,Same as Well (on-site),Fee,Fee,40.37833,-102.2405,Well
+Omimex Petroleum Bond Claim,HENDRIX 15-33-5-44(OWP),337240,Location ID,125-09953,Same as Well (on-site),Fee,Fee,40.3536,-102.268508,Well
+Omimex Petroleum Bond Claim,BLEDSOE 11-19-5-44(OWP),337243,Location ID,125-09956,Same as Well (on-site),Fee,Fee,40.38622,-102.313376,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-19-5-44 (OWP),337246,Location ID,125-09959,Same as Well (on-site),Fee,Fee,40.390899,-102.309387,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 9-6-5-44 (OWP),337247,Location ID,125-09960,,Fee,Federal,40.42961,-102.30211,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 11-20-5-44(OWP),337248,Location ID,125-09961,Same as Well (on-site),Fee,Federal,40.386062,-102.2927,Well
+Omimex Petroleum Bond Claim,COB PARTNERSHIP 4-34-5-44 (OWP),337266,Location ID,125-09981,Same as Well (on-site),Fee,Fee,40.36386,-102.25784,Well
+Omimex Petroleum Bond Claim,BLEDSOE 13-14-5-45(OWP),337267,Location ID,125-09983,Same as Well (on-site),Fee,Fee,40.39778,-102.355759,Well
+Omimex Petroleum Bond Claim,BLEDSOE 5-13-5-45 (OWP),337268,Location ID,125-09984,Same as Well (on-site),Fee,Fee,40.405484,-102.33729,Well
+Omimex Petroleum Bond Claim,BLEDSOE 5-12-5-45 (OWP),337269,Location ID,125-09985,,Fee,Fee,40.419392,-102.337327,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 12-29-5-44(OWP),337278,Location ID,125-09994,Same as Well (on-site),Fee,Federal,40.37338,-102.2964,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 5-29-5-44 (OWP),337279,Location ID,125-09995,Same as Well (on-site),Fee,Federal,40.3769,-102.29924,Well
+Omimex Petroleum Bond Claim,HENDRIX 8-29-4-43 (OWP),337280,Location ID,125-09996,Same as Well (on-site),Fee,Fee,40.2864,-102.19105,Well
+Omimex Petroleum Bond Claim,WALCHLE 9-27-5-43 (OWP),337293,Location ID,125-10012,Same as Well (on-site),Fee,Fee,40.37294,-102.12902,Well
+Omimex Petroleum Bond Claim,WALCHLE 2-27-5-43 (OWP),337294,Location ID,125-10013,Same as Well (on-site),Fee,Fee,40.37843,-102.13631,Well
+Omimex Petroleum Bond Claim,EINSPAHR 2-3-4-43 (OWP),337295,Location ID,125-10014,,Fee,Fee,40.35147,-102.158349,Well
+Omimex Petroleum Bond Claim,EINSPAHR 3-2-4-43 (OWP),337297,Location ID,125-10016,,Fee,Fee,40.3504,-102.14335,Well
+Omimex Petroleum Bond Claim,BLEDSOE 5-14-5-45 (OWP),337303,Location ID,125-10032,Same as Well (on-site),Fee,Fee,40.403918,-102.35658,Well
+Omimex Petroleum Bond Claim,BROPHY 8-32-5-44 (OWP),337317,Location ID,125-10049,Same as Well (on-site),Fee,Fee,40.36201,-102.285737,Well
+Omimex Petroleum Bond Claim,BROPHY 14-29-5-44(OWP),337347,Location ID,125-10081,,Fee,Fee,40.36738,-102.29521,Well
+Omimex Petroleum Bond Claim,ROYAL 16-33-5-43(OWP),337394,Location ID,125-10152,Same as Well (on-site),Fee,Fee,40.35303,-102.14853,Well
+Omimex Petroleum Bond Claim,ROYAL 9-32-5-43 (OWP),337395,Location ID,125-10153,,Fee,Fee,40.35844,-102.16805,Well
+Omimex Petroleum Bond Claim,NIEBUR 7-33-5-43 (OWP),337396,Location ID,125-10154,Same as Well (on-site),Fee,Fee,40.3627,-102.15332,Well
+Omimex Petroleum Bond Claim,FRANK 9-4-4-43 (OWP),337399,Location ID,125-10157,,Fee,Fee,40.34299,-102.17139,Well
+Omimex Petroleum Bond Claim,FRANK 12-3-4-43 (OWP),337400,Location ID,125-10158,,Fee,Fee,40.34284,-102.16801,Well
+Omimex Petroleum Bond Claim,BLEDSOE 8-11-5-45 (OWP),337452,Location ID,125-10221,,Fee,Fee,40.41942,-102.34213,Well
+Omimex Petroleum Bond Claim,WALCHLE 5-27-5-43 (OWP),337511,Location ID,125-10291,Same as Well (on-site),Fee,Fee,40.37739,-102.14486,Well
+Omimex Petroleum Bond Claim,WALCHLE 3-27-5-43 (OWP),337514,Location ID,125-10294,Same as Well (on-site),Fee,Fee,40.38043,-102.13935,Well
+Omimex Petroleum Bond Claim,ROYAL 2-32-5-43 (OWP),337516,Location ID,125-10296,,Fee,Fee,40.364855,-102.17194,Well
+Omimex Petroleum Bond Claim,SCHNELLER 13-27-5-43(OWP),337517,Location ID,125-10298,,Fee,Fee,40.36964,-102.14431,Well
+Omimex Petroleum Bond Claim,SCHNELLER 12-27-5-43(OWP),337518,Location ID,125-10299,,Fee,Fee,40.37225,-102.14544,Well
+Omimex Petroleum Bond Claim,ROYAL 12-29-5-43(OWP),337543,Location ID,125-10324,Same as Well (on-site),Fee,Fee,40.37159,-102.18104,Well
+Omimex Petroleum Bond Claim,ROYAL 13-29-5-43(OWP),337544,Location ID,125-10325,Same as Well (on-site),Fee,Fee,40.36908,-102.18354,Well
+Omimex Petroleum Bond Claim,ROYAL 7-29-5-43 (OWP),337545,Location ID,125-10326,Same as Well (on-site),Fee,Fee,40.37484,-102.17199,Well
+Omimex Petroleum Bond Claim,ROYAL 14-29-5-43(OWP),337580,Location ID,125-10364,Same as Well (on-site),Fee,Fee,40.36858,-102.17676,Well
+Omimex Petroleum Bond Claim,ROYAL 15-29-5-43(OWP),337582,Location ID,125-10366,Same as Well (on-site),Fee,Fee,40.36822,-102.17186,Well
+Omimex Petroleum Bond Claim,ROYAL 10-29-5-43(OWP),337583,Location ID,125-10367,,Fee,Fee,40.37303,-102.17177,Well
+Omimex Petroleum Bond Claim,ROYAL 6-32-5-43 (OWP),337594,Location ID,125-10379,Same as Well (on-site),Fee,Fee,40.36193,-102.17717,Well
+Omimex Petroleum Bond Claim,BLEDSOE 4-30-5-44 (OWP),337610,Location ID,125-10398,Same as Well (on-site),Fee,Fee,40.37929,-102.31591,Well
+Omimex Petroleum Bond Claim,BLEDSOE 3-30-5-44 (OWP),337611,Location ID,125-10399,Same as Well (on-site),Fee,Fee,40.37902,-102.31256,Well
+Omimex Petroleum Bond Claim,BLEDSOE 6-30-5-44 (OWP),337612,Location ID,125-10400,Same as Well (on-site),Fee,Fee,40.37586,-102.31137,Well
+Omimex Petroleum Bond Claim,ROYAL 14-33-5-43(OWP),337614,Location ID,125-10402,Same as Well (on-site),Fee,Fee,40.3536,-102.15813,Well
+Omimex Petroleum Bond Claim,ROYAL 13-33-5-43(OWP),337615,Location ID,125-10403,,Fee,Fee,40.35522,-102.16196,Well
+Omimex Petroleum Bond Claim,MYERS 9-30-5-44 (OWP),337616,Location ID,125-10404,Same as Well (on-site),Fee,Fee,40.37317,-102.30334,Well
+Omimex Petroleum Bond Claim,ROYAL 5-33-5-43 (OWP),337618,Location ID,125-10406,Same as Well (on-site),Fee,Fee,40.36013,-102.16262,Well
+Omimex Petroleum Bond Claim,ROYAL 4-33-5-43 (OWP),337619,Location ID,125-10407,,Fee,Fee,40.36501,-102.162,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-1-5-45 (OWP),337620,Location ID,125-10408,Same as Well (on-site),Fee,Fee,40.43775,-102.32774,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-1-5-45 (OWP),337643,Location ID,125-10433,,Fee,Fee,40.43504,-102.32627,Well
+Omimex Petroleum Bond Claim,FRANK 1-4-4-43 (OWP),337699,Location ID,125-10499,,Fee,Fee,40.34963,-102.17104,Well
+Omimex Petroleum Bond Claim,FRANK 13-3-4-43 (OWP),337704,Location ID,125-10506,Same as Well (on-site),Fee,Fee,40.33782,-102.16625,Well
+Omimex Petroleum Bond Claim,HENDRIX 14-33-5-44(OWP),337882,Location ID,125-10713,Same as Well (on-site),Fee,Fee,40.3548,-102.27184,Well
+Omimex Petroleum Bond Claim,HENDRIX 10-33-5-44(OWP),337883,Location ID,125-10714,Same as Well (on-site),Fee,Fee,40.35617,-102.26698,Well
+Omimex Petroleum Bond Claim,FERGUSON 1-9-5-45 (OWP),337888,Location ID,125-10721,Same as Well (on-site),Fee,Fee,40.42229,-102.37969,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-3-5-45 (OWP),337893,Location ID,125-10727,Same as Well (on-site),Fee,Fee,40.42804,-102.36163,Well
+Omimex Petroleum Bond Claim,BLEDSOE 8-3-5-45 (OWP),337894,Location ID,125-10728,Same as Well (on-site),Fee,Fee,40.43489,-102.36237,Well
+Omimex Petroleum Bond Claim,BLEDSOE 8-13-5-45 (OWP),337898,Location ID,125-10733,Same as Well (on-site),Fee,Fee,40.40585,-102.32294,Well
+Omimex Petroleum Bond Claim,BLEDSOE 16-13-5-45(OWP),337902,Location ID,125-10737,Same as Well (on-site),Fee,Fee,40.39692,-102.3212,Well
+Omimex Petroleum Bond Claim,FERGUSON 14-10-5-45(OWP),337907,Location ID,125-10742,,Fee,Fee,40.41172,-102.371938,Well
+Omimex Petroleum Bond Claim,BLEDSOE 11-11-5-45(OWP),337908,Location ID,125-10743,Same as Well (on-site),Fee,Fee,40.41624,-102.35053,Well
+Omimex Petroleum Bond Claim,KILLIN 15-22-5-45(OWP),337909,Location ID,125-10744,,Fee,Fee,40.38281,-102.36501,Well
+Omimex Petroleum Bond Claim,KILLIN 16-22-5-45(OWP),337910,Location ID,125-10745,,Fee,Fee,40.38231,-102.36098,Well
+Omimex Petroleum Bond Claim,FERGUSON 3-8-5-45 (OWP),337914,Location ID,125-10754,,Fee,Fee,40.42337,-102.40853,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-19-5-44 (OWP),337915,Location ID,125-10755,Same as Well (on-site),Fee,Fee,40.39266,-102.30577,Well
+Omimex Petroleum Bond Claim,BLEDSOE 8-29-5-44 (OWP),337916,Location ID,125-10756,Same as Well (on-site),Fee,Fee,40.37537,-102.28219,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-11-5-45 (OWP),337917,Location ID,125-10757,,Fee,Fee,40.4185,-102.34706,Well
+Omimex Petroleum Bond Claim,BLEDSOE 14-24-5-45(OWP),337919,Location ID,125-10759,Same as Well (on-site),Fee,Fee,40.38422,-102.33283,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-24-5-45 (OWP),337920,Location ID,125-10760,Same as Well (on-site),Fee,Fee,40.39365,-102.3258,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-2-5-45 (OWP),337926,Location ID,125-10770,Same as Well (on-site),Fee,Fee,40.43642,-102.34609,Well
+Omimex Petroleum Bond Claim,ROYAL 13-28-5-43(OWP),337928,Location ID,125-10772,,Fee,Fee,40.36781,-102.16237,Well
+Omimex Petroleum Bond Claim,BLEDSOE 6-1-5-45 (OWP),337929,Location ID,125-10773,Same as Well (on-site),Fee,Fee,40.43488,-102.33117,Well
+Omimex Petroleum Bond Claim,BROWN 8-6-5-45 (OWP),337930,Location ID,125-10774,,Fee,Fee,40.43346,-102.4205,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-2-5-45 (OWP),337931,Location ID,125-10775,Same as Well (on-site),Fee,Fee,40.43384,-102.34636,Well
+Omimex Petroleum Bond Claim,BLEDSOE 1-11-5-45 (OWP),337932,Location ID,125-10776,Same as Well (on-site),Fee,Fee,40.42172,-102.34232,Well
+Omimex Petroleum Bond Claim,BLEDSOE 7-29-5-44 (OWP),337935,Location ID,125-10780,Same as Well (on-site),Fee,Fee,40.37635,-102.28993,Well
+Omimex Petroleum Bond Claim,BRADFORD 8-28-5-43 (OWP),337943,Location ID,125-10788,,Fee,Fee,40.37681,-102.14812,Well
+Omimex Petroleum Bond Claim,BRADFORD 15-28-5-43(OWP),337944,Location ID,125-10789,,Fee,Fee,40.36977,-102.15342,Well
+Omimex Petroleum Bond Claim,BLEDSOE 6-2-5-45 (OWP),337949,Location ID,125-10794,,Fee,Fee,40.4354,-102.350314,Well
+Omimex Petroleum Bond Claim,BLEDSOE TOWNSEND 11-12-5-45(OWP),337954,Location ID,125-10799,,Fee,Fee,40.41443,-102.33418,Well
+Omimex Petroleum Bond Claim,STRUCKMEYER 6-22-5-45 (OWP),337967,Location ID,125-10815,Same as Well (on-site),Fee,Fee,40.39105,-102.36996,Well
+Omimex Petroleum Bond Claim,HASSLER 14-5-5-45 (OWP),337969,Location ID,125-10817,,Fee,Fee,40.42666,-102.40866,Well
+Omimex Petroleum Bond Claim,BARKEY 10-5-5-45 (OWP),337974,Location ID,125-10823,,Fee,Fee,40.4293,-102.4034,Well
+Omimex Petroleum Bond Claim,LENZ FARMS SWD 3B-32-5-43(OWP),411752,Location ID,125-11079,,Fee,Fee,40.36592,-102.1797,Well
+Omimex Petroleum Bond Claim,BLEDSOE 10-3-5-45 (OWP),338254,Location ID,125-11139,,Fee,Fee,40.43132,-102.36692,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-3-5-45 (OWP),338265,Location ID,125-11151,,Fee,Fee,40.43871,-102.36554,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 14-20-5-44(OWP),310932,Location ID,125-11325,,Fee,Federal,40.38471,-102.29526,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 6-29-5-44 (OWP),310933,Location ID,125-11326,,Fee,Federal,40.37459,-102.29448,Well
+Omimex Petroleum Bond Claim,BLEDSOE FEDERAL 1-29-5-44 (OWP),310934,Location ID,125-11327,,Fee,Federal,40.37846,-102.28364,Well
+Omimex Petroleum Bond Claim,BLEDSOE 2-7-5-44 (OWP),310952,Location ID,125-11345,Same as Well (on-site),Fee,Fee,40.4241,-102.30988,Well
+Omimex Petroleum Bond Claim,BLEDSOE 6-19-5-44 (OWP),311027,Location ID,125-11420,Same as Well (on-site),Fee,Fee,40.38916,-102.31091,Well
+Omimex Petroleum Bond Claim,Bledsoe 5-26-5-45 (OWP),421380,Location ID,125-11952,,Fee,Fee,40.37748,-102.35544,Well
+Omimex Petroleum Bond Claim,BLEDSOE A 1-3-5-45 (OWP),421730,Location ID,125-11953,Same as Well (on-site),Fee,Fee,40.43908,-102.35999,Well
+Omimex Petroleum Bond Claim,Bledsoe 9-1-5-45 (OWP),421725,Location ID,125-11954,,Fee,Fee,40.42888,-102.32084,Well
+Omimex Petroleum Bond Claim,Bledsoe 3-1-5-45 (OWP),422005,Location ID,125-11960,,Fee,Fee,40.43732,-102.33034,Well
+Omimex Petroleum Bond Claim,BLEDSOE A1-30-5-44(OWP),422009,Location ID,125-11961,Same as Well (on-site),Fee,Fee,40.37868,-102.30351,Well
+Omimex Petroleum Bond Claim,BLEDSOE A 9-11-5-45 (OWP),421993,Location ID,125-11962,Same as Well (on-site),Fee,Fee,40.41677,-102.34134,Well
+Omimex Petroleum Bond Claim,BLEDSOE A14-19-5-44(OWP),422013,Location ID,125-11964,,Fee,Fee,40.38391,-102.31044,Well
+Omimex Petroleum Bond Claim,Bledsoe 12-6-5-44 (OWP),422029,Location ID,125-11965,,Fee,Fee,40.43042,-102.31732,Well

@@ -1,0 +1,19 @@
+{
+  "built_at": "2026-11-18T16:00:42+00:00",
+  "output": "CO_Orphan_Wells_EJ_Ranked_Wells.csv",
+  "wells": 1362,
+  "sources": {
+    "ecmc_owp_shapefile": {
+      "url": "https://ecmc.state.co.us/documents/data/downloads/gis/OWP_SHP.ZIP",
+      "retrieved_at": "2026-11-18T16:00:35+00:00",
+      "sha256": "2577130d0065a0d002b2b8e1cce889fd7479680f3cb160f82b327924ce97dfea",
+      "unplugged_wells": 1362
+    },
+    "cdphe_enviroscreen_v2_blockgroups": {
+      "url": "https://services3.arcgis.com/66aUo8zsujfVXRIT/ArcGIS/rest/services/EJP_Main_English_v1_BlockGroup_20230803/FeatureServer/0",
+      "retrieved_at": "2026-11-18T14:56:39+00:00",
+      "sha256": "b3a9367e8744926b7a394069771c96d8c6ceb021947b3021c5457f9ea54ec733",
+      "block_groups": 4058
+    }
+  }
+}

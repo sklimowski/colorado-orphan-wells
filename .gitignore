@@ -1,0 +1,36 @@
+# Raw HTML caches written by the scrapers.  A fresh run rebuilds them.
+op/html_cache/
+op/bradenhead_cache/
+
+# Source downloads for build_ranked_wells.py and build_dashboard.py.  A run
+# downloads them again.
+ip/downloads/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local settings.  ORPHAN_WELLS_CONTACT can live in a .env file, and the
+# contact address never goes in the repo.
+.env
+.env.*
+
+# Tool caches
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Temp files write_csv leaves if a run is interrupted
+*.tmp

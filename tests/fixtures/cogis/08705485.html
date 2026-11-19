@@ -1,0 +1,549 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Facility Detail
+</title><link id="Stylesheet" rel="stylesheet" type="text/css" href="../Styles.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" lang="javascript">
+        
+        var newwindow;
+        var newwindow2;
+        var newwindow3;
+
+        function newSmallWindow(URL) {
+            newwindow = window.open(URL, 'AdditionalInfo1', 'width=600,height=280,scrollbars=yes,resizable=yes');
+        }
+
+        function newMedWindow(URL) {
+            newwindow2 = window.open(URL, 'AdditionalInfo2', 'width=900,height=300,scrollbars=yes,resizable=yes');
+        }
+
+        function newBigWindow(URL) {
+            newwindow3 = window.open(URL, 'AdditionalInfo3', 'width=1300,height=600,scrollbars=yes,resizable=yes'); 
+        }
+
+        function newGiantWindow(URL) {
+            newwindow4 = window.open(URL, 'AdditionalInfo4', 'width=1800,height=800,scrollbars=yes,resizable=yes');
+        }
+
+        function newBigWindow2(URL) {
+            newwindow5 = window.open(URL, 'AdditionalInfo5', 'width=1300,height=600,scrollbars=yes,resizable=yes');
+        }
+
+        function newLongWindow(URL) {
+            newwindow = window.open(URL, 'AdditionalInfo1', 'width=450,height=800,top=100,left=1200,scrollbars=yes,resizable=yes');
+        }
+    </script>
+    <style type="text/css"> 
+         .skip-main {
+            position: absolute;
+            left: -9999px;
+            z-index: 999;
+            padding: 1em;
+            background-color: white;
+            color: white;
+            opacity: 0;
+         }
+         .skip-main:focus {
+            left: 50%;
+            transform: translateX(-50%);
+            opacity: 1;
+        }
+
+        .sr-only{
+           position:absolute;
+           left:-10000px;
+           top:auto;
+           width:1px;
+           height:1px;
+           overflow:hidden;
+        }
+
+    /*Accordian*/
+     .accordion {
+        width: 100%;  /*85%*/
+        background-color: #EDEDED;
+    }
+    .accordion .accordion-head {
+        color: #ffffff;
+        background-color: #006633;
+        border-bottom: 1px solid #ffffff;
+        position: relative;
+        padding: 2px;
+        font-size: 0.87em;
+        cursor: pointer;
+        overflow: hidden;
+    }
+    .accordion .accordion-head * {
+        cursor: pointer;
+    }
+    .accordion .accordion-head h4 {
+        float: left;
+        height: 4px;
+        padding: 6px;
+    }
+
+    .accordion .accordion-head h3 {
+        float: left;
+        height: 4px;
+        padding: 6px;
+    }
+
+    .accordion .accordion-head h5 {
+        float: left;
+        height: 6px;
+        padding: 6px;
+    }
+
+        .accordion .accordion-head:hover {
+            filter: alpha(opacity=80);
+            opacity: 0.80;
+        }
+    .accordion .accordion-body {
+        border-bottom: 1px solid #ffffff;
+        padding: 4px;
+        height: auto;
+        display: none;
+    }
+        .arrow {
+            float: right;
+            width: 0px;
+            height: 0px;
+            margin-top: 23px;
+            border: 10px solid transparent;
+            margin-top: 21px;
+            border-top-color: #F3F3F3;
+        }
+    .accordion-head.open .arrow {
+        margin-top: 11px;
+        border-bottom-color: #F3F3F3;
+        border-top-color: transparent;
+    }
+
+     /*Second Accordian*/
+     .accordion2 {
+        width: 100%;  /*75%*/
+        background-color: #EDEDED;
+    }
+    .accordion2 .accordion2-head {
+        color: #ffffff;
+        background-color: #000066;
+        border-bottom: 1px solid #ffffff;
+        position: relative;
+        padding: 2px;
+        font-size: 0.87em;
+        cursor: pointer;
+        overflow: hidden;
+    }
+    .accordion2 .accordion2-head * {
+        cursor: pointer;
+    }
+
+    .accordion2 .accordion2-head h4 {
+        float: left;
+        height: 4px;
+        padding: 6px;
+    }
+
+    .accordion2 .accordion2-head h3 {
+        float: left;
+        height: 4px;
+        padding: 6px;
+    }
+
+    .accordion2 .accordion2-head h5 {
+        float: left;
+        padding: 6px;
+    }
+
+    .accordion2 .accordion2-head:hover {
+        filter: alpha(opacity=80);
+        opacity: 0.80;
+    }
+        .accordion2 .accordion2-body {
+            border-bottom: 1px solid #ffffff;
+            padding: 4px;
+            height: auto;
+            display: none;
+        }
+        .arrow {
+            float: right;
+            width: 0px;
+            height: 0px;
+            margin-top: 23px;
+            border: 10px solid transparent;
+            margin-top: 21px;
+            border-top-color: #F3F3F3;
+        }
+    .accordion2-head.open .arrow {
+        margin-top: 11px;
+        border-bottom-color: #F3F3F3;
+        border-top-color: transparent;
+    }
+
+    /*Third Accordian*/
+     .accordion3 {
+        width: 100%;  /*75%*/
+        background-color: #EDEDED;
+    }
+    .accordion3 .accordion3-head {
+        color: #ffffff;
+        background-color: #000066;
+        border-bottom: 1px solid #ffffff;
+        position: relative;
+        padding: 2px;
+        font-size: 0.87em;
+        cursor: pointer;
+        overflow: hidden;
+    }
+    .accordion3 .accordion3-head * {
+        cursor: pointer;
+    }
+
+    .accordion3 .accordion3-head h4 {
+        float: left;
+        height: 4px;
+        padding: 6px;
+    }
+
+    .accordion3 .accordion3-head h3 {
+        float: left;
+        height: 4px;
+        padding: 4px;
+    }
+
+    .accordion3 .accordion3-head h5 {
+        float: left;
+        padding: 6px;
+    }
+
+    .accordion3 .accordion3-head:hover {
+        filter: alpha(opacity=80);
+        opacity: 0.80;
+    }
+        .accordion3 .accordion3-body {
+            border-bottom: 1px solid #ffffff;
+            padding: 4px;
+            height: auto;
+            display: none;
+        }
+        .arrow {
+            float: right;
+            width: 0px;
+            height: 0px;
+            margin-top: 23px;
+            border: 10px solid transparent;
+            margin-top: 21px;
+            border-top-color: #F3F3F3;
+        }
+    .accordion3-head.open .arrow {
+        margin-top: 11px;
+        border-bottom-color: #F3F3F3;
+        border-top-color: transparent;
+    }
+
+    /*custom buttons*/
+   .viewbutton {
+      background-color: #FFD700;
+      border: none;
+      color: #000066;
+      padding: 8px;
+      height: 28px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+      font-weight: bold;
+      margin: 2px 2px;
+      border-radius: 16px;
+    }
+
+    .resetbutton {
+        background-color: #000066;
+        border: none;
+        color: #FFD700;
+        padding: 8px;
+        height: 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px;
+        font-weight: bold;
+        margin: 2px 2px;
+        border-radius: 16px;
+    }   
+
+    .grdContent
+    {
+        width: 90%;
+        border: none 0px transparent;
+        min-width: 90%;
+    }
+    .header {            
+        background-color: #000066;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        color: #ffffff;
+        border: none 0px transparent;
+        height: 25px;
+        text-align: center;
+        font-size: 12px;
+    }
+    .rows {
+        background-color: #ffffff;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        color: #000000;
+        min-height: 16px;
+        text-align: left;
+        border: solid 1px black;
+    }
+        .rows:hover {
+            background-color: #ffffff;
+            font-family: Arial;
+            color: #000000;
+            text-align: left;
+        }
+    .selectedrow {
+        background-color: #000066;
+        font-family: Arial;
+        color: #ffffff;
+        font-weight: bold;
+        text-align: left;
+    }
+    .mydatagrid a /** PAGING ICONS  **/ {
+        background-color: Transparent;
+        padding: 4px 4px 4px 4px;
+        color: #FFD700;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .mygrdContent a:hover
+    {
+        background-color: #ffffff;
+        color: #006633;
+    }
+    .mygrdContent span /** CURRENT PAGE ICON **/ {
+        background-color: #000066;
+        color: #FFD700;
+        padding: 5px 5px 5px 5px;
+    }
+    .pager {
+        background-color: #000066;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        color:#FFD700;
+        height: 18px;
+        text-align: left;
+    }
+    .mygrdContent td {
+        padding: 4px;
+    }
+    .mygrdContent th {
+        padding: 4px;
+    }
+
+    .exportbutton {
+        background-color: lightgray;
+        border: 1px solid black;
+        color: #000000;
+        padding: 4px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+        font-weight: bold;
+        margin: 2px 2px;
+        border-radius: 16px;
+    }
+
+    .bigbutton {
+        background-color: lightgray;
+        border: 1px solid black;
+        color: #000000;
+        padding: 6px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        font-weight: bold;
+        margin: 4px 4px;
+        border-radius: 16px;
+    }
+</style>
+</head>
+<body>
+    <a href="#main" class="skip-main">Skip to Main Content</a>
+    <main id="main">
+    <form method="post" action="./FacilityDetail?api=08705485" id="formFacDetail">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7E3D4B3B" />
+    <input type="hidden" name="Type" id="Type" value="WELL" />
+    <input type="hidden" name="DocNumCount" id="DocNumCount" value="0" />
+        <table style="width: 85%;">    
+            <tr>
+                <td>
+                    <h1 class="sr-only">COGIS</h1>
+                    <h2 class="sr-only">Facility Detail</h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3 style="color: navy;">COGIS - WELL SCOUT CARD</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top;">
+                    <table style="width:95%;">
+                        <tr>
+                            <td>
+                                <table style="width:100%;"><tr><td align="center" colspan="4"><a title="View related facilities." target="_blank" href="FacilityRelated.aspx?facid=225090"><img alt="Click image to view related facilities." src="../images/related.gif" border="0" width="37" height="16" alt="View Related">&nbsp;Related</a>&nbsp;&nbsp;<a title="View inspection information." target="_blank" href="../Incidents/IncidentSearchDetail.aspx?itype=insp&facilityid=225090"><img alt="Click image to view inspection information." src="../images/insp.gif" border="0" width="16" height="16" alt="View Insp">&nbsp;Insp</a><a title="View MIT information." target="_blank" href="../Incidents/IncidentSearchDetail.aspx?itype=mit&ApiCountyCode=087&ApiSequenceCode=05485"><img alt="Click image to view MIT information." src="../images/insp.gif" border="0" width="16" height="16" alt="View MIT">&nbsp;MIT</a><a title="Access interactive map at well/facility location." target="_blank" href="https://gisdnr.state.co.us/portal/apps/experiencebuilder/experience/?id=a6735b82acb54a6db84912ea967d5a19#data_s=id%3AdataSource_1-19a3057e4e6-layer-89-19a305645f4-layer-85%3A70965&widget_241=search_status:%7B%22searchText%22%3A%22087-05485%22%2C%22status%22%3A%7B%22configId%22%3A%22config_0%22%7D%7D"><img alt="GIS Map" border="0" src="../images/sm_globe.gif" hspace="4" width="12" height="12">&nbsp;GIS</a><a title="Access old interactive map at well/facility location." target="_blank" href="https://cogccmap.state.co.us/cogcc_gis_online/?ogw=08705485"><img alt="Old GIS Map" border="0" src="../images/sm_globe.gif" hspace="4" width="12" height="12">&nbsp;Old GIS</a><a title="View imaged documents for this well/facility." target="_blank" href="../Resources/Docs.aspx?classid=07~08&id=08705485"><img alt="Click image to view imaged documents for this well/facility." border="0" src="../images/imaging.gif" hspace="4" width="16" height="15" alt="View Docs">&nbsp;Doc</a><a title="View facility COAs and BMPs." target="_blank" href="../Resources/COAs.aspx?facid=08705485"><img alt="Click image to view imaged documents for this well/facility." border="0" src="../images/imaging.gif" hspace="4" width="16" height="15" alt="View COA">&nbsp;COA</a><a title="View wellbore completion diagram." target="_blank" href="../Resources/Docs?ClassID=07~08&ID=08705485&DocName=&DocNum=&DocDate=&RelDate=&Path=&Keyword=Wellbore+Diagram"><img alt="Click image to view wellbore completion diagram." border="0" src="../images/welbricon-1.gif" hspace="4" width="16" height="15" alt="View Wellbore">&nbsp;Wellbore</a><a title="Search for orders within this facility's section." target="_blank" href="https://ecmc.state.co.us/OGIS/Orders/?sec=36&twp=2N&rng=58W"><img alt="Click image to search for orders within this facility's section." src="../images/gavel2.gif" hspace="4" width="25" height="20" alt="Expanded Orders" border="0" alt="View Orders">&nbsp;Orders</a><a title="View bradenhead scoutcard data." target="_blank" href="../Incidents/bradenheadScout.aspx?api=08705485"><img alt="Click image to view bradenhead scoutcard data." border="0" src="../images/insp.gif" hspace= "4" width="16" height="15" alt="View Bradenhead">&nbsp;Bradenhead</a></td></tr><tr><td bgcolor="maroon" colspan="4" text-align: left;"><span class="labelMedBold"><font color="white">&nbsp;This operator is no longer active in the State of Colorado.</font></span></td></tr><tr><td bgcolor="#FFD700" colspan="2" style="text-align: left;"><span class="labelMedBold"><font color="navy">&nbsp;Surface Location<br />&nbsp;API# 05-087-05485</font></span></td><td bgcolor="#FFD700" colspan="1" style="text-align: center;"><span class="labelMedBold"><font color="navy"><a title="View list of well classes." href="javascript:newLongWindow('infoList.aspx?action=wc&refer=pop')">Well Classification</a>: DA                       </font></span></td><td bgcolor="#FFD700" colspan="1" style="text-align: center;"><span class="labelMedBold"><font color="navy"><a title="View list of statuses." href="javascript:newLongWindow('infoList.aspx?action=stat&refer=pop')">Status</a>: PA - 5/21/1954</font></span></td></tr><tr><td style="width: 5%; text-align: left; vertical-align: top;"><span class="labelSmall"><a title="COLORADO E 5 (OWP) from 5/6/1954 to N/A
+" href="javascript:newSmallWindow('History.aspx?action=facility&facid=225090')">Well Name/No:</a></span></td><td style="text-align: left; vertical-align: top;"><span class="labelSmall"><a title="View well production data." target="_blank" href="Production.aspx?api_county_code=087&api_seq_num=05485">COLORADO E #5 (OWP)        </a><br /><font size="1">(Click Well Name for Production Data)</font></span></td><td nowrap colspan="2" style="text-align: left; vertical-align: top;"><span class="labelSmall"><a title="View transporter gatherer information." href="javascript:newBigWindow2('transporter.aspx?apiCounty=087&apiSeq=05485')">Click Here for Transporter Gatherer Info</a></span></td></tr><tr><td style="width: 5%; text-align: left; vertical-align: top;"><span class="labelSmall"><a title="10558 - BRITISH AMERICA  from 5/6/1954 to N/A
+" href="javascript:newSmallWindow('History.aspx?action=operator&facid=225090')">Operator:</a></span></td><td nowrap style="text-align: left;"><span class="labelSmall"><a title="View company detail info." target="_blank" href="../NameAddressSearch/CompanyDetail.aspx?OpNum=10558&COID=125">BRITISH AMERICAN OIL PROD CO - 10558<br /></a><font size="1">(Click Operator Name for Company Detail Report)</font></span></td><td nowrap style="width: 10%; text-align: left; vertical-align: top;"><span class="labelSmall">Federal Or State Lease #:</span></td><td style="text-align: left;"><span class="labelSmall"></span></td></tr><tr><td style="width: 5%; text-align: left;"><span class="labelSmall">Facility Status:</span></td><td style="text-align: left;"><span class="labelSmall">PA</span></td><td style="width: 10%; text-align: left;"><span class="labelSmall">Status Date</span></td><td><span class="labelSmall">5/21/1954</span></td></tr><tr><td style="width: 5%; text-align: left;"><span class="labelSmall">FacilityID:</span></td><td style="text-align: left;"><span class="labelSmall"><strong>225090</strong></span></td><td style="width: 10%; text-align: left;"><span class="labelSmall">LocationID:</span></td><td align="left"><span class="labelSmall">393756</span></td></tr><tr><td style="width: 5%; text-align: left;"><span class="labelSmall">County:</span></td><td align="left"><span class="labelSmall">MORGAN                             #087</span></td><td style="width: 10%; text-align: left;"><span class="labelSmall">Location:</span></td><td style="text-align: left;"><span class="labelSmall">SWSW&nbsp;36&nbsp;2N58W 6</span></td></tr><tr><td style="width: 5%; text-align: left;"><span class="labelSmall">Field:</span></td><td align="left"><span class="labelSmall">ADENA                          - #700</span></td><td style="width: 10%; text-align: left;"><span class="labelSmall">Elevation:</span></td><td style="text-align: left;"><span class="labelSmall">Unknown</span></td></tr><tr><td style="width: 5%; text-align: left;"><span class="labelSmall">Basin:</span></td><td align="left"><span class="labelSmall">DENVER (DJ) BASIN</span></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td nowrap style="width: 5%; text-align: left;"><span class="labelSmall">Planned Location:</span></td><td><span class="labelSmall">330FSL&nbsp;&nbsp;990 FWL</span></td><td nowrap style="width: 10%; text-align: left;"><span class="labelSmall">Lat/Long:&nbsp;40.088203 / -103.826769</span></td><td style="text-align: left;"><span class="labelSmall">Lat/Long Source: Calculated From Footages</span></td></tr><tr><td colspan="4" align="right"><input type="submit" name="btnViewAll" id="btnViewAll" title="Expand Section" value="Expand Section" Class="resetbutton" formaction="FacilityDetailExpand.aspx?api=08705485"></td></tr><tr><td colspan= "4" bgcolor="#FFD700"><span Class="labelMedBold">&nbsp;Wellbore And Formation Details -- select either a wellbore Or formation to expand.</span></td></tr></table>
+                            </td> 
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                
+                            </td>     
+                        </tr>
+                        <tr>
+                            <td>
+                                
+                            </td> 
+                        </tr>
+                        <tr>
+                            <td>                 
+                                <div class="accordion"><div class="accordion-head"><h3>Wellbore #00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wellbore Classification: DA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status: PA - 5/21/1954&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Measured TD: 225 ft.</h3><div title="Open/Close Arrow" class="arrow down"></div></div><div Class="accordion-body"><table style="width:65%;"><tr><td bgcolor="#FFD700" align="left" colspan="2"><span class="labelMedBold"><font color="navy">&nbsp;Wellbore Data for Original Wellbore</font></span></td><td bgcolor="#FFD700" align="left" colspan="2"><span class="labelMedBold"><font color="navy">Wellbore Classification: DA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PA - 5/21/1954</font></span></td></tr><tr><td align="left" colspan="3"><span Class="labelBold"><font color="navy">Wellbore Permit</font></span></td><td align="left"><span Class="labelBold"></span></td></tr><tr><td nowrap><span Class="labelSmall">Permit #:</span></td><td nowrap align="left"><span class="labelSmall">19540000  </span></td><td nowrap><span class="labelSmall">Expiration Date:</span></td><td nowrap align="left"><span class="labelSmall">9/6/1954</span></td></tr><tr><td nowrap><span class="labelSmall">Proposed Depth/Form:</span></td><td nowrap align="left"><span class="labelSmall"></span></td></tr><tr><td nowrap><span class="labelSmall">Surface Mineral Owner Same:</span></td><td nowrap align="left"><span class="labelSmall">Not available</span></td></tr><tr><td nowrap><span class="labelSmall">Mineral Owner:</span></td><td nowrap align="left"><span class="labelSmall">STATE</span></td><td nowrap><span class="labelSmall">Surface Owner:</span></td><td nowrap align="left"><span class="labelSmall">Not available</span></td></tr><tr><td nowrap><span class="labelSmall">Unit:</span></td><td>&nbsp;</td><td nowrap><span class="labelSmall">Unit Number:</span></td><td>&nbsp;</td><tr><td nowrap><span class="labelSmall">Formation And Spacing:</span></td><td colspan="3" nowrap align="left"><span class="labelSmall">Code: JSND  , Formation: J SAND                                            , Order: 0         , Unit Acreage: 0, Drill Unit: </span></td></tr><tr><td colspan="4"><hr /><td><tr><tr><td align="left" colspan="3"><span class="labelBold"><font color="navy">Wellbore Completed</font></span></td><tr><td nowrap><span Class="labelSmall">Completion Date:</span></td><td nowrap align="left"><span class="labelSmall">5/21/1954</span></td></tr><tr><td nowrap><span class="labelSmall">Spud Date:</span></td><td nowrap align="left"><span class="labelSmall">5/7/1954</span></td><td nowrap><span class="labelSmall">Spud Date Is:</span></td><td nowrap align="left"><span class="labelSmall">ACTUAL         </span></td></tr><tr><td nowrap><span class="labelSmall">Measured TD:</span></td><td nowrap align="left"><span class="labelSmall">225 ft.</span></td><td nowrap><span class="labelSmall">Measured PB depth:</span></td><td nowrap align="left"><span class="labelSmall"></span></td></tr><tr><td nowrap><span class="labelSmall">True Vertical TD:</span></td><td nowrap align="left"><span class="labelSmall"></span></td><td nowrap><span class="labelSmall">True Vertical PB depth:</span></td><td nowrap align="left"><span class="labelSmall"></span></td></tr><tr><td nowrap><span class="labelSmall">Casing:</span></td><td nowrap colspan = "3" align="left"><span class="labelSmall">String Type: SURF, Hole Size: 13.75 in., Size: 9.625 in., Top: , Depth: 217 ft., Weight: , Citings Type: ACTUAL         </span></td></tr><tr><td nowrap><span class="labelSmall">Cement:</span></td><td nowrap colspan = "3" align="left"><span class="labelSmall">Sacks: 160, Top: , Bottom: , Determination Method: </span></td></tr><tr><td bgcolor="#000066" nowrap><span class="plaintext"><font color="#ffffff">&nbsp;&nbsp;No formation data to display.</font></span></td></tr></table></div><div class="accordion2"></div></div></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                
+                            </td>                   
+                        </tr>
+                        <tr>
+                            <td>
+                                
+                            </td>                   
+                        </tr>
+                    </table>
+                </td>
+                <td style="vertical-align: top;">
+                    <table>
+                        <tr>
+                            <td>
+                                <div>
+	<table class="mygrdContent" cellspacing="0" rules="all" aria-label="Well Designations" border="1" id="GridViewDes" width="100%">
+		<tr class="header">
+			<td colspan="3"><font size="4">Primary Well Designation:<br />None&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="Well Designation Information" target="_blank" href="desigInfo.aspx?path=status"><font color="white"><strong><i>i</strong></i></font></a></font></td>
+		</tr><tr class="header">
+			<th align="center" scope="col">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All Designations</th><th align="center" scope="col"></th><th scope="col">Date</th>
+		</tr><tr class="rows" valign="bottom">
+			<td align="center">Reported Plugged</td><td align="center">Y</td><td align="center">05/21/1954</td>
+		</tr><tr class="rows" valign="bottom" bgcolor="LightGrey">
+			<td align="center">Out Of Service Repurposed</td><td align="center">N</td><td align="center">&nbsp;</td>
+		</tr><tr class="rows" valign="bottom">
+			<td align="center">Out Of Service</td><td align="center">N</td><td align="center">&nbsp;</td>
+		</tr><tr class="rows" valign="bottom" bgcolor="LightGrey">
+			<td align="center">Inactive Exception</td><td align="center">N</td><td align="center">&nbsp;</td>
+		</tr><tr class="rows" valign="bottom">
+			<td align="center">Noticed Inactive</td><td align="center">N</td><td align="center">&nbsp;</td>
+		</tr><tr class="rows" valign="bottom" bgcolor="LightGrey">
+			<td align="center">Defined Inactive</td><td align="center">N</td><td align="center">&nbsp;</td>
+		</tr><tr class="rows" valign="bottom">
+			<td align="center">Low Producing</td><td align="center">N</td><td align="center">&nbsp;</td>
+		</tr>
+	</table>
+</div>
+                                <br />
+                                <div>
+	<table class="mygrdContent" cellspacing="0" rules="all" aria-label="Production Calculations" border="1" id="GridViewGOR">
+		<tr class="header">
+			<td colspan="2"><font size="3">BOE/MCFE/GOR Calculations<br>Production for Previous 12 Months</font></td>
+		</tr><tr class="header">
+			<th align="center" scope="col">May 2025 - April 2026</th><th align="center" scope="col"><font size="4"><i><a target="_blank" title="BOE/MCFE/GOR Calculation Explantion" href="desigInfo.aspx?path=calcs"><font color="white">i</font></a></i></font></th>
+		</tr><tr class="rows" valign="bottom">
+			<td align="center">Total Oil Produced (Barrels)</td><td align="center">0</td>
+		</tr><tr class="rows" valign="bottom" bgcolor="LightGrey">
+			<td align="center">Total Gas Produced (MCF)</td><td align="center">0</td>
+		</tr><tr class="rows" valign="bottom">
+			<td align="center">GOR</td><td align="center"></td>
+		</tr><tr class="rows" valign="bottom" bgcolor="LightGrey">
+			<td align="center">GOR Determination</td><td align="center">&nbsp;</td>
+		</tr><tr class="rows" valign="bottom">
+			<td align="center">Average BOE per Day</td><td align="center">0.000</td>
+		</tr><tr class="rows" valign="bottom" bgcolor="LightGrey">
+			<td align="center">Average MCFE per Day</td><td align="center">0.000</td>
+		</tr>
+	</table>
+</div>
+                                <br />
+                                <table style="width:255px;" border-collapse="collapse" border="1" cellpadding="4" cellspacing="0"><tr><td style="width:200px;" bgcolor="#000066"><span class="labelSmall"><font color="#ffffff">&nbsp;Federal Financial Assurance&nbsp;</font></span></td><td style="width:25px;" bgcolor="#000066"><span class="labelMedBold">&nbsp;<a title="Federal Financial Assurance Explanation" target="_blank" href="desigInfo.aspx?path=federal"><font color="white"><i>i</i></font></a>&nbsp;</span></td><td style="width:30px; text-align:center;"><span class="labelSmall"></span></td></tr></table>
+                                <br />
+                                <table style="width:255px;" border-collapse="collapse" border="1" cellpadding="4" cellspacing="0"><tr><td style="width:200px;" bgcolor="#000066"><span class="labelSmall"><font color="#ffffff">&nbsp;Tribal Well&nbsp;</font></span></td><td style="width:25px;" bgcolor="#000066"><span class="labelMedBold">&nbsp;<a title="Tribal Well Explanation" target="_blank" href="desigInfo.aspx?path=tribal"><font color="white"><i>i</i></font></a>&nbsp;</span></td><td style="width:30px; text-align:center;"><span class="labelSmall">No</span></td></tr></table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>          
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+    </form>  
+    <script type="text/javascript">
+        //Accordian
+        $('.accordion').each(function () {
+            var $accordian = $(this);
+            $accordian.find('.accordion-head').on('click', function () {
+                $(this).removeClass('open').addClass('close');
+                $accordian.find('.accordion-body').slideUp();
+                if (!$(this).next().is(':visible')) {
+                    $(this).removeClass('close').addClass('open');
+                    $(this).next().slideDown();
+                }
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        //Second Accordian
+        $('.accordion2').each(function () {
+            var $accordian2 = $(this);
+            $accordian2.find('.accordion2-head').on('click', function () {
+                $(this).removeClass('open').addClass('close');
+                $accordian2.find('.accordion2-body').slideUp();
+                if (!$(this).next().is(':visible')) {
+                    $(this).removeClass('close').addClass('open');
+                    $(this).next().slideDown();
+                }
+            });
+        });
+    </script>
+     <script type="text/javascript">
+         //Third Accordian
+         $('.accordion3').each(function () {
+             var $accordian3 = $(this);
+             $accordian3.find('.accordion3-head').on('click', function () {
+                 $(this).removeClass('open').addClass('close');
+                 $accordian3.find('.accordion3-body').slideUp();
+                 if (!$(this).next().is(':visible')) {
+                     $(this).removeClass('close').addClass('open');
+                     $(this).next().slideDown();
+                 }
+             });
+         });
+     </script>
+    </main>
+</body>
+</html>
