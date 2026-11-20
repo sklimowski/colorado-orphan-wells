@@ -2182,7 +2182,7 @@
      ],
      "notes": [
       "CPR News reported 576 wells added in FY24, of which Omimex Petroleum (339) and WME Yates (212) were 96%.  The derived figure for that year is 606.",
-      "A count can also fall when ECMC finds a responsible party or corrects a record, which this arithmetic can’t see."
+      "Wells also leave the list when ECMC finds a responsible party or corrects a record.  ECMC doesn’t publish those removals, so the implied additions run low by however many there were."
      ],
      "src": [
       "ar20",
