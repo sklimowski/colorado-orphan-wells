@@ -49,8 +49,6 @@ The scrapers also write `op/html_cache/` and `op/bradenhead_cache/`.  Those fold
 
 The current well list comes from ECMC's Orphaned Well Program shapefile, OWP_SHP.ZIP, which `main.py` downloads on every run.  [Ranked well list](#ranked-well-list) describes it and the CDPHE block group data the ranking uses.
 
-`ip/unplugged.json` is the August 2026 list as ECMC's ArcGIS map service returned it on 2026-08-05: an Esri JSON feature set with 1,396 records.  It's kept as the source of the August snapshot.  No script reads it now, because the map service requires a sign-in token.
-
 Scout cards come from the COGIS facility detail endpoint:
 
     https://ecmc.state.co.us/cogisdb/Facility/FacilityDetail?api=NNNNNNNN
