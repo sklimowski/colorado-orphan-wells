@@ -280,7 +280,7 @@ The pages serve readers of the article series, and they give ECMC Orphaned Well 
 
 - Every chart, table, and tile names its sources by id, and the Sources page lists each one with its link.  News reports are used only where no agency document gives a figure, and are marked as news.
 - A figure an agency didn't publish is `null` in the file.  The pages draw it as a gap labeled "not published" and never as zero.
-- "Derived" marks arithmetic on published totals, and the card states the arithmetic.  Total spending divided by wells plugged is labeled as that and not as a cost per well.
+- "Derived" marks figures worked out from published totals, and the card shows how.  Total spending divided by wells plugged is labeled as that and not as a cost per well.
 - Where two documents disagree, the pages show both figures and say so.
 - Some other-state rows are marked "carried."  They come from an October 2026 Subsurface Risk Analytics compilation of state agency pages and weren't re-checked against the agencies' documents for this file.
 - Figures were read from the linked documents, many of them PDFs read as extracted text.  A reader who relies on a number should check it against its source, which is one click from the chart.

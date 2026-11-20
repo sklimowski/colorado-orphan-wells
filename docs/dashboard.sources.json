@@ -1,7 +1,7 @@
 {
   "pages": {
     "dashboard.html": {
-      "sha256": "b12213e09e2a18b158aadd40f45b8a2a767663fb75b97175514860b66f287656"
+      "sha256": "568dc6fe7526057ef4997a0a81ec4cefa331a72674a8d3fa0357dc689ca8c7bd"
     },
     "map.html": {
       "sha256": "f40c558c1a8f2544043df5c33f0246b0b92a3530f95862823bd56967f0b98b3d"
@@ -56,7 +56,7 @@
       "sha256": "b3a9367e8744926b7a394069771c96d8c6ceb021947b3021c5457f9ea54ec733"
     },
     "program_data.json": {
-      "sha256": "6966f27d5022ac372f01fb0200bae47d0a44eea50acfe52bc989947be78002ce"
+      "sha256": "67ad5a1bd7e9bc75d45e68bd22bfaced377cb4b7004ec44233070343c33306e3"
     },
     "leaflet-1.9.4-leaflet.js": {
       "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"

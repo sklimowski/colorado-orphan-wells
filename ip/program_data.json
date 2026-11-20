@@ -162,7 +162,7 @@
    {
     "title": "Total spending per well plugged was {perWell} in {fy}, and plugging is one part of what that paid for.",
     "text": "That’s {total} divided by {wells} wells.  ECMC puts {mixPlug}% of {fy} spending on plugging, equipment, flowlines, and methane monitoring, {mixRecl}% on reclamation, and {mixEnv}% on sampling and remediation.",
-    "basis": "Arithmetic on two published totals.  It isn’t a unit cost, because the spending also covers sites with no well.",
+    "basis": "One published total divided by another.  It isn’t a unit cost, because the spending also covers sites with no well.",
     "derived": true,
     "see": [
      [
@@ -2093,7 +2093,7 @@
        ]
       }
      ],
-     "lead": "Arithmetic on two published totals.  It isn’t a cost per well: the spending also pays for sites with no well, remediation, reclamation, flowlines, and monitoring.",
+     "lead": "One published total divided by another.  It isn’t a cost per well: the spending also pays for sites with no well, remediation, reclamation, flowlines, and monitoring.",
      "notes": [
       "From FY23 the program worked several times as many sites as it plugged wells, which raises this ratio without any change in plugging cost."
      ],
@@ -3019,7 +3019,7 @@
       },
       {
        "b": "Wells plugged against the list.",
-       "t": "161 wells in FY26 against 996 on the list is 16% a year.  That’s arithmetic on two published figures and ignores wells added to the list.",
+       "t": "161 wells in FY26 against 996 on the list is 16% a year.  That’s one published figure divided by another, and it ignores wells added to the list.",
        "src": [
         "ar26"
        ]
