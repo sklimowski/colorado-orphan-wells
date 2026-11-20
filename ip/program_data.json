@@ -30,7 +30,7 @@
    {
     "title": "The list of unplugged orphaned wells grew in the same year.",
     "text": "The list held {invPrev} wells in {invPrevDate} and {inv} in {invDate}, {invChange} more, in a year when {wells} were plugged.  The first count in the annual reports was {invFirst} wells in {invFirstDate}.  The list also covers {sites} orphaned sites, and a site can have no well.",
-    "basis": "Counts at the start of each fiscal year, ECMC jurisdiction only.  ECMC’s annual reports don’t give wells added per year.  A September 2026 board slide charts wells added by calendar year without printing the values.",
+    "basis": "Counts at the start of each fiscal year, ECMC jurisdiction only.  ECMC’s annual reports don’t give wells added per year.  A September 2026 board slide charts fee and state wells added by calendar year without printing the values.",
     "see": [
      [
       "Orphan inventory",
@@ -1811,7 +1811,7 @@
    ]
   },
   "activity": {
-   "lead": "What the program did each year and how the list of orphaned wells and sites has moved.  ECMC reports wells plugged, sites worked, and tasks.  Its annual reports don’t give annual totals of sites closed or wells added.  A September 2026 board slide charts sites and wells added by calendar year without printing the values.",
+   "lead": "What the program did each year and how the list of orphaned wells and sites has moved.  ECMC reports wells plugged, sites worked, and tasks.  Its annual reports don’t give annual totals of sites closed or wells added.  A September 2026 board slide charts fee and state sites and wells added by calendar year without printing the values.",
    "cards": [
     {
      "id": "wellsplugged",
@@ -2115,7 +2115,7 @@
      "title": "Year-over-year change in the well count",
      "eyebrow": "derived",
      "derived": true,
-     "lead": "ECMC’s annual reports don’t give wells added or removed.  A September 2026 board slide charts wells added by calendar year without printing the values.  Net change is the difference between July 1 counts.  Implied additions add back the wells plugged that year, so they’re approximate.  For FY26, SRA counts 14 plugged wells with federal or tribal surface or minerals in ECMC’s records, and the July 1 lists exclude such wells.  Leaving them out gives about 195 for that year in place of 209.  The count matches Table 1 of the annual report to ECMC’s ownership fields.  Table 1 shows 164 sites with a well plugged against the report’s 161, so the 14 could be off by one or two.",
+     "lead": "ECMC’s annual reports don’t give wells added or removed.  A September 2026 board slide charts fee and state wells added by calendar year without printing the values.  Net change is the difference between July 1 counts.  Implied additions add back the wells plugged that year, so they’re approximate.  For FY26, SRA counts 14 plugged wells with federal or tribal surface or minerals in ECMC’s records, and the July 1 lists exclude such wells.  Leaving them out gives about 195 for that year in place of 209.  The count joins Table 1 of the annual report to the ownership fields in ECMC’s program shapefile.  Table 1 shows 164 sites with a well plugged against the report’s 161, so the 14 could be off by one or two.",
      "cols": [
       {
        "k": "d",
@@ -5915,7 +5915,7 @@
   ]
  },
  "gaps": [
-  "ECMC’s annual reports don’t give wells added to or removed from the orphan list each year, or annual totals of sites closed.  A September 2026 board slide charts sites and wells added by calendar year without printing the values.",
+  "ECMC’s annual reports don’t give wells added to or removed from the orphan list each year, or annual totals of sites closed.  A September 2026 board slide charts fee and state sites and wells added by calendar year without printing the values.",
   "ECMC doesn’t publish a current average cost to plug a well or close a site.  The only published averages are for 2012 to 2017.",
   "No official time series of total financial assurance held, or of assurance against estimated liability, was found.",
   "Wells plugged with federal money, as distinct from the program total, aren’t published.",
