@@ -2114,7 +2114,7 @@
      "title": "Year-over-year change in the well count",
      "eyebrow": "derived",
      "derived": true,
-     "lead": "ECMC doesn’t publish wells added or removed.  Net change is the difference between July 1 counts.  Implied additions add back the wells plugged that year, so they’re approximate.",
+     "lead": "ECMC doesn’t publish wells added or removed.  Net change is the difference between July 1 counts.  Implied additions add back the wells plugged that year, so they’re approximate.  For FY26, 14 of the 161 wells plugged have federal or tribal surface or minerals in ECMC’s records, and the July 1 lists exclude such wells.  Leaving them out gives about 195 for that year in place of 209.",
      "cols": [
       {
        "k": "d",
@@ -2269,7 +2269,7 @@
       },
       {
        "b": "Commission docket.",
-       "t": "ECMC staff filed an enforcement application against K.P. Kauffman Company Inc. on July 23, 2026, as Cause 1V, Docket 260700198.  It asks the Commission to foreclose the operator’s financial assurance and to authorize the Director to declare its wells orphaned.  The notice set a hearing for November 5, 2026, subject to change.  A staff motion of September 1 calls the company operator of record for 1,575 wells and facilities.  The filings read don’t give the 1,054 figure, and the docket showed no order on November 19, 2026.",
+       "t": "ECMC staff filed an enforcement application against K.P. Kauffman Company Inc. on July 23, 2026, as Cause 1V, Docket 260700198.  It asks the Commission to foreclose the operator’s financial assurance and to authorize the Director to declare its wells orphaned.  Exhibit A to a staff motion of September 1 lists 1,575 wells with the company as operator of record, from a facility search dated July 13, 2026.  Of those, 1,164 were neither plugged nor abandoned locations, and 1,055 of the 1,164 have fee or state minerals (derived).  No filing read gives the 1,054 figure or says how it was counted.  The docket showed no order and no filing after September 22 when checked on November 19, 2026.",
        "src": [
         "kpk1v"
        ]
