@@ -30,7 +30,7 @@
    {
     "title": "The list of unplugged orphaned wells grew in the same year.",
     "text": "The list held {invPrev} wells in {invPrevDate} and {inv} in {invDate}, {invChange} more, in a year when {wells} were plugged.  The first count in the annual reports was {invFirst} wells in {invFirstDate}.  The list also covers {sites} orphaned sites, and a site can have no well.",
-    "basis": "Counts at the start of each fiscal year, ECMC jurisdiction only.  ECMC doesn’t publish wells added per year.",
+    "basis": "Counts at the start of each fiscal year, ECMC jurisdiction only.  ECMC’s annual reports don’t give wells added per year.  A September 2026 board slide charts wells added by calendar year without printing the values.",
     "see": [
      [
       "Orphan inventory",
@@ -41,7 +41,8 @@
     "src": [
      "ar26",
      "ar25",
-     "ar18"
+     "ar18",
+     "owme26"
     ]
    },
    {
@@ -1810,7 +1811,7 @@
    ]
   },
   "activity": {
-   "lead": "What the program did each year and how the list of orphaned wells and sites has moved.  ECMC reports wells plugged, sites worked, and tasks.  It doesn’t publish annual totals of sites closed or wells added.",
+   "lead": "What the program did each year and how the list of orphaned wells and sites has moved.  ECMC reports wells plugged, sites worked, and tasks.  Its annual reports don’t give annual totals of sites closed or wells added.  A September 2026 board slide charts sites and wells added by calendar year without printing the values.",
    "cards": [
     {
      "id": "wellsplugged",
@@ -2114,7 +2115,7 @@
      "title": "Year-over-year change in the well count",
      "eyebrow": "derived",
      "derived": true,
-     "lead": "ECMC doesn’t publish wells added or removed.  Net change is the difference between July 1 counts.  Implied additions add back the wells plugged that year, so they’re approximate.  For FY26, 14 of the 161 wells plugged have federal or tribal surface or minerals in ECMC’s records, and the July 1 lists exclude such wells.  Leaving them out gives about 195 for that year in place of 209.",
+     "lead": "ECMC’s annual reports don’t give wells added or removed.  A September 2026 board slide charts wells added by calendar year without printing the values.  Net change is the difference between July 1 counts.  Implied additions add back the wells plugged that year, so they’re approximate.  For FY26, SRA counts 14 plugged wells with federal or tribal surface or minerals in ECMC’s records, and the July 1 lists exclude such wells.  Leaving them out gives about 195 for that year in place of 209.  The count matches Table 1 of the annual report to ECMC’s ownership fields.  Table 1 shows 164 sites with a well plugged against the report’s 161, so the 14 could be off by one or two.",
      "cols": [
       {
        "k": "d",
@@ -2192,7 +2193,8 @@
       "ar24",
       "ar25",
       "ar26",
-      "cpr24"
+      "cpr24",
+      "owme26"
      ]
     },
     {
@@ -2269,7 +2271,7 @@
       },
       {
        "b": "Commission docket.",
-       "t": "ECMC staff filed an enforcement application against K.P. Kauffman Company Inc. on July 23, 2026, as Cause 1V, Docket 260700198.  It asks the Commission to foreclose the operator’s financial assurance and to authorize the Director to declare its wells orphaned.  Exhibit A to a staff motion of September 1 lists 1,575 wells with the company as operator of record, from a facility search dated July 13, 2026.  Of those, 1,164 were neither plugged nor abandoned locations, and 1,055 of the 1,164 have fee or state minerals (derived).  No filing read gives the 1,054 figure or says how it was counted.  The docket showed no order and no filing after September 22 when checked on November 19, 2026.",
+       "t": "ECMC staff filed an enforcement application against K.P. Kauffman Company Inc. on July 23, 2026, as Cause 1V, Docket 260700198.  It asks the Commission to find violations and assess a penalty, and to have the Director foreclose the operator’s financial assurance if the operator doesn’t pay or return to compliance within 35 days of an order.  It also asks the Commission to authorize, but not require, the Director to declare the operator’s wells orphaned.  Exhibit A to a staff motion of September 1 lists 1,575 wells with the company as operator of record, from a facility search dated July 13, 2026.  Of those, 1,164 carry a facility status other than PA or AL, read here as plugged and abandoned and as abandoned location, and 1,055 of the 1,164 have fee or state minerals (derived).  No filing read gives the 1,054 figure or says how it was counted.  The docket showed no order and no filing after September 22 when checked on November 19, 2026.",
        "src": [
         "kpk1v"
        ]
@@ -5913,7 +5915,7 @@
   ]
  },
  "gaps": [
-  "ECMC doesn’t publish wells added to or removed from the orphan list each year, or annual totals of sites closed.",
+  "ECMC’s annual reports don’t give wells added to or removed from the orphan list each year, or annual totals of sites closed.  A September 2026 board slide charts sites and wells added by calendar year without printing the values.",
   "ECMC doesn’t publish a current average cost to plug a well or close a site.  The only published averages are for 2012 to 2017.",
   "No official time series of total financial assurance held, or of assurance against estimated liability, was found.",
   "Wells plugged with federal money, as distinct from the program total, aren’t published.",
