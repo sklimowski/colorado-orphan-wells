@@ -1,10 +1,12 @@
 # colorado-orphan-wells
 
-Scrapers and output tables for Colorado's unplugged orphaned oil and gas wells, built from public records published by the Colorado Energy and Carbon Management Commission (ECMC).  The data supports an independent article series by Subsurface Risk Analytics on well integrity and plugging priority.  A link to the series will be added here.
+Colorado's unplugged orphaned oil and gas wells are all on the public record.  The record is spread across a shapefile and two web pages per well, published by the Colorado Energy and Carbon Management Commission (ECMC).  This repo collects it into CSV files that join on a common API number, so you don't have to click through every well by hand.
 
-The repo covers every well on ECMC's current unplugged orphan well list.  For each well it pulls the COGIS scout card (status, dates, depths, casing, and cement) and the bradenhead test history, then writes CSV files that join on a common API number.
+The data supports an independent article series by Subsurface Risk Analytics on well integrity and plugging priority.  A link to the series will be added here.
 
-Two pages are in `docs/`.  `dashboard.html` puts the well tables beside the Orphaned Well Program's published record: funding and spending, plugging activity, federal grants, legislation, and figures from other states, each linked to its source.  It also holds a map, a well list, and a printable sheet for each well.  `map.html` is the map on its own.  [Dashboard and map](#dashboard-and-map) describes them.
+The repo covers every well on ECMC's current unplugged orphan well list.  For each one it pulls the COGIS scout card (status, dates, depths, casing, and cement) and the bradenhead test history.
+
+Two pages in `docs/` are for anyone who'd rather not open a CSV.  `dashboard.html` puts the well tables beside the Orphaned Well Program's published record: funding and spending, plugging activity, federal grants, legislation, and figures from other states, each linked to its source.  It also holds a map, a well list, and a printable sheet for each well.  `map.html` is the map on its own.  [Dashboard and map](#dashboard-and-map) describes them.
 
 ## Repository layout
 
@@ -43,11 +45,13 @@ colorado-orphan-wells/
     └── ...                      review procedure and code review records
 ```
 
-The scrapers also write `op/html_cache/` and `op/bradenhead_cache/`.  Those folders aren't in the repo, and a fresh run rebuilds them.
+The scrapers also write `op/html_cache/` and `op/bradenhead_cache/`.  Those folders aren't in the repo, and a fresh run rebuilds them, one patient request at a time.
 
 ## Data sources
 
 The current well list comes from ECMC's Orphaned Well Program shapefile, OWP_SHP.ZIP, which `main.py` downloads on every run.  [Ranked well list](#ranked-well-list) describes it and the CDPHE block group data the ranking uses.
+
+`ip/unplugged.json` is the August 2026 list as ECMC's ArcGIS map service returned it on 2026-08-05: an Esri JSON feature set with 1,396 records.  It stays in the repo as the source of the August snapshot.  No script reads it anymore, because the map service has since started asking for a sign-in token and the scripts don't have one.
 
 Scout cards come from the COGIS facility detail endpoint:
 
@@ -59,7 +63,7 @@ Bradenhead test histories come from:
 
 ### API number formats
 
-The sources write the same API number three ways.
+The sources write the same API number three ways, which is two more than a join needs.
 
 | Where | Column | Example |
 |---|---|---|
@@ -67,13 +71,13 @@ The sources write the same API number three ways.
 | Ranked list and all scraper outputs | `API_10` | `05-123-09299` |
 | COGIS URLs | `api=` | `12309299` |
 
-The COGIS endpoints want the 8 digit county code and sequence with no dashes and no `05` state prefix.  A dashed API returns a "could Not be found" page rather than an HTTP error, so both scrapers check that a page holds real well content before caching it.  To join the ECMC list to the other tables, prefix `APInumber` with `05-`.
+The COGIS endpoints want the 8 digit county code and sequence with no dashes and no `05` state prefix.  Send a dashed API and you get a "could Not be found" page (the capitalization is the page's) instead of an HTTP error, so a scraper that trusts the status code will cheerfully cache a page about nothing.  Both scrapers check that a page holds real well content before caching it.  To join the ECMC list to the other tables, prefix `APInumber` with `05-`.
 
 ## Running the scripts
 
-Requires Python 3.13 and `requests` (`pip install -r requirements.txt`).  The scripts find `ip/` and `op/` relative to their own location, so they can be run from any folder.
+You need Python 3.13 and `requests` (`pip install -r requirements.txt`).  The scripts find `ip/` and `op/` relative to their own location, so they run from any folder.
 
-To refresh everything from the latest public data, run:
+To refresh everything from the latest public data:
 
     python main.py --contact you@example.org
 
@@ -83,10 +87,9 @@ To refresh everything from the latest public data, run:
 2. Runs `build_ranked_wells.py`, which writes `ip/CO_Orphan_Wells_EJ_Ranked_Wells.csv`, and logs the wells added to and removed from the list since the last run, by API number.
 3. Runs `owp2csv.py`, which writes the unplugged records from the zip to `op/ecmc_unplugged_orphan_wells.csv`.
 4. Runs `cogis_scraper.py`, which writes `op/cogis_scout_data.csv`, `op/cogis_casing.csv`, and `op/cogis_additional_cement.csv`, then `bradenhead_scraper.py`, which writes `op/bradenhead_tests.csv` and `op/bradenhead_summary.csv`.
-
 5. Runs `build_dashboard.py`, which checks that every table describes the same wells and then writes `docs/dashboard.html` and `docs/map.html`.
 
-Both scrapers fetch again any cached page older than `--max-age-days`, 30 by default, so wells that stay on the list get current data too.  Every output is written fresh from the current list, so a well that leaves the list drops out of every table.  Its cached pages stay in `op/html_cache/` and `op/bradenhead_cache/` unless you pass `--prune-cache`, which deletes cached pages for wells no longer on the list after the scrapers finish.  `--skip-scrapers` stops after step 3, so it doesn't rebuild the pages either.
+Both scrapers fetch again any cached page older than `--max-age-days`, 30 by default, so wells that stay on the list get current data too.  Every output is written fresh from the current list, so a well that leaves the list drops out of every table.  Its cached pages stay behind in `op/html_cache/` and `op/bradenhead_cache/` unless you pass `--prune-cache`, which deletes cached pages for wells no longer on the list after the scrapers finish.  `--skip-scrapers` stops after step 3, so it doesn't rebuild the pages either.
 
 Each script also runs on its own.  The scrapers read `ip/CO_Orphan_Wells_EJ_Ranked_Wells.csv` by default.  To use a different well list or output folder, pass them in that order:
 
@@ -94,11 +97,13 @@ Each script also runs on its own.  The scrapers read `ip/CO_Orphan_Wells_EJ_Rank
 
 The input CSV only needs an `API_10` column in `05-CCC-SSSSS` form.  A malformed API number is logged and the well gets a row with `fetched` set to `False`.  `owp2csv.py` takes an input zip and output CSV the same way.  Run alone, the scrapers reuse cached pages however old they are unless you pass `--max-age-days`.  Each script has `--help`.
 
-Each scraper waits 1 second after every request, so a run that fetches every well takes at least as many seconds as there are wells, for each scraper.  Timeouts, connection errors, and HTTP 429 or 5xx responses are retried twice more with a longer wait, and anything that still fails is logged with its reason.  Pages are cached under their 8 digit API number, and only pages with real well content are cached.  A rerun reads from the cache and only fetches wells that aren't there yet, or whose pages are older than `--max-age-days`, so a stopped run picks up where it left off.  If a page can't be fetched again, the cached copy is used and keeps its old date.  `fetched_at` and `bh_fetched_at` come from the cache files' timestamps, so if you copy a cache, keep the timestamps.
+Each scraper waits 1 second after every request, so a run that fetches every well takes at least as many seconds as there are wells, for each scraper.  The pause is there on purpose, because ECMC's site is a public resource and nobody needs this data in a hurry.  A full run is a good time to go do something else.
 
-The scrapers identify themselves to ECMC with a User-Agent header.  Give it a contact address so ECMC can reach you about your requests, either with `--contact you@example.org` or by setting the `ORPHAN_WELLS_CONTACT` environment variable.  Without one, the scripts still run and log a warning.
+Timeouts, connection errors, and HTTP 429 or 5xx responses are retried twice more with a longer wait, and anything that still fails is logged with its reason.  Pages are cached under their 8 digit API number, and only pages with real well content are cached.  A rerun reads from the cache and only fetches wells that aren't there yet, or whose pages are older than `--max-age-days`, so a run cut short by a dropped connection or a closed laptop picks up where it left off.  If a page can't be fetched again, the cached copy is used and keeps its old date.  `fetched_at` and `bh_fetched_at` come from the cache files' timestamps, so if you copy a cache, keep the timestamps, or every page will claim it was fetched the day you moved it.
 
-Output CSVs are written to a temporary file and renamed into place, so an interrupted run leaves the previous file intact.
+The scrapers identify themselves to ECMC with a User-Agent header.  Give it a contact address so ECMC can reach you about your requests, either with `--contact you@example.org` or by setting the `ORPHAN_WELLS_CONTACT` environment variable.  Without one, the scripts still run and log a warning, but an address is the polite way to send a script to someone else's server.
+
+Output CSVs are written to a temporary file and renamed into place, so an interrupted run leaves you the previous file and not half of a new one.
 
 ## Development
 
@@ -110,9 +115,9 @@ Install the tools with `pip install -r requirements-dev.txt`, then from the repo
     ruff format --check .
     mypy
 
-The regression tests rerun each script over the saved inputs and require the output to match the committed files byte for byte.  The ranked list and ECMC table tests need the downloads in `ip/downloads/` and skip themselves unless the files' checksums match `ip/CO_Orphan_Wells_EJ_Ranked_Wells.sources.json`.  The dashboard and map test needs the same downloads, the two saved Leaflet files, and the Census county zip, and it reads the committed `ip/program_data.json`.  The scraper tests need complete page caches in `op/` and skip themselves otherwise, so a test run never contacts ECMC.
+The regression tests are strict.  They rerun each script over the saved inputs and require the output to match the committed files byte for byte, so a stray trailing space counts as a failure.  The ranked list and ECMC table tests need the downloads in `ip/downloads/` and skip themselves unless the files' checksums match `ip/CO_Orphan_Wells_EJ_Ranked_Wells.sources.json`.  The dashboard and map test needs the same downloads, the two saved Leaflet files, and the Census county zip, and it reads the committed `ip/program_data.json`.  The scraper tests need complete page caches in `op/` and skip themselves otherwise, so a test run never contacts ECMC.
 
-`tests/test_well_set.py` checks that the committed tables describe the same wells.  The ranked list defines the set.  The ECMC table, `cogis_scout_data.csv`, and `bradenhead_summary.csv` must hold exactly those API numbers once each, the casing, additional cement, and bradenhead test tables may hold only wells from the set, and every well on the ranked list needs coordinates inside Colorado.  It reads only committed files, so it always runs.  A failure after a refresh usually means the ranked list was rebuilt without rerunning the scrapers.  The check is `build_dashboard.well_set_problems`, the same function `build_dashboard.py` runs before it writes a page.
+`tests/test_well_set.py` checks that the committed tables describe the same wells.  The ranked list defines the set.  The ECMC table, `cogis_scout_data.csv`, and `bradenhead_summary.csv` must hold exactly those API numbers once each, the casing, additional cement, and bradenhead test tables may hold only wells from the set, and every well on the ranked list needs coordinates inside Colorado.  It reads only committed files, so it always runs.  If it fails after a refresh, the usual cause is a ranked list that was rebuilt without rerunning the scrapers.  The check is `build_dashboard.well_set_problems`, the same function `build_dashboard.py` runs before it writes a page.
 
 `docs/code_review_procedure.md` describes the review these checks support.
 
@@ -164,7 +169,7 @@ TSTM counts as above zero.  ECMC's testing instructions use it for a shut-in pre
 
 The order is a convention of this dataset, not an ECMC ranking.  Liquid flow comes first because Rule 419 requires action when a well flows liquids or continuous gas from the bradenhead annulus.  Pressure comes second because ECMC's bradenhead operator guidance (last updated April 29, 2025) defines sustained casing pressure as annulus pressure that won't blow down to zero or builds up after being bled down.  The pressure flags use 0 psi rather than the Rule 419 action thresholds, which depend on surface casing depth and area orders, so they're stricter than the rule in most of the state.  No class here is an ECMC compliance finding.
 
-Down to 0 is the hardest code to read.  Form 17 lists it as a flow code without a definition, and the plain reading is that the annulus flowed and then stopped during the test.  Operators don't seem to use it consistently: most test rows coded Down to 0 also record an initial surface casing pressure of 0 psi.  A well whose only recorded flow is Down to 0 falls in class 2 if its pressure persisted or rebuilt, and in class 4 otherwise.  Class 4 also holds wells whose flow started as Whisper, Surge, Continuous, or Gas and had stopped by the end of the test.
+Down to 0 is the hardest code to read, and the form doesn't help.  Form 17 lists it as a flow code without a definition, and the plain reading is that the annulus flowed and then stopped during the test.  Operators don't seem to use it consistently: most test rows coded Down to 0 also record an initial surface casing pressure of 0 psi.  A well whose only recorded flow is Down to 0 falls in class 2 if its pressure persisted or rebuilt, and in class 4 otherwise.  Class 4 also holds wells whose flow started as Whisper, Surge, Continuous, or Gas and had stopped by the end of the test.
 
 Sources: [Form 17, rev. 11/2020](https://ecmc.state.co.us/documents/reg/Forms/PDF_Forms/Form17_11_2020.pdf); [Bradenhead Testing and Reporting Instructions, rev. 10/18/2018](https://ecmc.state.co.us/documents/reg/OpGuidance/Bradenhead%20Testing%20Instructions%2020181018.pdf); [ECMC operator guidance on bradenhead monitoring and testing](https://ecmc.colorado.gov/sites/ecmc/files/documents/ECMC_operator_guidance_Bradenhead_Monitoring_Testing_Reporting.pdf), which also quotes Rule 419.b(4).
 
@@ -205,7 +210,7 @@ Other columns: `DI_Type` is CDPHE's `DIType` for DI wells, `DI_Criteria_Count` i
 
 The August 2026 ranked list of 1,396 wells, built on 2026-08-05 with an earlier version of this method, has been replaced by `ip/CO_Orphan_Wells_EJ_Ranked_Wells.csv` and isn't in the repo.  Rebuilding the same 1,396 wells with the current script changes five things.
 
-DI status.  The August build counted a block group as DI only when CDPHE's `D_I_C` field equaled 1.  `D_I_C` holds the number of criteria met, so DI block groups meeting two or more criteria were scored as non-DI, as were the tribal block groups, where `D_I_C` is 0.  That affected 41 wells: 20 in Kiowa County, 8 in Baca, 7 in Moffat, 4 on tribal land in La Plata and Montezuma, 1 in Fremont, and 1 in Weld.  `DI_Criteria_Count` also read 0 for wells meeting one criterion.  With the fix, 674 of the 1,396 wells are in DI communities, up from 633.
+DI status.  The August build counted a block group as DI only when CDPHE's `D_I_C` field equaled 1.  The field name reads like a yes/no flag, but `D_I_C` holds the number of criteria met, so DI block groups meeting two or more criteria were scored as non-DI, as were the tribal block groups, where `D_I_C` is 0.  That affected 41 wells: 20 in Kiowa County, 8 in Baca, 7 in Moffat, 4 on tribal land in La Plata and Montezuma, 1 in Fremont, and 1 in Weld.  `DI_Criteria_Count` also read 0 for wells meeting one criterion.  With the fix, 674 of the 1,396 wells are in DI communities, up from 633.
 
 Density.  The August build divided by CDPHE's `Sqmiles` field, which is rounded to whole square miles and is 0 for 2,369 of the 4,058 block groups.  Wells in those block groups got a density of 0.  The script now computes area from the polygon.
 
@@ -305,9 +310,9 @@ The ranked list defines the well set.  Before it writes anything, `build_dashboa
 
 The outputs are a snapshot of ECMC records as of the last run.  `ip/CO_Orphan_Wells_EJ_Ranked_Wells.sources.json` records when the well list was retrieved, and `fetched_at` and `bh_fetched_at` record when each well's pages were saved.  ECMC updates well status, adds tests, and revises the orphan list, so a fresh run will give different results.
 
-Both scrapers parse page text with regular expressions keyed to the labels on the live pages.  If ECMC changes a label, the affected field comes back blank without an error, so check blank rates after any new run.
+Both scrapers parse page text with regular expressions keyed to the labels on the live pages.  Regular expressions don't complain when a label changes.  The affected field comes back blank without an error, so check blank rates after any new run.
 
-Values are reported as ECMC shows them.  The outputs don't correct or fill in missing operator data.
+Values are reported as ECMC shows them.  The outputs don't correct or fill in missing operator data, however tempting a given blank may be.
 
 ## License
 
@@ -315,4 +320,4 @@ The code is released under the MIT License (see `LICENSE`).  The underlying well
 
 ## Author
 
-Steven R. Klimowski, Subsurface Risk Analytics.  Questions and corrections are welcome through GitHub issues.
+Steven R. Klimowski, Subsurface Risk Analytics.  Questions and corrections are welcome through GitHub issues, corrections especially.
